@@ -106,5 +106,13 @@
       "secenekler": ["Venüs", "Mars", "Merkür", "Jüpiter"],
       "dogruCevap": "Venüs"
     }
+  ],
+  "Sosyal Bilgiler":[
+    {
+      "soru":"Bla bla bla",
+      "secenekler":["1","2","3","4"],
+      "dogruCevap":"1"
+    }
   ]
+  
 }
