@@ -107,4 +107,31 @@
       "dogruCevap": "Venüs"
     }
   ]
+    "Sosyal Bilgiler": [
+    {
+      "soru": "5 + 3 kaç eder?",
+      "secenekler": ["6", "7", "8", "9"],
+      "dogruCevap": "8"
+    },
+    {
+      "soru": "12 - 4 kaç eder?",
+      "secenekler": ["6", "7", "8", "9"],
+      "dogruCevap": "8"
+    },
+    {
+      "soru": "9 x 2 kaç eder?",
+      "secenekler": ["16", "17", "18", "19"],
+      "dogruCevap": "18"
+    },
+    {
+      "soru": "15 ÷ 3 kaç eder?",
+      "secenekler": ["4", "5", "6", "7"],
+      "dogruCevap": "5"
+    },
+    {
+      "soru": "20 - 6 kaç eder?",
+      "secenekler": ["12", "13", "14", "15"],
+      "dogruCevap": "14"
+    }
+  ],
 }
