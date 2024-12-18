@@ -107,7 +107,7 @@
       "dogruCevap": "Venüs"
     }
   ],
-    "Sosyal Bilgiler": [
+  "Sosyal Bilgiler": [
     {
       "soru": "Suyun kaynama noktası kaç derecedir?",
       "secenekler": ["90°C", "100°C", "110°C", "120°C"],
