@@ -2,135 +2,260 @@
   "Matematik": [
     {
       "soru": "5 + 3 kaç eder?",
-      "secenekler": ["6", "7", "8", "9"],
+      "secenekler": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
       "dogruCevap": "8"
     },
     {
       "soru": "12 - 4 kaç eder?",
-      "secenekler": ["6", "7", "8", "9"],
+      "secenekler": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
       "dogruCevap": "8"
     },
     {
       "soru": "9 x 2 kaç eder?",
-      "secenekler": ["16", "17", "18", "19"],
+      "secenekler": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
       "dogruCevap": "18"
     },
     {
       "soru": "15 ÷ 3 kaç eder?",
-      "secenekler": ["4", "5", "6", "7"],
+      "secenekler": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
       "dogruCevap": "5"
     },
     {
       "soru": "20 - 6 kaç eder?",
-      "secenekler": ["12", "13", "14", "15"],
+      "secenekler": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
       "dogruCevap": "14"
     }
   ],
   "Coğrafya": [
     {
       "soru": "Türkiye'nin başkenti nedir?",
-      "secenekler": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "secenekler": [
+        "İstanbul",
+        "Ankara",
+        "İzmir",
+        "Bursa"
+      ],
       "dogruCevap": "Ankara"
     },
     {
       "soru": "Dünyanın en yüksek dağı nedir?",
-      "secenekler": ["Everest", "Kilimanjaro", "Alp Dağları", "Himalaya"],
+      "secenekler": [
+        "Everest",
+        "Kilimanjaro",
+        "Alp Dağları",
+        "Himalaya"
+      ],
       "dogruCevap": "Everest"
     },
     {
       "soru": "Türkiye'nin en büyük gölü nedir?",
-      "secenekler": ["Van Gölü", "Beyşehir Gölü", "Tuz Gölü", "Göcek Gölü"],
+      "secenekler": [
+        "Van Gölü",
+        "Beyşehir Gölü",
+        "Tuz Gölü",
+        "Göcek Gölü"
+      ],
       "dogruCevap": "Van Gölü"
     },
     {
       "soru": "En büyük okyanus hangisidir?",
-      "secenekler": ["Atlantik", "Pasifik", "Hint", "Arktik"],
+      "secenekler": [
+        "Atlantik",
+        "Pasifik",
+        "Hint",
+        "Arktik"
+      ],
       "dogruCevap": "Pasifik"
     },
     {
       "soru": "Amazon Nehri hangi kıtada yer alır?",
-      "secenekler": ["Afrika", "Asya", "Avrupa", "Güney Amerika"],
+      "secenekler": [
+        "Afrika",
+        "Asya",
+        "Avrupa",
+        "Güney Amerika"
+      ],
       "dogruCevap": "Güney Amerika"
     }
   ],
   "Tarih": [
     {
       "soru": "Cumhuriyet ne zaman ilan edilmiştir?",
-      "secenekler": ["1923", "1920", "1921", "1925"],
+      "secenekler": [
+        "1923",
+        "1920",
+        "1921",
+        "1925"
+      ],
       "dogruCevap": "1923"
     },
     {
       "soru": "İstanbul'u fetheden Osmanlı padişahı kimdir?",
-      "secenekler": ["Fatih Sultan Mehmet", "Kanuni Sultan Süleyman", "Yavuz Sultan Selim", "III. Murad"],
+      "secenekler": [
+        "Fatih Sultan Mehmet",
+        "Kanuni Sultan Süleyman",
+        "Yavuz Sultan Selim",
+        "III. Murad"
+      ],
       "dogruCevap": "Fatih Sultan Mehmet"
     },
     {
       "soru": "İstiklal Marşı'nın yazarı kimdir?",
-      "secenekler": ["Ziya Gökalp", "Mehmet Akif Ersoy", "Necip Fazıl Kısakürek", "Namık Kemal"],
+      "secenekler": [
+        "Ziya Gökalp",
+        "Mehmet Akif Ersoy",
+        "Necip Fazıl Kısakürek",
+        "Namık Kemal"
+      ],
       "dogruCevap": "Mehmet Akif Ersoy"
     },
     {
       "soru": "Mısır'daki piramitler hangi dönemde yapılmıştır?",
-      "secenekler": ["Eski Mısır", "Yeni Mısır", "Orta Mısır", "Antik Roma"],
+      "secenekler": [
+        "Eski Mısır",
+        "Yeni Mısır",
+        "Orta Mısır",
+        "Antik Roma"
+      ],
       "dogruCevap": "Eski Mısır"
     },
     {
       "soru": "Kurtuluş Savaşı'nın başkomutanı kimdir?",
-      "secenekler": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Fevzi Çakmak", "Kazım Karabekir"],
+      "secenekler": [
+        "Mustafa Kemal Atatürk",
+        "İsmet İnönü",
+        "Fevzi Çakmak",
+        "Kazım Karabekir"
+      ],
       "dogruCevap": "Mustafa Kemal Atatürk"
     }
   ],
   "Fen Bilgisi": [
     {
       "soru": "Suyun kaynama noktası kaç derecedir?",
-      "secenekler": ["90°C", "100°C", "110°C", "120°C"],
+      "secenekler": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
       "dogruCevap": "100°C"
     },
     {
       "soru": "Hangi elementin simgesi O'dur?",
-      "secenekler": ["Oksijen", "Oturum", "Osmiyum", "Olivin"],
+      "secenekler": [
+        "Oksijen",
+        "Oturum",
+        "Osmiyum",
+        "Olivin"
+      ],
       "dogruCevap": "Oksijen"
     },
     {
       "soru": "Elektronların yükü nedir?",
-      "secenekler": ["Pozitif", "Negatif", "Nötr", "Yük yok"],
+      "secenekler": [
+        "Pozitif",
+        "Negatif",
+        "Nötr",
+        "Yük yok"
+      ],
       "dogruCevap": "Negatif"
     },
     {
       "soru": "Hangi gezegen Güneş'e en yakın olanıdır?",
-      "secenekler": ["Venüs", "Mars", "Merkür", "Satürn"],
+      "secenekler": [
+        "Venüs",
+        "Mars",
+        "Merkür",
+        "Satürn"
+      ],
       "dogruCevap": "Merkür"
     },
     {
       "soru": "En sıcak gezegen hangisidir?",
-      "secenekler": ["Venüs", "Mars", "Merkür", "Jüpiter"],
+      "secenekler": [
+        "Venüs",
+        "Mars",
+        "Merkür",
+        "Jüpiter"
+      ],
       "dogruCevap": "Venüs"
     }
   ],
   "Sosyal Bilgiler": [
     {
       "soru": "Suyun kaynama noktası kaç derecedir?",
-      "secenekler": ["90°C", "100°C", "110°C", "120°C"],
+      "secenekler": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
       "dogruCevap": "100°C"
     },
     {
       "soru": "Hangi elementin simgesi O'dur?",
-      "secenekler": ["Oksijen", "Oturum", "Osmiyum", "Olivin"],
+      "secenekler": [
+        "Oksijen",
+        "Oturum",
+        "Osmiyum",
+        "Olivin"
+      ],
       "dogruCevap": "Oksijen"
     },
     {
       "soru": "Elektronların yükü nedir?",
-      "secenekler": ["Pozitif", "Negatif", "Nötr", "Yük yok"],
+      "secenekler": [
+        "Pozitif",
+        "Negatif",
+        "Nötr",
+        "Yük yok"
+      ],
       "dogruCevap": "Negatif"
     },
     {
       "soru": "Hangi gezegen Güneş'e en yakın olanıdır?",
-      "secenekler": ["Venüs", "Mars", "Merkür", "Satürn"],
+      "secenekler": [
+        "Venüs",
+        "Mars",
+        "Merkür",
+        "Satürn"
+      ],
       "dogruCevap": "Merkür"
     },
     {
       "soru": "En sıcak gezegen hangisidir?",
-      "secenekler": ["Venüs", "Mars", "Merkür", "Jüpiter"],
+      "secenekler": [
+        "Venüs",
+        "Mars",
+        "Merkür",
+        "Jüpiter"
+      ],
       "dogruCevap": "Venüs"
     }
   ]
