@@ -106,5 +106,32 @@
       "secenekler": ["Venüs", "Mars", "Merkür", "Jüpiter"],
       "dogruCevap": "Venüs"
     }
+  ],
+    "Sosyal Bilgiler": [
+    {
+      "soru": "Suyun kaynama noktası kaç derecedir?",
+      "secenekler": ["90°C", "100°C", "110°C", "120°C"],
+      "dogruCevap": "100°C"
+    },
+    {
+      "soru": "Hangi elementin simgesi O'dur?",
+      "secenekler": ["Oksijen", "Oturum", "Osmiyum", "Olivin"],
+      "dogruCevap": "Oksijen"
+    },
+    {
+      "soru": "Elektronların yükü nedir?",
+      "secenekler": ["Pozitif", "Negatif", "Nötr", "Yük yok"],
+      "dogruCevap": "Negatif"
+    },
+    {
+      "soru": "Hangi gezegen Güneş'e en yakın olanıdır?",
+      "secenekler": ["Venüs", "Mars", "Merkür", "Satürn"],
+      "dogruCevap": "Merkür"
+    },
+    {
+      "soru": "En sıcak gezegen hangisidir?",
+      "secenekler": ["Venüs", "Mars", "Merkür", "Jüpiter"],
+      "dogruCevap": "Venüs"
+    }
   ]
 }
