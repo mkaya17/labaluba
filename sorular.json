@@ -2,7 +2,7 @@
   "Matematik": [
     {
       "soru": "5 + 3 kaç eder?",
-      "secenekler": ["6", "7", "8", "9"],
+      "secenekler": ["6", "7", "8", "10"],
       "dogruCevap": "8"
     },
     {
