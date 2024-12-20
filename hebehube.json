@@ -1015,8 +1015,8 @@
     {
       "soru": "Türkiye Cumhuriyeti hangi tarihte kurulmuştur?",
       "secenekler": [
-        "29 Ekim 1923",
         "23 Nisan 1920",
+        "29 Ekim 1923",
         "19 Mayıs 1919",
         "10 Kasım 1938"
       ],
@@ -1035,19 +1035,19 @@
     {
       "soru": "Türkiye Cumhuriyeti’nin ilk Başbakanı kimdir?",
       "secenekler": [
-        "İsmet İnönü",
         "Celal Bayar",
         "Ali Fethi Okyar",
-        "Mustafa Kemal Atatürk"
+        "Mustafa Kemal Atatürk",
+        "İsmet İnönü",
       ],
       "dogruCevap": "İsmet İnönü"
     },
     {
       "soru": "Lozan Antlaşması hangi tarihte imzalanmıştır?",
       "secenekler": [
-        "24 Temmuz 1923",
         "29 Ekim 1923",
         "23 Nisan 1920",
+        "24 Temmuz 1923",
         "11 Kasım 1922"
       ],
       "dogruCevap": "24 Temmuz 1923"
@@ -1065,10 +1065,10 @@
     {
       "soru": "Atatürk'ün Türk alfabesini tanıttığı Harf İnkılabı hangi yıl yapılmıştır?",
       "secenekler": [
-        "1928",
         "1934",
         "1925",
-        "1930"
+        "1930",
+        "1928",
       ],
       "dogruCevap": "1928"
     },
@@ -1094,10 +1094,10 @@
     },
     {
       "soru": "Medeni Kanun hangi tarihte kabul edilmiştir?",
-      "secenekler": [
-        "1926",
+      "secenekler": [ 
         "1923",
         "1934",
+        "1926",
         "1928"
       ],
       "dogruCevap": "1926"
@@ -1114,9 +1114,9 @@
     },
     {
       "soru": "Türkiye Cumhuriyeti’nin ilk çok partili seçimleri hangi yıl yapılmıştır?",
-      "secenekler": [
-        "1946",
+      "secenekler": [ 
         "1950",
+        "1946",
         "1930",
         "1961"
       ],
@@ -1144,11 +1144,11 @@
     },
     {
       "soru": "Cumhuriyet Halk Partisi hangi yıl kurulmuştur?",
-      "secenekler": [
-        "1923",
+      "secenekler": [  
         "1924",
         "1925",
-        "1930"
+        "1930",
+        "1923",
       ],
       "dogruCevap": "1923"
     },
