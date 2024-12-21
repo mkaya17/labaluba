@@ -14,8 +14,8 @@
          "soru":"Roma'nın ilk kralı kimdir?",
          "secenekler":[
             "Numa Pompilius",
-            "Romulus",
             "Tarquinius Superbus",
+            "Romulus",
             "Julius Caesar"
          ],
          "dogruCevap":"Romulus"
@@ -24,9 +24,9 @@
          "soru":"Roma İmparatorluğu’nun Batı kısmı ne zaman yıkılmıştır?",
          "secenekler":[
             "410",
-            "476",
             "1453",
-            "395"
+            "395",
+            "476"
          ],
          "dogruCevap":"476"
       },
@@ -43,9 +43,9 @@
       {
          "soru":"Roma'daki sınıfsal ayrımın ana grupları hangileriydi?",
          "secenekler":[
-            "Plepler ve Patriciler",
             "Eşraf ve Köylüler",
             "Asiller ve Burjuvalar",
+            "Plepler ve Patriciler",
             "Gladyatörler ve Senatörler"
          ],
          "dogruCevap":"Plepler ve Patriciler"
@@ -85,8 +85,8 @@
          "secenekler":[
             "Augustus",
             "Nero",
-            "Vespasianus",
-            "Trajan"
+            "Trajan",
+            "Vespasianus"
          ],
          "dogruCevap":"Vespasianus"
       },
@@ -95,17 +95,17 @@
          "secenekler":[
             "Kartaca",
             "Atina",
-            "Bizans (Konstantinopolis)",
+            "Bizans",
             "Alexandria"
          ],
-         "dogruCevap":"Bizans (Konstantinopolis)"
+         "dogruCevap":"Bizans"
       },
       {
          "soru":"Julius Caesar'ın ünlü sözü 'Veni, Vidi, Vici' hangi olayı ifade eder?",
          "secenekler":[
+            "Zela Savaşı zaferi",
             "Rubicon’u geçişi",
             "Pompey’e karşı zaferi",
-            "Zela Savaşı zaferi",
             "Kartaca’nın yıkılışı"
          ],
          "dogruCevap":"Zela Savaşı zaferi"
@@ -144,9 +144,9 @@
          "soru":"Roma İmparatorluğu’nun ünlü su kemerleri hangi amaçla kullanıldı?",
          "secenekler":[
             "Tarımsal sulama",
-            "Şehirlerde temiz su taşımak",
             "Ticaret yollarını genişletmek",
-            "Askerî sınırları güçlendirmek"
+            "Askerî sınırları güçlendirmek",
+            "Şehirlerde temiz su taşımak"
          ],
          "dogruCevap":"Şehirlerde temiz su taşımak"
       }
@@ -165,10 +165,10 @@
       {
          "soru":"Türk adının anlamı ilk kez hangi kaynakta yer almıştır?",
          "secenekler":[
-            "Çin Yıllıkları",
             "Orhun Yazıtları",
             "Divanü Lügat-it Türk",
-            "Kutadgu Bilig"
+            "Kutadgu Bilig",
+            "Çin Yıllıkları"
          ],
          "dogruCevap":"Çin Yıllıkları"
       },
@@ -176,8 +176,8 @@
          "soru":"İlk Türk devleti hangisidir?",
          "secenekler":[
             "Göktürkler",
-            "Hun İmparatorluğu",
             "Uygurlar",
+            "Hun İmparatorluğu",
             "Avarlar"
          ],
          "dogruCevap":"Hun İmparatorluğu"
@@ -186,9 +186,9 @@
          "soru":"Avrupa Hun Devleti'nin en güçlü hükümdarı kimdir?",
          "secenekler":[
             "Bumin Kağan",
-            "Attila",
             "Bilge Kağan",
-            "Mete Han"
+            "Mete Han",
+            "Attila"
          ],
          "dogruCevap":"Attila"
       },
@@ -205,12 +205,12 @@
       {
          "soru":"Göktürkler hangi hanedan tarafından kurulmuştur?",
          "secenekler":[
-            "Ashina",
+            "Asena",
             "Avar",
             "Hun",
             "Uygur"
          ],
-         "dogruCevap":"Ashina"
+         "dogruCevap":"Asena"
       },
       {
          "soru":"Orhun Yazıtları'nda adları geçen ünlü Türk devlet adamları kimlerdir?",
@@ -378,9 +378,9 @@
          "soru":"Hangi tarikat Ortaçağ'da Haçlı Seferleri sırasında hastane ve konaklama hizmetleri sunmuştur?",
          "secenekler":[
             "Tapınak Şövalyeleri",
-            "Hospitalier Şövalyeleri",
             "Cizvitler",
-            "Dominikenler"
+            "Dominikenler",
+            "Hospitalier Şövalyeleri"
          ],
          "dogruCevap":"Hospitalier Şövalyeleri"
       },
@@ -399,10 +399,10 @@
          "secenekler":[
             "Askerî lider",
             "Hür köylü",
-            "Toprak bağlı köle",
+            "Toprağa bağlı köle",
             "Derebeyi"
          ],
-         "dogruCevap":"Toprak bağlı köle"
+         "dogruCevap":"Toprağa bağlı köle"
       },
       {
          "soru":"Ortaçağ'da Haçlı Seferleri’nin ana amacı neydi?",
@@ -418,8 +418,8 @@
          "soru":"İngiltere ile Fransa arasında gerçekleşen Yüz Yıl Savaşları kaç yıl sürmüştür?",
          "secenekler":[
             "100 yıl",
-            "116 yıl",
             "96 yıl",
+            "116 yıl",
             "80 yıl"
          ],
          "dogruCevap":"116 yıl"
@@ -570,9 +570,9 @@
          "soru":"2. Dünya Savaşı’nı sona erdiren olaylardan biri olan atom bombası saldırısı hangi Japon şehirlerine yapılmıştır?",
          "secenekler":[
             "Tokyo ve Kyoto",
-            "Hiroşima ve Nagazaki",
             "Osaka ve Kobe",
-            "Nagasaki ve Fukuoka"
+            "Nagasaki ve Fukuoka",
+            "Hiroşima ve Nagazaki"
          ],
          "dogruCevap":"Hiroşima ve Nagazaki"
       },
@@ -642,18 +642,18 @@
          "soru":"Büyük Selçuklu Devleti hangi savaşla Anadolu'nun kapılarını Türklere açmıştır?",
          "secenekler":[
             "Dandanakan Savaşı",
-            "Malazgirt Savaşı",
             "Pasinler Savaşı",
-            "Yassıçemen Savaşı"
+            "Yassıçemen Savaşı",
+            "Malazgirt Savaşı"
          ],
          "dogruCevap":"Malazgirt Savaşı"
       },
       {
          "soru":"Malazgirt Savaşı hangi tarihte gerçekleşmiştir?",
          "secenekler":[
-            "1071",
             "1040",
             "1081",
+            "1071",
             "1176"
          ],
          "dogruCevap":"1071"
@@ -667,16 +667,6 @@
             "Sultan Alparslan"
          ],
          "dogruCevap":"Melikşah"
-      },
-      {
-         "soru":"Selçukluların eğitim ve bilim merkezi olarak bilinen medreseleri kurmaya başladıkları hükümdar kimdir?",
-         "secenekler":[
-            "Sultan Alparslan",
-            "Tuğrul Bey",
-            "Nizamülmülk",
-            "Melikşah"
-         ],
-         "dogruCevap":"Nizamülmülk"
       },
       {
          "soru":"Selçuklu Devleti'nin çöküşüne neden olan 1141 Katvan Savaşı'nda kimlerle savaşmışlardır?",
@@ -773,8 +763,8 @@
       {
          "soru":"Osmanlı Devleti'nin başkenti Bursa'dan sonra nereye taşınmıştır?",
          "secenekler":[
-            "Edirne",
             "İstanbul",
+            "Edirne",
             "Ankara",
             "Manisa"
          ],
@@ -804,9 +794,9 @@
          "soru":"Osmanlı Devleti’nin ilk deniz savaşı hangisidir?",
          "secenekler":[
             "İnebahtı Deniz Savaşı",
-            "Çeşme Baskını",
             "Venedik Savaşı",
-            "Koyunhisar Savaşı"
+            "Koyunhisar Savaşı",
+            "Çeşme Baskını"
          ],
          "dogruCevap":"Çeşme Baskını"
       },
@@ -894,9 +884,9 @@
          "soru":"Osmanlı Devleti’nde “Tımar Sistemi” hangi alanda uygulanmıştır?",
          "secenekler":[
             "Ticaret",
-            "Tarım",
             "Askerlik",
-            "Sanayi"
+            "Sanayi",
+            "Tarım"
          ],
          "dogruCevap":"Tarım"
       },
@@ -974,9 +964,9 @@
          "soru":"Osmanlı’da 'kapıkulu askerleri' neyi ifade eder?",
          "secenekler":[
             "Tımar sahipleri",
-            "Padişahın özel koruma birliği",
             "Kervansaray çalışanları",
-            "İsyancı birlikler"
+            "İsyancı birlikler",
+            "Padişahın özel koruma birliği"
          ],
          "dogruCevap":"Padişahın özel koruma birliği"
       },
@@ -993,8 +983,8 @@
       {
          "soru":"Osmanlı Devleti’nde “Yeniçeri Ocağı” hangi padişah döneminde kaldırılmıştır?",
          "secenekler":[
-            "III. Selim",
             "II. Mahmud",
+            "III. Selim",
             "I. Abdülhamid",
             "IV. Mehmet"
          ],
@@ -1085,10 +1075,10 @@
       {
          "soru":"Saltanat hangi tarihte kaldırılmıştır?",
          "secenekler":[
-            "1 Kasım 1922",
             "29 Ekim 1923",
             "23 Nisan 1920",
-            "3 Mart 1924"
+            "3 Mart 1924",
+            "1 Kasım 1922"
          ],
          "dogruCevap":"1 Kasım 1922"
       },
@@ -1135,9 +1125,9 @@
       {
          "soru":"Mustafa Kemal Atatürk'ün hayatını kaybettiği tarih nedir?",
          "secenekler":[
-            "10 Kasım 1938",
             "23 Nisan 1920",
             "29 Ekim 1938",
+            "10 Kasım 1938",
             "11 Kasım 1938"
          ],
          "dogruCevap":"10 Kasım 1938"
@@ -1177,18 +1167,18 @@
       {
          "soru":"Kristof Kolomb 1492 yılında hangi kıtayı keşfetmiştir?",
          "secenekler":[
-            "Amerika",
             "Asya",
             "Avrupa",
-            "Avustralya"
+            "Avustralya",
+            "Amerika"
          ],
          "dogruCevap":"Amerika"
       },
       {
          "soru":"Portekizli denizci Vasco da Gama, Ümit Burnu'nu aşarak hangi ülkeye ulaşmıştır?",
          "secenekler":[
-            "Hindistan",
             "Çin",
+            "Hindistan",
             "Japonya",
             "Endonezya"
          ],
@@ -1197,10 +1187,10 @@
       {
          "soru":"Coğrafi Keşifler’in ana nedenlerinden biri aşağıdakilerden hangisidir?",
          "secenekler":[
-            "Yeni ticaret yolları bulmak",
             "Sanayi Devrimi’ni hızlandırmak",
             "Dinsel yayılma",
-            "İpek Yolu’nu kontrol etmek"
+            "İpek Yolu’nu kontrol etmek",
+            "Yeni ticaret yolları bulmak"
          ],
          "dogruCevap":"Yeni ticaret yolları bulmak"
       },
@@ -1227,19 +1217,19 @@
       {
          "soru":"Coğrafi Keşifler döneminde Amerika'ya adını veren kaşif kimdir?",
          "secenekler":[
-            "Amerigo Vespucci",
             "Kristof Kolomb",
             "Ferdinand Macellan",
-            "John Cabot"
+            "John Cabot",
+            "Amerigo Vespucci"
          ],
          "dogruCevap":"Amerigo Vespucci"
       },
       {
          "soru":"Coğrafi Keşifler hangi Avrupa ülkesinin öncülüğünde başlamıştır?",
          "secenekler":[
-            "Portekiz",
             "İspanya",
             "Hollanda",
+            "Portekiz",
             "İngiltere"
          ],
          "dogruCevap":"Portekiz"
@@ -1257,8 +1247,8 @@
       {
          "soru":"Coğrafi Keşifler’in sonucunda, Avrupa'nın hangi kıtadaki sömürge faaliyetleri artmıştır?",
          "secenekler":[
-            "Amerika",
             "Asya",
+            "Amerika",
             "Afrika",
             "Avustralya"
          ],
@@ -1279,20 +1269,20 @@
       {
          "soru":"Antik Mısır'da ölülerin ruhlarını korumak için yapılan yapılar nelerdir?",
          "secenekler":[
-            "Piramidler",
             "Tapınaklar",
             "Mezar odaları",
+            "Piramitler",
             "Anıt sütunlar"
          ],
-         "dogruCevap":"Piramidler"
+         "dogruCevap":"Piramitler"
       },
       {
          "soru":"Antik Mısır’ın en uzun nehrinin adı nedir?",
          "secenekler":[
-            "Nil Nehri",
             "Amazon Nehri",
             "Tigris Nehri",
-            "Fırat Nehri"
+            "Fırat Nehri",
+            "Nil Nehri"
          ],
          "dogruCevap":"Nil Nehri"
       },
@@ -1309,9 +1299,9 @@
       {
          "soru":"Antik Mısır’da yazı sistemi olarak kullanılan alfabe nedir?",
          "secenekler":[
-            "Hiyeroglif",
             "Sanskritçe",
             "Latin Alfabesi",
+            "Hiyeroglif",
             "Çivi Yazısı"
          ],
          "dogruCevap":"Hiyeroglif"
@@ -1329,8 +1319,8 @@
       {
          "soru":"Antik Mısır'da güneş tanrısı olarak bilinen tanrının adı nedir?",
          "secenekler":[
-            "Ra",
             "Osiris",
+            "Ra",
             "Horus",
             "Set"
          ],
@@ -1359,10 +1349,10 @@
       {
          "soru":"Tutankamon’un mezarı hangi tarihte keşfedilmiştir?",
          "secenekler":[
-            "1922",
             "1905",
             "1935",
-            "1918"
+            "1918",
+            "1922"
          ],
          "dogruCevap":"1922"
       }
@@ -1371,10 +1361,10 @@
       {
          "soru":"İnka İmparatorluğu'nun başkenti hangi şehirde bulunuyordu?",
          "secenekler":[
-            "Cusco",
             "Machu Picchu",
             "Lima",
-            "Nazca"
+            "Nazca",
+            "Cusco"
          ],
          "dogruCevap":"Cusco"
       },
@@ -1401,19 +1391,19 @@
       {
          "soru":"İnka İmparatorluğu'nun en büyük fetihlerinden biri hangi bölgeyi kapsıyordu?",
          "secenekler":[
-            "And Dağları",
             "Amazon Ormanları",
             "Orta Amerika",
-            "Patagonya"
+            "Patagonya",
+            "And Dağları"
          ],
          "dogruCevap":"And Dağları"
       },
       {
          "soru":"İnka İmparatorluğu'nun kullandığı yazı sistemi hangisiydi?",
          "secenekler":[
-            "Kipu",
             "Hiyeroglif",
             "Çivi Yazısı",
+            "Kipu",
             "Alfabe"
          ],
          "dogruCevap":"Kipu"
@@ -1431,8 +1421,8 @@
       {
          "soru":"İnka İmparatorluğu hangi yüzyılda kuruldu?",
          "secenekler":[
-            "15. yüzyıl",
             "14. yüzyıl",
+            "15. yüzyıl",
             "16. yüzyıl",
             "13. yüzyıl"
          ],
@@ -1451,10 +1441,10 @@
       {
          "soru":"İnka İmparatorluğu'nun son hükümdarı kimdir?",
          "secenekler":[
-            "Atahualpa",
             "Pachacuti",
             "Manco Inca",
-            "Huayna Capac"
+            "Huayna Capac",
+            "Atahualpa"
          ],
          "dogruCevap":"Atahualpa"
       },
@@ -1473,8 +1463,8 @@
       {
          "soru":"Maya uygarlığı hangi kıtada gelişmiştir?",
          "secenekler":[
-            "Orta Amerika",
             "Güney Amerika",
+            "Orta Amerika",
             "Kuzey Amerika",
             "Afrika"
          ],
@@ -1503,10 +1493,10 @@
       {
          "soru":"Mayaların en önemli tanrılarından biri olan ve güneşi temsil eden tanrının adı nedir?",
          "secenekler":[
-            "Kinich Ahau",
             "Quetzalcoatl",
             "Huitzilopochtli",
-            "Ra"
+            "Ra",
+            "Kinich Ahau"
          ],
          "dogruCevap":"Kinich Ahau"
       },
@@ -1523,9 +1513,9 @@
       {
          "soru":"Maya uygarlığı hangi yüzyılda çökmeye başlamıştır?",
          "secenekler":[
-            "9. yüzyıl",
             "12. yüzyıl",
             "15. yüzyıl",
+            "9. yüzyıl",
             "10. yüzyıl"
          ],
          "dogruCevap":"9. yüzyıl"
@@ -1553,19 +1543,19 @@
       {
          "soru":"Maya uygarlığının gelişmesinde önemli bir yer tutan ve takvim, astronomi, matematik gibi alanlarda bilgili oldukları bir alan nedir?",
          "secenekler":[
-            "Astronomi",
             "Ticaret",
             "Sanat",
-            "Askeri strateji"
+            "Askeri strateji",
+            "Astronomi"
          ],
          "dogruCevap":"Astronomi"
       },
       {
          "soru":"Mayaların inşa ettiği en büyük piramitlerden biri hangi şehirde yer alır?",
          "secenekler":[
-            "Chichen Itza",
             "Tikal",
             "Palenque",
+            "Chichen Itza",
             "Uxmal"
          ],
          "dogruCevap":"Chichen Itza"
@@ -1575,9 +1565,9 @@
       {
          "soru":"Aztek İmparatorluğu'nun başkenti hangi şehirdi?",
          "secenekler":[
-            "Tenochtitlán",
             "Teotihuacan",
             "Chichen Itza",
+            "Tenochtitlán",
             "Cuzco"
          ],
          "dogruCevap":"Tenochtitlán"
@@ -1595,8 +1585,8 @@
       {
          "soru":"Aztekler hangi yazı sistemini kullanmışlardır?",
          "secenekler":[
-            "Piktografik yazı",
             "Çivi Yazısı",
+            "Piktografik yazı",
             "Alfabe",
             "Hiyeroglif"
          ],
@@ -1615,18 +1605,18 @@
       {
          "soru":"Aztekler, hangi doğal kaynakları kullanarak takvimlerini oluşturmuşlardır?",
          "secenekler":[
-            "Ay ve güneş",
             "Yıldızlar ve gezegenler",
             "Güneş ve gezegenler",
-            "Ay ve gezegenler"
+            "Ay ve gezegenler",
+            "Ay ve güneş"
          ],
          "dogruCevap":"Ay ve güneş"
       },
       {
          "soru":"Azteklerin en bilinen tapınak yapılarından biri olan ve büyük törenlerin yapıldığı piramidin adı nedir?",
          "secenekler":[
-            "Templo Mayor",
             "El Castillo",
+            "Templo Mayor",
             "Piramide del Sol",
             "Machu Picchu"
          ],
@@ -1643,21 +1633,21 @@
          "dogruCevap":"Moctezuma II"
       },
       {
-         "soru":"Aztekler, hangi hayvanları dini törenlerinde kurban olarak sunmuşlardır?",
+         "soru":"Aztekler, dini törenlerinde hangilerini kurban olarak sunarlardı?",
          "secenekler":[
-            "İnsanlar ve hayvanlar",
             "Kuşlar ve balıklar",
             "Koyun ve inekler",
-            "Kediler ve köpekler"
+            "Kediler ve köpekler",
+            "İnsanlar ve hayvanlar"
          ],
          "dogruCevap":"İnsanlar ve hayvanlar"
       },
       {
          "soru":"Aztekler hangi modern ülke sınırları içinde yer alıyordu?",
          "secenekler":[
-            "Meksika",
             "Peru",
             "Bolivya",
+            "Meksika",
             "Honduras"
          ],
          "dogruCevap":"Meksika"
@@ -1677,7 +1667,7 @@
       {
          "soru":"Anadolu'da en eski yerleşim alanlarından biri olan Çatalhöyük, hangi uygarlığa aittir?",
          "secenekler":[
-            "Hittitler",
+            "Hititler",
             "Frigler",
             "Urartular",
             "Neolitik Dönem halkı"
@@ -1710,25 +1700,25 @@
             "Yunan",
             "Frig",
             "Roma",
-            "Hittit"
+            "Hitit"
          ],
          "dogruCevap":"Yunan"
       },
       {
-         "soru":"Anadolu'da hititlerin başkenti hangi şehirde bulunuyordu?",
+         "soru":"Anadolu'da Hititlerin başkenti hangi şehirde bulunuyordu?",
          "secenekler":[
-            "Hattuşaş",
             "Çatalhöyük",
             "Troya",
+            "Hattuşaş",
             "Milet"
          ],
          "dogruCevap":"Hattuşaş"
       },
       {
-         "soru":"Hittitler, Anadolu'da hangi önemli savaşla ünlüdür?",
+         "soru":"Hititler, Anadolu'da hangi önemli savaşla ünlüdür?",
          "secenekler":[
-            "Kadeş Savaşı",
             "Troya Savaşı",
+            "Kadeş Savaşı",
             "Kızılırmak Savaşı",
             "Maraton Savaşı"
          ],
@@ -1747,15 +1737,15 @@
       {
          "soru":"Anadolu'da Friglerin kurduğu başkent nerede bulunuyordu?",
          "secenekler":[
-            "Gordion",
             "Miletos",
             "Hattuşaş",
-            "Troy"
+            "Troy",
+            "Gordion"
          ],
          "dogruCevap":"Gordion"
       },
       {
-         "soru":"Hittitlerin en önemli tanrılarından biri kimdir?",
+         "soru":"Hititlerin en önemli tanrılarından biri kimdir?",
          "secenekler":[
             "Teshub",
             "Ra",
@@ -1765,7 +1755,7 @@
          "dogruCevap":"Teshub"
       },
       {
-         "soru":"MÖ 1200 civarında Anadolu'yu etkileyen önemli bir halk hareketi hangisidir?",
+         "soru":"MÖ 1200 civarında Anadolu'yu etkileyen önemli halk hareketi hangisidir?",
          "secenekler":[
             "Deniz Halkları",
             "Frigler",
@@ -1777,9 +1767,9 @@
       {
          "soru":"İyonya'nın önemli şehirlerinden biri olan Efes, hangi antik uygarlığa aitti?",
          "secenekler":[
-            "Yunan",
             "Hittit",
             "Urartu",
+            "Yunan",
             "Frig"
          ],
          "dogruCevap":"Yunan"
@@ -1787,25 +1777,25 @@
       {
          "soru":"Anadolu'nun batısında en büyük ve en ünlü antik kent olan Troya, hangi uygarlığa aittir?",
          "secenekler":[
-            "Yunan",
+            "Truva",
             "Frig",
             "Urartu",
-            "Hittit"
+            "Hitit"
          ],
-         "dogruCevap":"Yunan"
+         "dogruCevap":"Truva"
       },
       {
          "soru":"Lydia uygarlığının en ünlü hükümdarı kimdir?",
          "secenekler":[
-            "Kroisos",
             "Midas",
             "Hammurabi",
-            "Alkibiades"
+            "Alkibiades",
+            "Kroisos"
          ],
          "dogruCevap":"Kroisos"
       },
       {
-         "soru":"Hittit İmparatorluğu'nun çöküşünden sonra Anadolu'yu etkisi altına alan uygarlık hangisidir?",
+         "soru":"Hitit İmparatorluğu'nun çöküşünden sonra Anadolu'yu etkisi altına alan uygarlık hangisidir?",
          "secenekler":[
             "Frigler",
             "Yunanlar",
@@ -1817,9 +1807,9 @@
       {
          "soru":"Anadolu'nun güneydoğusunda etkili olan Urartu uygarlığının başkenti nerede yer alıyordu?",
          "secenekler":[
-            "Van",
             "Ağrı",
             "Malatya",
+            "Van",
             "Diyarbakır"
          ],
          "dogruCevap":"Van"
@@ -1829,9 +1819,9 @@
       {
          "soru":"Fyodor Dostoyevski'nin en ünlü eserlerinden biri olan 'Suç ve Ceza' hangi yıl yayımlandı?",
          "secenekler":[
-            "1866",
             "1870",
             "1880",
+            "1866",
             "1855"
          ],
          "dogruCevap":"1866"
@@ -1849,10 +1839,10 @@
       {
          "soru":"Anton Çehov, hangi türdeki eserleriyle ünlüdür?",
          "secenekler":[
-            "Kısa hikayeler ve tiyatro",
             "Romanlar",
             "Şiirler",
-            "Denemeler"
+            "Denemeler",
+            "Kısa hikayeler ve tiyatro"
          ],
          "dogruCevap":"Kısa hikayeler ve tiyatro"
       },
@@ -1869,9 +1859,9 @@
       {
          "soru":"Anton Çehov'un yazdığı 'Vanya Dayı' adlı eser hangi türde bir tiyatro oyunudur?",
          "secenekler":[
-            "Drama",
             "Komedi",
             "Trajedi",
+            "Drama",
             "Melodram"
          ],
          "dogruCevap":"Drama"
@@ -1889,12 +1879,12 @@
       {
          "soru":"Aleksandr Puşkin'in yazdığı 'Eugene Onegin' adlı romanın türü nedir?",
          "secenekler":[
-            "Lirik roman",
-            "Epik şiir",
-            "Dünya dramı",
-            "Romantik hikaye"
+            "Epik",
+            "Dram",
+            "Lirik",
+            "Romantik"
          ],
-         "dogruCevap":"Lirik roman"
+         "dogruCevap":"Lirik"
       },
       {
          "soru":"İvan Turgenev'in yazdığı 'Babalar ve Oğullar' romanı hangi dönemi yansıtır?",
@@ -1907,7 +1897,7 @@
          "dogruCevap":"Rusya'da toplumsal değişim"
       },
       {
-         "soru":"Bunlardan hangisi Leo Tolstoy'un eserlerinden biridir?",
+         "soru":"Hangisi Leo Tolstoy'un eserlerinden biridir?",
          "secenekler":[
             "Karamazov Kardeşler",
             "Anna Karenina",
@@ -1929,29 +1919,29 @@
       {
          "soru":"Aleksandr Soljenitsin'in 'Gulag Takımadaları' adlı eseri, hangi tarihi dönemi konu alır?",
          "secenekler":[
-            "Sovyetler Birliği'nin Stalin dönemi",
             "Çarlık Rusyası",
+            "Sovyetler Birliği'nin Stalin dönemi",
             "I. Dünya Savaşı",
             "Napolyon Savaşları"
          ],
          "dogruCevap":"Sovyetler Birliği'nin Stalin dönemi"
       },
       {
-         "soru":"Dostoyevski'nin yazdığı 'The Brothers Karamazov' adlı eser hangi temayı işler?",
+         "soru":"Dostoyevski'nin yazdığı 'Karamazov Kardeşler' adlı eser hangi temayı işler?",
          "secenekler":[
-            "Din, ahlak ve insan doğası",
             "Savaş ve barış",
             "Bireysel özgürlük",
-            "Toplumsal eşitsizlik"
+            "Toplumsal eşitsizlik",
+            "Din, ahlak ve insan doğası"
          ],
          "dogruCevap":"Din, ahlak ve insan doğası"
       },
       {
          "soru":"Nikolay Gogol'ün en ünlü eserlerinden biri olan 'Ölü Canlar' adlı eser hangi türdedir?",
          "secenekler":[
-            "Sosyal eleştiri",
             "Romantik şiir",
             "Düşsel roman",
+            "Sosyal eleştiri",
             "Kısa hikaye"
          ],
          "dogruCevap":"Sosyal eleştiri"
@@ -1989,9 +1979,9 @@
       {
          "soru":"Vladimir Nabokov'un 'Lolita' adlı romanı hangi türde yazılmıştır?",
          "secenekler":[
-            "Psikolojik drama",
             "Romantik hikaye",
             "Komedi",
+            "Psikolojik drama",
             "Epik roman"
          ],
          "dogruCevap":"Psikolojik drama"
@@ -2009,10 +1999,10 @@
       {
          "soru":"Anton Çehov'un 'Üç Kız Kardeş' adlı oyununda ana karakterlerin en büyük arzusu nedir?",
          "secenekler":[
-            "Moskova'ya dönmek",
             "Aşkı bulmak",
             "Bir mirasa sahip olmak",
-            "Zenginlik ve ihtişam"
+            "Zenginlik ve ihtişam",
+            "Moskova'ya dönmek"
          ],
          "dogruCevap":"Moskova'ya dönmek"
       }
@@ -2031,8 +2021,8 @@
       {
          "soru":"Marcel Proust'un en bilinen eseri hangisidir?",
          "secenekler":[
-            "İzlediğim Zaman",
             "Swann'ın Tarafı",
+            "İzlediğim Zaman",
             "Germinal",
             "Yüce Evimiz"
          ],
@@ -2041,9 +2031,9 @@
       {
          "soru":"Albert Camus'nün 'Yabancı' adlı romanının ana karakteri kimdir?",
          "secenekler":[
-            "Meursault",
             "Raskolnikov",
             "Jean Valjean",
+            "Meursault",
             "Hugo"
          ],
          "dogruCevap":"Meursault"
@@ -2051,9 +2041,9 @@
       {
          "soru":"Gustave Flaubert'in ünlü romanı 'Madam Bovary' hangi türde yazılmıştır?",
          "secenekler":[
-            "Realizm",
             "Romantizm",
             "Modernizm",
+            "Realizm",
             "Sürrealizm"
          ],
          "dogruCevap":"Realizm"
@@ -2071,18 +2061,18 @@
       {
          "soru":"François Rabelais'nin en ünlü eseri hangisidir?",
          "secenekler":[
-            "Gargantua ve Pantagruel",
             "Kırmızı ve Siyah",
             "Büyük İskender",
-            "Düşler"
+            "Düşler",
+            "Gargantua ve Pantagruel"
          ],
          "dogruCevap":"Gargantua ve Pantagruel"
       },
       {
          "soru":"Voltaire'in yazdığı 'Candide' adlı eseri hangi türde bir eserdir?",
          "secenekler":[
-            "Felsefi mizah",
             "Tarihi roman",
+            "Felsefi mizah",
             "Epik şiir",
             "Biyografi"
          ],
@@ -2101,9 +2091,9 @@
       {
          "soru":"Paul Verlaine hangi edebiyat akımına ait bir şairdir?",
          "secenekler":[
-            "Sembolizm",
             "Romantizm",
             "Realizm",
+            "Sembolizm",
             "Fütürizm"
          ],
          "dogruCevap":"Sembolizm"
@@ -2121,20 +2111,20 @@
       {
          "soru":"Antoine de Saint-Exupéry'nin en ünlü eseri hangisidir?",
          "secenekler":[
-            "Küçük Prens",
             "Gezginler",
+            "Küçük Prens",
             "Yalnızlık",
-            "İnsanlar ve Yerler"
+            "İnsanlar ve Fareler"
          ],
          "dogruCevap":"Küçük Prens"
       },
       {
          "soru":"Gustave Flaubert'in 'Salammbô' adlı romanı hangi tarihi dönemi anlatır?",
          "secenekler":[
-            "Pön Savaşları",
             "Fransız Devrimi",
             "Rönesans dönemi",
-            "I. Dünya Savaşı"
+            "I. Dünya Savaşı",
+            "Pön Savaşları"
          ],
          "dogruCevap":"Pön Savaşları"
       },
@@ -2161,9 +2151,9 @@
       {
          "soru":"Simone de Beauvoir, hangi ünlü eseriyle feminizmin öncülerinden biri olarak kabul edilmiştir?",
          "secenekler":[
-            "İkinci Cins",
             "Yalnız Kadın",
             "Kadın ve Toplum",
+            "İkinci Cins",
             "Aşkın Metafizikleri"
          ],
          "dogruCevap":"İkinci Cins"
@@ -2183,9 +2173,9 @@
       {
          "soru":"Türk halk edebiyatında, genellikle aşk, kahramanlık, sevda ve güzellik gibi temalar işlenen uzun şiir türüne ne ad verilir?",
          "secenekler":[
-            "Destan",
             "Türkü",
             "Koşma",
+            "Destan",
             "Mani"
          ],
          "dogruCevap":"Destan"
@@ -2223,15 +2213,15 @@
       {
          "soru":"Halk şairlerinin ve ozanlarının en önemli araçlarından biri olan 'bağlama' hangi müzik aletini ifade eder?",
          "secenekler":[
-            "Saz",
             "Keman",
             "Ud",
+            "Saz",
             "Kanun"
          ],
          "dogruCevap":"Saz"
       },
       {
-         "soru":"Türk halk edebiyatında kahramanlık, yiğitlik ve destanlar gibi konuları işleyen tür hangisidir?",
+         "soru":"Türk halk edebiyatında kahramanlık, yiğitlik gibi konuları işleyen tür hangisidir?",
          "secenekler":[
             "Destan",
             "Mani",
@@ -2243,8 +2233,8 @@
       {
          "soru":"Türk halk edebiyatında yer alan ve genellikle türkü olarak söylenen halk şarkıları hangi duyguyu ifade eder?",
          "secenekler":[
-            "Sevda ve aşk",
             "Savaş ve kahramanlık",
+            "Sevda ve aşk",
             "Toplumsal eleştiriler",
             "Doğa ve hayvanlar"
          ],
@@ -2313,10 +2303,10 @@
       {
          "soru":"Türk halk edebiyatında, halk şairlerinin, şiirlerini müzikle birlikte söyledikleri, bir tür halk şarkısına ne ad verilir?",
          "secenekler":[
-            "Türkü",
             "Mani",
             "Destan",
-            "Koşma"
+            "Koşma",
+            "Türkü"
          ],
          "dogruCevap":"Türkü"
       }
@@ -2335,9 +2325,9 @@
       {
          "soru":"Realizm akımında hangi unsur ön plana çıkmaktadır?",
          "secenekler":[
-            "Gerçekçi betimlemeler ve toplumsal sorunlar",
             "Hayal gücü ve bireysel duygular",
             "Doğa ve manzara tasvirleri",
+            "Gerçekçi betimlemeler ve toplumsal sorunlar",
             "Mitoloji ve fantastik öğeler"
          ],
          "dogruCevap":"Gerçekçi betimlemeler ve toplumsal sorunlar"
@@ -2365,8 +2355,8 @@
       {
          "soru":"Hangi edebi akım, 'doğaya, halk kültürüne ve bireysel duygulara' büyük bir ilgi göstermektedir?",
          "secenekler":[
-            "Romantizm",
             "Barok",
+            "Romantizm",
             "Klasizm",
             "Realizm"
          ],
@@ -2405,9 +2395,9 @@
       {
          "soru":"Realizmin temsilcisi olan ve 'Germinal' adlı eseriyle tanınan Fransız yazar kimdir?",
          "secenekler":[
-            "Émile Zola",
             "Flaubert",
             "Hugo",
+            "Émile Zola",
             "Balzac"
          ],
          "dogruCevap":"Émile Zola"
@@ -2425,10 +2415,10 @@
       {
          "soru":"Hangi akım, sanatı ve edebiyatı mantıklı, biçimsel bir yapıya kavuşturmak ve doğanın akılcı bir şekilde anlaşılmasını amaçlamıştır?",
          "secenekler":[
-            "Klasizm",
             "Empresyonizm",
             "Gotik Edebiyat",
-            "Sürrealizm"
+            "Sürrealizm",
+            "Klasizm"
          ],
          "dogruCevap":"Klasizm"
       },
@@ -2455,8 +2445,8 @@
       {
          "soru":"Empresyonizm akımını edebiyat alanında benimseyen ve 'Doğayı ve anlık duygularını' yansıtan önemli yazar kimdir?",
          "secenekler":[
-            "Marcel Proust",
             "Virginia Woolf",
+            "Marcel Proust",
             "Guy de Maupassant",
             "James Joyce"
          ],
@@ -2465,10 +2455,10 @@
       {
          "soru":"Hangi edebi akımda, bireysel duyguların ve insanın iç dünyasının betimlenmesi ön plandadır?",
          "secenekler":[
-            "Romantizm",
             "Realizm",
             "Sürrealizm",
-            "Modernizm"
+            "Modernizm",
+            "Romantizm"
          ],
          "dogruCevap":"Romantizm"
       }
@@ -2487,8 +2477,8 @@
       {
          "soru":"Amerika Birleşik Devletleri'nin başkenti neresidir?",
          "secenekler":[
-            "Washington, D.C.",
             "New York",
+            "Washington, D.C.",
             "Los Angeles",
             "Chicago"
          ],
@@ -2497,18 +2487,18 @@
       {
          "soru":"Japonya'nın başkenti neresidir?",
          "secenekler":[
-            "Tokyo",
             "Osaka",
             "Kyoto",
-            "Hokkaido"
+            "Hokkaido",
+            "Tokyo"
          ],
          "dogruCevap":"Tokyo"
       },
       {
          "soru":"Almanya'nın başkenti neresidir?",
          "secenekler":[
-            "Berlin",
             "Munich",
+            "Berlin",
             "Frankfurt",
             "Hamburg"
          ],
@@ -2517,19 +2507,19 @@
       {
          "soru":"Brezilya'nın başkenti neresidir?",
          "secenekler":[
-            "Brasília",
             "Rio de Janeiro",
             "São Paulo",
-            "Salvador"
+            "Salvador",
+            "Brasília"
          ],
          "dogruCevap":"Brasília"
       },
       {
          "soru":"Kanada'nın başkenti neresidir?",
          "secenekler":[
-            "Ottawa",
             "Toronto",
             "Vancouver",
+            "Ottawa",
             "Montreal"
          ],
          "dogruCevap":"Ottawa"
@@ -2537,8 +2527,8 @@
       {
          "soru":"İngiltere'nin başkenti neresidir?",
          "secenekler":[
-            "Londra",
             "Manchester",
+            "Londra",
             "Birmingham",
             "Liverpool"
          ],
@@ -2547,9 +2537,9 @@
       {
          "soru":"Rusya'nın başkenti neresidir?",
          "secenekler":[
-            "Moskova",
             "St. Petersburg",
             "Novosibirsk",
+            "Moskova",
             "Yekaterinburg"
          ],
          "dogruCevap":"Moskova"
@@ -2567,10 +2557,10 @@
       {
          "soru":"Hindistan'ın başkenti neresidir?",
          "secenekler":[
-            "Yeni Delhi",
             "Mumbai",
             "Kolkata",
-            "Bangalore"
+            "Bangalore",
+            "Yeni Delhi"
          ],
          "dogruCevap":"Yeni Delhi"
       },
@@ -2587,8 +2577,8 @@
       {
          "soru":"Meksika'nın başkenti neresidir?",
          "secenekler":[
-            "Mexico City",
             "Guadalajara",
+            "Mexico City",
             "Monterrey",
             "Cancún"
          ],
@@ -2597,9 +2587,9 @@
       {
          "soru":"İtalya'nın başkenti neresidir?",
          "secenekler":[
-            "Roma",
             "Milan",
             "Venedik",
+            "Roma",
             "Floransa"
          ],
          "dogruCevap":"Roma"
@@ -2607,10 +2597,10 @@
       {
          "soru":"İspanya'nın başkenti neresidir?",
          "secenekler":[
-            "Madrid",
             "Barselona",
             "Sevilla",
-            "Valencia"
+            "Valencia",
+            "Madrid"
          ],
          "dogruCevap":"Madrid"
       },
@@ -2620,16 +2610,16 @@
             "Ankara",
             "İstanbul",
             "İzmir",
-            "Bursa"
+            "Amasya"
          ],
          "dogruCevap":"Ankara"
       },
       {
          "soru":"Güney Kore'nin başkenti neresidir?",
          "secenekler":[
-            "Seul",
             "Busan",
             "Incheon",
+            "Seul",
             "Daegu"
          ],
          "dogruCevap":"Seul"
@@ -2637,9 +2627,9 @@
       {
          "soru":"Arjantin'in başkenti neresidir?",
          "secenekler":[
-            "Buenos Aires",
             "Córdoba",
             "Rosario",
+            "Buenos Aires",
             "Mendoza"
          ],
          "dogruCevap":"Buenos Aires"
@@ -2647,20 +2637,20 @@
       {
          "soru":"Endonezya'nın başkenti neresidir?",
          "secenekler":[
-            "Cakarta",
             "Bali",
             "Surabaya",
-            "Medan"
+            "Medan",
+            "Cakarta"
          ],
          "dogruCevap":"Cakarta"
       },
       {
          "soru":"Suudi Arabistan'ın başkenti neresidir?",
          "secenekler":[
-            "Riyad",
             "Cidde",
             "Medine",
-            "Dammam"
+            "Riyad",
+            "Mekke"
          ],
          "dogruCevap":"Riyad"
       },
@@ -2687,8 +2677,8 @@
       {
          "soru":"Güney Afrika'nın başkenti neresidir?",
          "secenekler":[
-            "Pretorya",
             "Cape Town",
+            "Pretorya",
             "Johannesburg",
             "Durban"
          ],
@@ -2717,10 +2707,10 @@
       {
          "soru":"Çek Cumhuriyeti'nin başkenti neresidir?",
          "secenekler":[
-            "Prag",
             "Brno",
             "Ostrava",
-            "Plzen"
+            "Plzen",
+            "Prag"
          ],
          "dogruCevap":"Prag"
       },
@@ -2737,10 +2727,10 @@
       {
          "soru":"Norveç'in başkenti neresidir?",
          "secenekler":[
-            "Oslo",
             "Bergen",
             "Stavanger",
-            "Trondheim"
+            "Trondheim",
+            "Oslo"
          ],
          "dogruCevap":"Oslo"
       },
@@ -2757,9 +2747,9 @@
       {
          "soru":"İsveç'in başkenti neresidir?",
          "secenekler":[
-            "Stockholm",
             "Göteborg",
             "Malmö",
+            "Stockholm",
             "Uppsala"
          ],
          "dogruCevap":"Stockholm"
@@ -2777,10 +2767,10 @@
       {
          "soru":"Küba'nın başkenti neresidir?",
          "secenekler":[
-            "Havana",
             "Santiago de Cuba",
             "Camagüey",
-            "Holguín"
+            "Holguín",
+            "Havana"
          ],
          "dogruCevap":"Havana"
       },
@@ -2827,7 +2817,7 @@
          "dogruCevap":"Arjantin"
       },
       {
-         "soru":"Bir futbol maçında her bir takımda sahada kaç oyuncu bulunur?",
+         "soru":"Bir futbol maçında her bir takımda sahada en fazla kaç oyuncu bulunur?",
          "secenekler":[
             "10",
             "11",
@@ -2857,7 +2847,7 @@
          "dogruCevap":"Uruguay"
       },
       {
-         "soru":"İngiltere'nin Premier Liginde en çok şampiyon olan kulüp hangisidir?",
+         "soru":"İngiltere Premier Liginde en çok şampiyon olan kulüp hangisidir?",
          "secenekler":[
             "Manchester United",
             "Liverpool",
@@ -2879,19 +2869,19 @@
       {
          "soru":"Futbol tarihinin en pahalı transferi hangi oyuncuya yapılmıştır?",
          "secenekler":[
-            "Neymar",
             "Kylian Mbappé",
             "Cristiano Ronaldo",
-            "Lionel Messi"
+            "Lionel Messi",
+            "Neymar"
          ],
          "dogruCevap":"Neymar"
       },
       {
          "soru":"Futbolun ilk kez hangi ülkede oynandığı kabul edilir?",
          "secenekler":[
-            "İngiltere",
-            "Almanya",
+            "Çin",
             "Brezilya",
+            "İngiltere",
             "İspanya"
          ],
          "dogruCevap":"İngiltere"
@@ -2927,7 +2917,7 @@
          "dogruCevap":"Oyuncuya uyarı"
       },
       {
-         "soru":"Bir futbol maçında maksimum kaç oyuncu değişikliği yapılabilir?",
+         "soru":"Bir futbol maçında olağanüstü bir durum olmadıkça bir takım en fazla kaç oyuncu değişikliği yapabilir?",
          "secenekler":[
             "1",
             "2",
@@ -2949,9 +2939,9 @@
       {
          "soru":"Futbolun en prestijli kulüp turnuvası hangisidir?",
          "secenekler":[
-            "UEFA Şampiyonlar Ligi",
             "Copa Libertadores",
             "Afrika Uluslar Kupası",
+            "UEFA Şampiyonlar Ligi",
             "FIFA Kulüpler Dünya Kupası"
          ],
          "dogruCevap":"UEFA Şampiyonlar Ligi"
@@ -2981,10 +2971,10 @@
       {
          "soru":"Hangi ülkenin mutfağına özgü bir yemek olan 'Sushi', genellikle pirinç ve çiğ balıkla yapılır?",
          "secenekler":[
-            "Japonya",
             "Çin",
             "Güney Kore",
-            "Tayland"
+            "Tayland",
+            "Japonya"
          ],
          "dogruCevap":"Japonya"
       },
@@ -3011,8 +3001,8 @@
       {
          "soru":"Hint mutfağında yaygın olarak kullanılan ve baharatlarla hazırlanan yoğurtlu tavuk yemeği nedir?",
          "secenekler":[
-            "Tikka Masala",
             "Biryani",
+            "Tikka Masala",
             "Korma",
             "Paneer"
          ],
@@ -3041,10 +3031,10 @@
       {
          "soru":"'Paella' hangi ülkeye özgü bir yemektir?",
          "secenekler":[
-            "İspanya",
             "Portekiz",
-            "İtalya",
-            "Fransa"
+            "Kolombiya",
+            "Şili",
+            "İspanya"
          ],
          "dogruCevap":"İspanya"
       },
@@ -3121,10 +3111,10 @@
       {
          "soru":"'Feijoada' hangi ülkenin ulusal yemeğidir?",
          "secenekler":[
-            "Brezilya",
             "Arjantin",
             "Portekiz",
-            "Şili"
+            "Şili",
+            "Brezilya"
          ],
          "dogruCevap":"Brezilya"
       },
@@ -3141,8 +3131,8 @@
       {
          "soru":"'Pad Thai' hangi ülkenin meşhur bir sokak yemeğidir?",
          "secenekler":[
-            "Tayland",
             "Vietnam",
+            "Tayland",
             "Malezya",
             "Endonezya"
          ],
@@ -3264,9 +3254,9 @@
          "soru":"Bir ülkedeki insanların ortalama gelir düzeyini gösteren ölçü nedir?",
          "secenekler":[
             "GSYH",
-            "Kişi başına düşen gelir",
             "Enflasyon oranı",
-            "İşsizlik oranı"
+            "İşsizlik oranı",
+            "Kişi başına düşen gelir"
          ],
          "dogruCevap":"Kişi başına düşen gelir"
       },
@@ -3274,8 +3264,8 @@
          "soru":"Bir malın fiyatındaki %1'lik bir değişikliğin talepteki yüzdelik değişime oranı nedir?",
          "secenekler":[
             "Talep kanunu",
-            "Fiyat esnekliği",
             "Arz esnekliği",
+            "Fiyat esnekliği",
             "Denge analizi"
          ],
          "dogruCevap":"Fiyat esnekliği"
@@ -3294,8 +3284,8 @@
          "soru":"Keynesyen ekonomiye göre, hangi faktör ekonomiyi canlandırmak için en önemli araçtır?",
          "secenekler":[
             "Vergi artırımı",
-            "Kamu harcamaları",
             "Para basımı",
+            "Kamu harcamaları",
             "Dış borç"
          ],
          "dogruCevap":"Kamu harcamaları"
@@ -3314,11 +3304,11 @@
          "soru":"Hangi kuruluş uluslararası para ve finansal işbirliğini desteklemek amacıyla kurulmuştur?",
          "secenekler":[
             "Dünya Bankası",
-            "Uluslararası Para Fonu (IMF)",
             "Birleşmiş Milletler",
-            "G20"
+            "G20",
+            "Uluslararası Para Fonu"
          ],
-         "dogruCevap":"Uluslararası Para Fonu (IMF)"
+         "dogruCevap":"Uluslararası Para Fonu"
       }
    ],
    "Bilgisayar-Yazılım":[
@@ -3447,10 +3437,10 @@
          "secenekler":[
             "Windows",
             "Linux",
-            "Photoshop",
+            "GitHub",
             "MacOS"
          ],
-         "dogruCevap":"Photoshop"
+         "dogruCevap":"GitHub"
       },
       {
          "soru":"Veri yapılarında 'FIFO' (First In, First Out) prensibiyle çalışan yapı nedir?",
@@ -3486,9 +3476,9 @@
          "soru":"Bir web sitesinin görünümünü düzenlemek için kullanılan dil nedir?",
          "secenekler":[
             "JavaScript",
-            "CSS",
             "Python",
-            "SQL"
+            "SQL",
+            "CSS"
          ],
          "dogruCevap":"CSS"
       },
@@ -3506,8 +3496,8 @@
          "soru":"Bir bilgisayar programında aynı ada sahip değişkenlere sahip olma durumunda oluşabilecek hata nedir?",
          "secenekler":[
             "Derleme hatası",
-            "Çakışma hatası",
             "Çalışma zamanı hatası",
+            "Çakışma hatası",
             "Bellek sızıntısı"
          ],
          "dogruCevap":"Çakışma hatası"
@@ -3527,10 +3517,10 @@
       {
          "soru":"Asya kıtasının en yüksek dağı hangisidir?",
          "secenekler":[
-            "Everest",
             "K2",
             "Kanchenjunga",
-            "Annapurna"
+            "Annapurna",
+            "Everest"
          ],
          "dogruCevap":"Everest"
       },
@@ -3548,8 +3538,8 @@
          "soru":"Hangisi Asya'da bulunan bir çöldür?",
          "secenekler":[
             "Sahra",
-            "Gobi",
             "Kalahari",
+            "Gobi",
             "Atacama"
          ],
          "dogruCevap":"Gobi"
@@ -3597,10 +3587,10 @@
       {
          "soru":"Asya kıtasında en fazla petrol rezervine sahip olan ülke hangisidir?",
          "secenekler":[
-            "Rusya",
-            "Suudi Arabistan",
+            "Kuveyt",
             "İran",
-            "Irak"
+            "Irak",
+            "Suudi Arabistan"
          ],
          "dogruCevap":"Suudi Arabistan"
       },
@@ -3657,10 +3647,10 @@
       {
          "soru":"Asya'nın en büyük yarımadası hangisidir?",
          "secenekler":[
-            "Arabistan Yarımadası",
             "Hindistan Yarımadası",
             "Kamçatka Yarımadası",
-            "Malay Yarımadası"
+            "Malay Yarımadası",
+            "Arabistan Yarımadası"
          ],
          "dogruCevap":"Arabistan Yarımadası"
       },
@@ -3677,9 +3667,9 @@
       {
          "soru":"Hangisi Asya'da bulunan bir aktif volkanik dağdır?",
          "secenekler":[
-            "Fujiyama",
             "Etna",
             "Kilimanjaro",
+            "Fujiyama",
             "Vesuvius"
          ],
          "dogruCevap":"Fujiyama"
@@ -3780,9 +3770,9 @@
          "soru":"Steven Spielberg’in yönettiği ilk büyük gişe başarısı elde eden film hangisidir?",
          "secenekler":[
             "E.T.",
-            "Jaws",
             "Jurassic Park",
-            "Schindler's List"
+            "Schindler's List",
+            "Jaws"
          ],
          "dogruCevap":"Jaws"
       },
@@ -3839,9 +3829,9 @@
       {
          "soru":"Sinema tarihinde çekilmiş ilk uzun metrajlı animasyon film hangisidir?",
          "secenekler":[
-            "Pinokyo",
-            "Pamuk Prenses ve Yedi Cüceler",
+            "Buz Devri",
             "Aslan Kral",
+            "Pamuk Prenses ve Yedi Cüceler",
             "Bambi"
          ],
          "dogruCevap":"Pamuk Prenses ve Yedi Cüceler"
@@ -3931,8 +3921,8 @@
       {
          "soru":"İlk insanlı Ay yolculuğu hangi uzay aracıyla yapılmıştır?",
          "secenekler":[
-            "Sputnik",
             "Apollo 11",
+            "Sputnik",
             "Voyager 1",
             "Challenger"
          ],
@@ -3941,10 +3931,10 @@
       {
          "soru":"Mars gezegeninin takma adı nedir?",
          "secenekler":[
-            "Kırmızı Gezegen",
             "Mavi Gezegen",
             "Çöl Gezegen",
-            "Gaz Devi"
+            "Gaz Devi",
+            "Kırmızı Gezegen"
          ],
          "dogruCevap":"Kırmızı Gezegen"
       },
@@ -3971,8 +3961,8 @@
       {
          "soru":"Asteroit Kuşağı, Güneş Sistemi'nde hangi iki gezegen arasında yer alır?",
          "secenekler":[
-            "Mars ve Jüpiter",
             "Venüs ve Dünya",
+            "Mars ve Jüpiter",
             "Jüpiter ve Satürn",
             "Uranüs ve Neptün"
          ],
@@ -4012,9 +4002,9 @@
          "soru":"Bir kara delikten ışığın bile kaçamamasının nedeni nedir?",
          "secenekler":[
             "Yüksek sıcaklık",
-            "Aşırı yerçekimi",
             "Yoğun radyasyon",
-            "Yok edici gazlar"
+            "Yok edici gazlar",
+            "Aşırı yerçekimi"
          ],
          "dogruCevap":"Aşırı yerçekimi"
       },
@@ -4043,10 +4033,10 @@
       {
          "soru":"İskender kebabı hangi şehirle özdeşleşmiştir?",
          "secenekler":[
-            "Bursa",
             "İstanbul",
             "Ankara",
-            "Antalya"
+            "Antalya",
+            "Bursa"
          ],
          "dogruCevap":"Bursa"
       },
@@ -4063,9 +4053,9 @@
       {
          "soru":"Mantının iç harcında genellikle hangi malzeme bulunur?",
          "secenekler":[
-            "Kıyma",
             "Tavuk",
             "Balık",
+            "Kıyma",
             "Sebze"
          ],
          "dogruCevap":"Kıyma"
@@ -4083,10 +4073,10 @@
       {
          "soru":"Hangi yemek Ege Bölgesi'nde zeytinyağı ile hazırlanır?",
          "secenekler":[
-            "Enginar",
-            "Sarma",
+            "Keşkek",
             "Tandır",
-            "Kebap"
+            "Kebap",
+            "Enginar"
          ],
          "dogruCevap":"Enginar"
       },
@@ -4103,9 +4093,9 @@
       {
          "soru":"Hangisi kahvaltıda sıklıkla tüketilen bir Türk yemeğidir?",
          "secenekler":[
-            "Menemen",
             "Pilav",
             "Mantı",
+            "Menemen",
             "Dolma"
          ],
          "dogruCevap":"Menemen"
@@ -4113,10 +4103,10 @@
       {
          "soru":"Lahmacunun üstüne genellikle hangi malzeme eklenir?",
          "secenekler":[
-            "Maydanoz ve limon",
             "Yoğurt",
             "Domates sosu",
-            "Kaşar peyniri"
+            "Kaşar peyniri",
+            "Maydanoz ve limon"
          ],
          "dogruCevap":"Maydanoz ve limon"
       },
@@ -4133,8 +4123,8 @@
       {
          "soru":"Künefe tatlısının temel malzemesi nedir?",
          "secenekler":[
-            "Kadayıf",
             "Baklava yufkası",
+            "Kadayıf",
             "Un",
             "Mısır nişastası"
          ],
@@ -4143,8 +4133,8 @@
       {
          "soru":"Türk mutfağında yapılan dolmanın iç harcında genellikle hangi malzeme bulunur?",
          "secenekler":[
-            "Pirinç",
             "Makarna",
+            "Pirinç",
             "Bulgur",
             "Nohut"
          ],
@@ -4163,10 +4153,10 @@
       {
          "soru":"Hangisi bir sütlü tatlıdır?",
          "secenekler":[
-            "Kazandibi",
             "Tulumba",
             "Baklava",
-            "Helva"
+            "Helva",
+            "Kazandibi"
          ],
          "dogruCevap":"Kazandibi"
       },
@@ -4195,18 +4185,18 @@
       {
          "soru":"Bir voleybol maçında toplam kaç set kazanılması gereklidir?",
          "secenekler":[
-            "3",
             "5",
             "4",
-            "2"
+            "2",
+            "3"
          ],
          "dogruCevap":"3"
       },
       {
          "soru":"Voleybolda bir takımın sahada kaç oyuncusu bulunur?",
          "secenekler":[
-            "6",
             "7",
+            "3",
             "5",
             "8"
          ],
@@ -4215,10 +4205,10 @@
       {
          "soru":"Voleybolun ilk olarak hangi ülkede ortaya çıktığı düşünülmektedir?",
          "secenekler":[
-            "ABD",
             "Brezilya",
             "Japonya",
-            "Rusya"
+            "Rusya",
+            "ABD"
          ],
          "dogruCevap":"ABD"
       },
@@ -4245,9 +4235,9 @@
       {
          "soru":"Türk Kadın Milli Voleybol Takımı, 2023 Avrupa Şampiyonası'nda hangi ülkeyi yenerek şampiyon olmuştur?",
          "secenekler":[
-            "Sırbistan",
             "İtalya",
             "Polonya",
+            "Sırbistan",
             "Hollanda"
          ],
          "dogruCevap":"Sırbistan"
@@ -4255,9 +4245,9 @@
       {
          "soru":"Hangisi voleybolda bir savunma hareketidir?",
          "secenekler":[
-            "Blok",
             "Smaç",
             "Servis",
+            "Blok",
             "Pas"
          ],
          "dogruCevap":"Blok"
@@ -4275,18 +4265,18 @@
       {
          "soru":"Voleybolda topun aynı oyuncu tarafından üst üste kaç kez oynanması yasaktır?",
          "secenekler":[
-            "2",
             "3",
+            "2",
             "1",
             "Sınırsız"
          ],
          "dogruCevap":"2"
       },
       {
-         "soru":"Türk Kadın Milli Voleybol Takımı’nın kaptanı olan ve dünya çapında tanınan oyuncu kimdir? (2023 itibarıyla)",
+         "soru":"Türk Kadın Milli Voleybol Takımı’nın kaptanı olan ve dünya çapında tanınan oyuncu kimdir?",
          "secenekler":[
+            "Zehra Güneş",
             "Eda Erdem Dündar",
-            "Meryem Boz",
             "Cansu Özbay",
             "Melissa Vargas"
          ],
@@ -4305,10 +4295,10 @@
       {
          "soru":"Türk Kadın Milli Voleybol Takımı'nın başantrenörü 2023 yılında kimdir?",
          "secenekler":[
-            "Daniele Santarelli",
             "Giovanni Guidetti",
             "Bernardo Rezende",
-            "Zoran Terzić"
+            "Zoran Terzić",
+            "Daniele Santarelli"
          ],
          "dogruCevap":"Daniele Santarelli"
       },
@@ -4325,10 +4315,10 @@
       {
          "soru":"Türk Kadın Milli Voleybol Takımı ilk kez hangi yıl Olimpiyat Oyunları’na katılmıştır?",
          "secenekler":[
-            "2012",
             "2008",
-            "2016",
-            "2020"
+            "2002",
+            "2024",
+            "2012"
          ],
          "dogruCevap":"2012"
       }
