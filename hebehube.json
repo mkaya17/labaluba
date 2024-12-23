@@ -2827,12 +2827,12 @@
          "dogruCevap":"11"
       },
       {
-         "soru":"Bir futbol maçında bir takımın oyuncuları sahada hangi pozisyonları oynar?",
+         "soru":"Türkiye Süper Lig'inde 2010-11 futbol sezonu son maçının ardından bir yanlış anlama sonucu taraftarının sahaya girerek şampiyonluk kutlaması yaptığı futbol kulübü hangisidir?",
          "secenekler":[
-            "Kaleci, defans, orta saha, forvet",
-            "Kaleci, defans, sağ bek, sol bek",
-            "Sadece defans ve forvet",
-            "Kaleci ve 3 forvet"
+            "Beşiktaş",
+            "Galatasaray",
+            "Bursaspor",
+            "Fenerbahçe"
          ],
          "dogruCevap":"Kaleci, defans, orta saha, forvet"
       },
