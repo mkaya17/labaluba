@@ -106,7 +106,7 @@
       ]
    },
    "USTA":{
-      "Roma Tarihi":[
+      "Başkentler":[
          {
             "soru":"Roma'nın kuruluş yılı olarak kabul edilen tarih nedir?",
             "secenekler":[
@@ -158,7 +158,7 @@
             "dogruCevap":"Colosseum"
          }
       ],
-      "Yunan Tarihi":[
+      "Futbol":[
          {
             "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
             "secenekler":[
