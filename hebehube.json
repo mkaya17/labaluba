@@ -10,6 +10,98 @@
                "MÖ 27"
             ],
             "dogruCevap":"MÖ 753"
+         },
+         {
+            "soru":"Roma'nın ilk imparatoru kimdir?",
+            "secenekler":[
+               "Julius Caesar",
+               "Augustus",
+               "Nero",
+               "Trajan"
+            ],
+            "dogruCevap":"Augustus"
+         },
+         {
+            "soru":"Roma'da ilk halk meclisinin adı nedir?",
+            "secenekler":[
+               "Senato",
+               "Cumhuriyet Meclisi",
+               "Forum",
+               "Halk Meclisi"
+            ],
+            "dogruCevap":"Senato"
+         },
+         {
+            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
+            "secenekler":[
+               "Roma",
+               "Kahire",
+               "Atina",
+               "İstanbul"
+            ],
+            "dogruCevap":"Roma"
+         },
+         {
+            "soru":"Roma'nın en ünlü arenası hangisidir?",
+            "secenekler":[
+               "Colosseum",
+               "Pantheon",
+               "Forum",
+               "Forum Romanum"
+            ],
+            "dogruCevap":"Colosseum"
+         }
+      ],
+      "Yunan Tarihi":[
+         {
+            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
+            "secenekler":[
+               "MÖ 776",
+               "MÖ 490",
+               "MÖ 332",
+               "MÖ 431"
+            ],
+            "dogruCevap":"MÖ 776"
+         },
+         {
+            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
+            "secenekler":[
+               "Sokrat",
+               "Aristoteles",
+               "Platon",
+               "Pythagoras"
+            ],
+            "dogruCevap":"Sokrat"
+         },
+         {
+            "soru":"Yunanlılar hangi tanrıya taparlardı?",
+            "secenekler":[
+               "Zeus",
+               "Apollon",
+               "Poseidon",
+               "Hades"
+            ],
+            "dogruCevap":"Zeus"
+         },
+         {
+            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
+            "secenekler":[
+               "MÖ 490 - MÖ 479",
+               "MÖ 1000 - MÖ 950",
+               "MÖ 600 - MÖ 550",
+               "MÖ 431 - MÖ 404"
+            ],
+            "dogruCevap":"MÖ 490 - MÖ 479"
+         },
+         {
+            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
+            "secenekler":[
+               "Athena",
+               "Poseidon",
+               "Hera",
+               "Artemis"
+            ],
+            "dogruCevap":"Athena"
          }
       ]
    },
@@ -24,6 +116,98 @@
                "MÖ 27"
             ],
             "dogruCevap":"MÖ 753"
+         },
+         {
+            "soru":"Roma'nın ilk imparatoru kimdir?",
+            "secenekler":[
+               "Julius Caesar",
+               "Augustus",
+               "Nero",
+               "Trajan"
+            ],
+            "dogruCevap":"Augustus"
+         },
+         {
+            "soru":"Roma'da ilk halk meclisinin adı nedir?",
+            "secenekler":[
+               "Senato",
+               "Cumhuriyet Meclisi",
+               "Forum",
+               "Halk Meclisi"
+            ],
+            "dogruCevap":"Senato"
+         },
+         {
+            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
+            "secenekler":[
+               "Roma",
+               "Kahire",
+               "Atina",
+               "İstanbul"
+            ],
+            "dogruCevap":"Roma"
+         },
+         {
+            "soru":"Roma'nın en ünlü arenası hangisidir?",
+            "secenekler":[
+               "Colosseum",
+               "Pantheon",
+               "Forum",
+               "Forum Romanum"
+            ],
+            "dogruCevap":"Colosseum"
+         }
+      ],
+      "Yunan Tarihi":[
+         {
+            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
+            "secenekler":[
+               "MÖ 776",
+               "MÖ 490",
+               "MÖ 332",
+               "MÖ 431"
+            ],
+            "dogruCevap":"MÖ 776"
+         },
+         {
+            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
+            "secenekler":[
+               "Sokrat",
+               "Aristoteles",
+               "Platon",
+               "Pythagoras"
+            ],
+            "dogruCevap":"Sokrat"
+         },
+         {
+            "soru":"Yunanlılar hangi tanrıya taparlardı?",
+            "secenekler":[
+               "Zeus",
+               "Apollon",
+               "Poseidon",
+               "Hades"
+            ],
+            "dogruCevap":"Zeus"
+         },
+         {
+            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
+            "secenekler":[
+               "MÖ 490 - MÖ 479",
+               "MÖ 1000 - MÖ 950",
+               "MÖ 600 - MÖ 550",
+               "MÖ 431 - MÖ 404"
+            ],
+            "dogruCevap":"MÖ 490 - MÖ 479"
+         },
+         {
+            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
+            "secenekler":[
+               "Athena",
+               "Poseidon",
+               "Hera",
+               "Artemis"
+            ],
+            "dogruCevap":"Athena"
          }
       ]
    },
@@ -38,6 +222,98 @@
                "MÖ 27"
             ],
             "dogruCevap":"MÖ 753"
+         },
+         {
+            "soru":"Roma'nın ilk imparatoru kimdir?",
+            "secenekler":[
+               "Julius Caesar",
+               "Augustus",
+               "Nero",
+               "Trajan"
+            ],
+            "dogruCevap":"Augustus"
+         },
+         {
+            "soru":"Roma'da ilk halk meclisinin adı nedir?",
+            "secenekler":[
+               "Senato",
+               "Cumhuriyet Meclisi",
+               "Forum",
+               "Halk Meclisi"
+            ],
+            "dogruCevap":"Senato"
+         },
+         {
+            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
+            "secenekler":[
+               "Roma",
+               "Kahire",
+               "Atina",
+               "İstanbul"
+            ],
+            "dogruCevap":"Roma"
+         },
+         {
+            "soru":"Roma'nın en ünlü arenası hangisidir?",
+            "secenekler":[
+               "Colosseum",
+               "Pantheon",
+               "Forum",
+               "Forum Romanum"
+            ],
+            "dogruCevap":"Colosseum"
+         }
+      ],
+      "Yunan Tarihi":[
+         {
+            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
+            "secenekler":[
+               "MÖ 776",
+               "MÖ 490",
+               "MÖ 332",
+               "MÖ 431"
+            ],
+            "dogruCevap":"MÖ 776"
+         },
+         {
+            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
+            "secenekler":[
+               "Sokrat",
+               "Aristoteles",
+               "Platon",
+               "Pythagoras"
+            ],
+            "dogruCevap":"Sokrat"
+         },
+         {
+            "soru":"Yunanlılar hangi tanrıya taparlardı?",
+            "secenekler":[
+               "Zeus",
+               "Apollon",
+               "Poseidon",
+               "Hades"
+            ],
+            "dogruCevap":"Zeus"
+         },
+         {
+            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
+            "secenekler":[
+               "MÖ 490 - MÖ 479",
+               "MÖ 1000 - MÖ 950",
+               "MÖ 600 - MÖ 550",
+               "MÖ 431 - MÖ 404"
+            ],
+            "dogruCevap":"MÖ 490 - MÖ 479"
+         },
+         {
+            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
+            "secenekler":[
+               "Athena",
+               "Poseidon",
+               "Hera",
+               "Artemis"
+            ],
+            "dogruCevap":"Athena"
          }
       ]
    },
@@ -52,6 +328,98 @@
                "MÖ 27"
             ],
             "dogruCevap":"MÖ 753"
+         },
+         {
+            "soru":"Roma'nın ilk imparatoru kimdir?",
+            "secenekler":[
+               "Julius Caesar",
+               "Augustus",
+               "Nero",
+               "Trajan"
+            ],
+            "dogruCevap":"Augustus"
+         },
+         {
+            "soru":"Roma'da ilk halk meclisinin adı nedir?",
+            "secenekler":[
+               "Senato",
+               "Cumhuriyet Meclisi",
+               "Forum",
+               "Halk Meclisi"
+            ],
+            "dogruCevap":"Senato"
+         },
+         {
+            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
+            "secenekler":[
+               "Roma",
+               "Kahire",
+               "Atina",
+               "İstanbul"
+            ],
+            "dogruCevap":"Roma"
+         },
+         {
+            "soru":"Roma'nın en ünlü arenası hangisidir?",
+            "secenekler":[
+               "Colosseum",
+               "Pantheon",
+               "Forum",
+               "Forum Romanum"
+            ],
+            "dogruCevap":"Colosseum"
+         }
+      ],
+      "Yunan Tarihi":[
+         {
+            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
+            "secenekler":[
+               "MÖ 776",
+               "MÖ 490",
+               "MÖ 332",
+               "MÖ 431"
+            ],
+            "dogruCevap":"MÖ 776"
+         },
+         {
+            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
+            "secenekler":[
+               "Sokrat",
+               "Aristoteles",
+               "Platon",
+               "Pythagoras"
+            ],
+            "dogruCevap":"Sokrat"
+         },
+         {
+            "soru":"Yunanlılar hangi tanrıya taparlardı?",
+            "secenekler":[
+               "Zeus",
+               "Apollon",
+               "Poseidon",
+               "Hades"
+            ],
+            "dogruCevap":"Zeus"
+         },
+         {
+            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
+            "secenekler":[
+               "MÖ 490 - MÖ 479",
+               "MÖ 1000 - MÖ 950",
+               "MÖ 600 - MÖ 550",
+               "MÖ 431 - MÖ 404"
+            ],
+            "dogruCevap":"MÖ 490 - MÖ 479"
+         },
+         {
+            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
+            "secenekler":[
+               "Athena",
+               "Poseidon",
+               "Hera",
+               "Artemis"
+            ],
+            "dogruCevap":"Athena"
          }
       ]
    },
@@ -66,6 +434,98 @@
                "MÖ 27"
             ],
             "dogruCevap":"MÖ 753"
+         },
+         {
+            "soru":"Roma'nın ilk imparatoru kimdir?",
+            "secenekler":[
+               "Julius Caesar",
+               "Augustus",
+               "Nero",
+               "Trajan"
+            ],
+            "dogruCevap":"Augustus"
+         },
+         {
+            "soru":"Roma'da ilk halk meclisinin adı nedir?",
+            "secenekler":[
+               "Senato",
+               "Cumhuriyet Meclisi",
+               "Forum",
+               "Halk Meclisi"
+            ],
+            "dogruCevap":"Senato"
+         },
+         {
+            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
+            "secenekler":[
+               "Roma",
+               "Kahire",
+               "Atina",
+               "İstanbul"
+            ],
+            "dogruCevap":"Roma"
+         },
+         {
+            "soru":"Roma'nın en ünlü arenası hangisidir?",
+            "secenekler":[
+               "Colosseum",
+               "Pantheon",
+               "Forum",
+               "Forum Romanum"
+            ],
+            "dogruCevap":"Colosseum"
+         }
+      ],
+      "Yunan Tarihi":[
+         {
+            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
+            "secenekler":[
+               "MÖ 776",
+               "MÖ 490",
+               "MÖ 332",
+               "MÖ 431"
+            ],
+            "dogruCevap":"MÖ 776"
+         },
+         {
+            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
+            "secenekler":[
+               "Sokrat",
+               "Aristoteles",
+               "Platon",
+               "Pythagoras"
+            ],
+            "dogruCevap":"Sokrat"
+         },
+         {
+            "soru":"Yunanlılar hangi tanrıya taparlardı?",
+            "secenekler":[
+               "Zeus",
+               "Apollon",
+               "Poseidon",
+               "Hades"
+            ],
+            "dogruCevap":"Zeus"
+         },
+         {
+            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
+            "secenekler":[
+               "MÖ 490 - MÖ 479",
+               "MÖ 1000 - MÖ 950",
+               "MÖ 600 - MÖ 550",
+               "MÖ 431 - MÖ 404"
+            ],
+            "dogruCevap":"MÖ 490 - MÖ 479"
+         },
+         {
+            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
+            "secenekler":[
+               "Athena",
+               "Poseidon",
+               "Hera",
+               "Artemis"
+            ],
+            "dogruCevap":"Athena"
          }
       ]
    }
