@@ -1,532 +1,4326 @@
 {
-   "ÇIRAK":{
-      "Roma Tarihi":[
-         {
-            "soru":"Roma'nın kuruluş yılı olarak kabul edilen tarih nedir?",
-            "secenekler":[
-               "MÖ 509",
-               "MÖ 753",
-               "MÖ 146",
-               "MÖ 27"
-            ],
-            "dogruCevap":"MÖ 753"
-         },
-         {
-            "soru":"Roma'nın ilk imparatoru kimdir?",
-            "secenekler":[
-               "Julius Caesar",
-               "Augustus",
-               "Nero",
-               "Trajan"
-            ],
-            "dogruCevap":"Augustus"
-         },
-         {
-            "soru":"Roma'da ilk halk meclisinin adı nedir?",
-            "secenekler":[
-               "Senato",
-               "Cumhuriyet Meclisi",
-               "Forum",
-               "Halk Meclisi"
-            ],
-            "dogruCevap":"Senato"
-         },
-         {
-            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
-            "secenekler":[
-               "Roma",
-               "Kahire",
-               "Atina",
-               "İstanbul"
-            ],
-            "dogruCevap":"Roma"
-         },
-         {
-            "soru":"Roma'nın en ünlü arenası hangisidir?",
-            "secenekler":[
-               "Colosseum",
-               "Pantheon",
-               "Forum",
-               "Forum Romanum"
-            ],
-            "dogruCevap":"Colosseum"
-         }
-      ],
-      "Yunan Tarihi":[
-         {
-            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
-            "secenekler":[
-               "MÖ 776",
-               "MÖ 490",
-               "MÖ 332",
-               "MÖ 431"
-            ],
-            "dogruCevap":"MÖ 776"
-         },
-         {
-            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
-            "secenekler":[
-               "Sokrat",
-               "Aristoteles",
-               "Platon",
-               "Pythagoras"
-            ],
-            "dogruCevap":"Sokrat"
-         },
-         {
-            "soru":"Yunanlılar hangi tanrıya taparlardı?",
-            "secenekler":[
-               "Zeus",
-               "Apollon",
-               "Poseidon",
-               "Hades"
-            ],
-            "dogruCevap":"Zeus"
-         },
-         {
-            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
-            "secenekler":[
-               "MÖ 490 - MÖ 479",
-               "MÖ 1000 - MÖ 950",
-               "MÖ 600 - MÖ 550",
-               "MÖ 431 - MÖ 404"
-            ],
-            "dogruCevap":"MÖ 490 - MÖ 479"
-         },
-         {
-            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
-            "secenekler":[
-               "Athena",
-               "Poseidon",
-               "Hera",
-               "Artemis"
-            ],
-            "dogruCevap":"Athena"
-         }
-      ]
-   },
-   "USTA":{
-      "Başkentler":[
-         {
-            "soru":"Roma'nın kuruluş yılı olarak kabul edilen tarih nedir?",
-            "secenekler":[
-               "MÖ 509",
-               "MÖ 753",
-               "MÖ 146",
-               "MÖ 27"
-            ],
-            "dogruCevap":"MÖ 753"
-         },
-         {
-            "soru":"Roma'nın ilk imparatoru kimdir?",
-            "secenekler":[
-               "Julius Caesar",
-               "Augustus",
-               "Nero",
-               "Trajan"
-            ],
-            "dogruCevap":"Augustus"
-         },
-         {
-            "soru":"Roma'da ilk halk meclisinin adı nedir?",
-            "secenekler":[
-               "Senato",
-               "Cumhuriyet Meclisi",
-               "Forum",
-               "Halk Meclisi"
-            ],
-            "dogruCevap":"Senato"
-         },
-         {
-            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
-            "secenekler":[
-               "Roma",
-               "Kahire",
-               "Atina",
-               "İstanbul"
-            ],
-            "dogruCevap":"Roma"
-         },
-         {
-            "soru":"Roma'nın en ünlü arenası hangisidir?",
-            "secenekler":[
-               "Colosseum",
-               "Pantheon",
-               "Forum",
-               "Forum Romanum"
-            ],
-            "dogruCevap":"Colosseum"
-         }
-      ],
-      "Futbol":[
-         {
-            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
-            "secenekler":[
-               "MÖ 776",
-               "MÖ 490",
-               "MÖ 332",
-               "MÖ 431"
-            ],
-            "dogruCevap":"MÖ 776"
-         },
-         {
-            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
-            "secenekler":[
-               "Sokrat",
-               "Aristoteles",
-               "Platon",
-               "Pythagoras"
-            ],
-            "dogruCevap":"Sokrat"
-         },
-         {
-            "soru":"Yunanlılar hangi tanrıya taparlardı?",
-            "secenekler":[
-               "Zeus",
-               "Apollon",
-               "Poseidon",
-               "Hades"
-            ],
-            "dogruCevap":"Zeus"
-         },
-         {
-            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
-            "secenekler":[
-               "MÖ 490 - MÖ 479",
-               "MÖ 1000 - MÖ 950",
-               "MÖ 600 - MÖ 550",
-               "MÖ 431 - MÖ 404"
-            ],
-            "dogruCevap":"MÖ 490 - MÖ 479"
-         },
-         {
-            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
-            "secenekler":[
-               "Athena",
-               "Poseidon",
-               "Hera",
-               "Artemis"
-            ],
-            "dogruCevap":"Athena"
-         }
-      ]
-   },
-   "KALFA":{
-      "Roma Tarihi":[
-         {
-            "soru":"Roma'nın kuruluş yılı olarak kabul edilen tarih nedir?",
-            "secenekler":[
-               "MÖ 509",
-               "MÖ 753",
-               "MÖ 146",
-               "MÖ 27"
-            ],
-            "dogruCevap":"MÖ 753"
-         },
-         {
-            "soru":"Roma'nın ilk imparatoru kimdir?",
-            "secenekler":[
-               "Julius Caesar",
-               "Augustus",
-               "Nero",
-               "Trajan"
-            ],
-            "dogruCevap":"Augustus"
-         },
-         {
-            "soru":"Roma'da ilk halk meclisinin adı nedir?",
-            "secenekler":[
-               "Senato",
-               "Cumhuriyet Meclisi",
-               "Forum",
-               "Halk Meclisi"
-            ],
-            "dogruCevap":"Senato"
-         },
-         {
-            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
-            "secenekler":[
-               "Roma",
-               "Kahire",
-               "Atina",
-               "İstanbul"
-            ],
-            "dogruCevap":"Roma"
-         },
-         {
-            "soru":"Roma'nın en ünlü arenası hangisidir?",
-            "secenekler":[
-               "Colosseum",
-               "Pantheon",
-               "Forum",
-               "Forum Romanum"
-            ],
-            "dogruCevap":"Colosseum"
-         }
-      ],
-      "Yunan Tarihi":[
-         {
-            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
-            "secenekler":[
-               "MÖ 776",
-               "MÖ 490",
-               "MÖ 332",
-               "MÖ 431"
-            ],
-            "dogruCevap":"MÖ 776"
-         },
-         {
-            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
-            "secenekler":[
-               "Sokrat",
-               "Aristoteles",
-               "Platon",
-               "Pythagoras"
-            ],
-            "dogruCevap":"Sokrat"
-         },
-         {
-            "soru":"Yunanlılar hangi tanrıya taparlardı?",
-            "secenekler":[
-               "Zeus",
-               "Apollon",
-               "Poseidon",
-               "Hades"
-            ],
-            "dogruCevap":"Zeus"
-         },
-         {
-            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
-            "secenekler":[
-               "MÖ 490 - MÖ 479",
-               "MÖ 1000 - MÖ 950",
-               "MÖ 600 - MÖ 550",
-               "MÖ 431 - MÖ 404"
-            ],
-            "dogruCevap":"MÖ 490 - MÖ 479"
-         },
-         {
-            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
-            "secenekler":[
-               "Athena",
-               "Poseidon",
-               "Hera",
-               "Artemis"
-            ],
-            "dogruCevap":"Athena"
-         }
-      ]
-   },
-   "PROFESÖR":{
-      "Roma Tarihi":[
-         {
-            "soru":"Roma'nın kuruluş yılı olarak kabul edilen tarih nedir?",
-            "secenekler":[
-               "MÖ 509",
-               "MÖ 753",
-               "MÖ 146",
-               "MÖ 27"
-            ],
-            "dogruCevap":"MÖ 753"
-         },
-         {
-            "soru":"Roma'nın ilk imparatoru kimdir?",
-            "secenekler":[
-               "Julius Caesar",
-               "Augustus",
-               "Nero",
-               "Trajan"
-            ],
-            "dogruCevap":"Augustus"
-         },
-         {
-            "soru":"Roma'da ilk halk meclisinin adı nedir?",
-            "secenekler":[
-               "Senato",
-               "Cumhuriyet Meclisi",
-               "Forum",
-               "Halk Meclisi"
-            ],
-            "dogruCevap":"Senato"
-         },
-         {
-            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
-            "secenekler":[
-               "Roma",
-               "Kahire",
-               "Atina",
-               "İstanbul"
-            ],
-            "dogruCevap":"Roma"
-         },
-         {
-            "soru":"Roma'nın en ünlü arenası hangisidir?",
-            "secenekler":[
-               "Colosseum",
-               "Pantheon",
-               "Forum",
-               "Forum Romanum"
-            ],
-            "dogruCevap":"Colosseum"
-         }
-      ],
-      "Yunan Tarihi":[
-         {
-            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
-            "secenekler":[
-               "MÖ 776",
-               "MÖ 490",
-               "MÖ 332",
-               "MÖ 431"
-            ],
-            "dogruCevap":"MÖ 776"
-         },
-         {
-            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
-            "secenekler":[
-               "Sokrat",
-               "Aristoteles",
-               "Platon",
-               "Pythagoras"
-            ],
-            "dogruCevap":"Sokrat"
-         },
-         {
-            "soru":"Yunanlılar hangi tanrıya taparlardı?",
-            "secenekler":[
-               "Zeus",
-               "Apollon",
-               "Poseidon",
-               "Hades"
-            ],
-            "dogruCevap":"Zeus"
-         },
-         {
-            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
-            "secenekler":[
-               "MÖ 490 - MÖ 479",
-               "MÖ 1000 - MÖ 950",
-               "MÖ 600 - MÖ 550",
-               "MÖ 431 - MÖ 404"
-            ],
-            "dogruCevap":"MÖ 490 - MÖ 479"
-         },
-         {
-            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
-            "secenekler":[
-               "Athena",
-               "Poseidon",
-               "Hera",
-               "Artemis"
-            ],
-            "dogruCevap":"Athena"
-         }
-      ]
-   },
-   "ORDİNARYÜS":{
-      "Roma Tarihi":[
-         {
-            "soru":"Roma'nın kuruluş yılı olarak kabul edilen tarih nedir?",
-            "secenekler":[
-               "MÖ 509",
-               "MÖ 753",
-               "MÖ 146",
-               "MÖ 27"
-            ],
-            "dogruCevap":"MÖ 753"
-         },
-         {
-            "soru":"Roma'nın ilk imparatoru kimdir?",
-            "secenekler":[
-               "Julius Caesar",
-               "Augustus",
-               "Nero",
-               "Trajan"
-            ],
-            "dogruCevap":"Augustus"
-         },
-         {
-            "soru":"Roma'da ilk halk meclisinin adı nedir?",
-            "secenekler":[
-               "Senato",
-               "Cumhuriyet Meclisi",
-               "Forum",
-               "Halk Meclisi"
-            ],
-            "dogruCevap":"Senato"
-         },
-         {
-            "soru":"Roma İmparatorluğu'nun başkenti neresidir?",
-            "secenekler":[
-               "Roma",
-               "Kahire",
-               "Atina",
-               "İstanbul"
-            ],
-            "dogruCevap":"Roma"
-         },
-         {
-            "soru":"Roma'nın en ünlü arenası hangisidir?",
-            "secenekler":[
-               "Colosseum",
-               "Pantheon",
-               "Forum",
-               "Forum Romanum"
-            ],
-            "dogruCevap":"Colosseum"
-         }
-      ],
-      "Yunan Tarihi":[
-         {
-            "soru":"Yunanistan'da ilk olimpiyatlar ne zaman yapılmıştır?",
-            "secenekler":[
-               "MÖ 776",
-               "MÖ 490",
-               "MÖ 332",
-               "MÖ 431"
-            ],
-            "dogruCevap":"MÖ 776"
-         },
-         {
-            "soru":"Yunan'ın en büyük filozoflarından biri kimdir?",
-            "secenekler":[
-               "Sokrat",
-               "Aristoteles",
-               "Platon",
-               "Pythagoras"
-            ],
-            "dogruCevap":"Sokrat"
-         },
-         {
-            "soru":"Yunanlılar hangi tanrıya taparlardı?",
-            "secenekler":[
-               "Zeus",
-               "Apollon",
-               "Poseidon",
-               "Hades"
-            ],
-            "dogruCevap":"Zeus"
-         },
-         {
-            "soru":"Yunan kültüründe önemli bir savaş olan Pers Savaşları hangi yıllar arasında yapılmıştır?",
-            "secenekler":[
-               "MÖ 490 - MÖ 479",
-               "MÖ 1000 - MÖ 950",
-               "MÖ 600 - MÖ 550",
-               "MÖ 431 - MÖ 404"
-            ],
-            "dogruCevap":"MÖ 490 - MÖ 479"
-         },
-         {
-            "soru":"Yunanistan'ın en ünlü tapınağı hangi tanrıya adanmıştır?",
-            "secenekler":[
-               "Athena",
-               "Poseidon",
-               "Hera",
-               "Artemis"
-            ],
-            "dogruCevap":"Athena"
-         }
-      ]
-   }
+   "Roma Tarihi":[
+      {
+         "soru":"Roma'nın kuruluş yılı olarak kabul edilen tarih nedir?",
+         "secenekler":[
+            "MÖ 509",
+            "MÖ 753",
+            "MÖ 146",
+            "MÖ 27"
+         ],
+         "dogruCevap":"MÖ 753"
+      },
+      {
+         "soru":"Roma'nın ilk kralı kimdir?",
+         "secenekler":[
+            "Numa Pompilius",
+            "Tarquinius Superbus",
+            "Romulus",
+            "Julius Caesar"
+         ],
+         "dogruCevap":"Romulus"
+      },
+      {
+         "soru":"Roma İmparatorluğu’nun Batı kısmı ne zaman yıkılmıştır?",
+         "secenekler":[
+            "410",
+            "1453",
+            "395",
+            "476"
+         ],
+         "dogruCevap":"476"
+      },
+      {
+         "soru":"Roma'nın halkı tarafından seçilen en yüksek yetkiliye ne ad verilirdi?",
+         "secenekler":[
+            "Konsül",
+            "Tribün",
+            "Praetor",
+            "Diktatör"
+         ],
+         "dogruCevap":"Konsül"
+      },
+      {
+         "soru":"Roma'daki sınıfsal ayrımın ana grupları hangileriydi?",
+         "secenekler":[
+            "Eşraf ve Köylüler",
+            "Asiller ve Burjuvalar",
+            "Plepler ve Patriciler",
+            "Gladyatörler ve Senatörler"
+         ],
+         "dogruCevap":"Plepler ve Patriciler"
+      },
+      {
+         "soru":"Roma İmparatorluğu’nun ünlü yasalarının adı nedir?",
+         "secenekler":[
+            "Hammurabi Kanunları",
+            "On İki Levha Kanunları",
+            "Magna Carta",
+            "Justinianus Kanunları"
+         ],
+         "dogruCevap":"On İki Levha Kanunları"
+      },
+      {
+         "soru":"Roma'nın Kartaca ile yaptığı savaşlar hangi adla bilinir?",
+         "secenekler":[
+            "Galya Savaşları",
+            "Pers Savaşları",
+            "Punic Savaşları",
+            "Peloponez Savaşları"
+         ],
+         "dogruCevap":"Punic Savaşları"
+      },
+      {
+         "soru":"Jül Sezar hangi unvanı taşırken suikasta uğramıştır?",
+         "secenekler":[
+            "İmparator",
+            "Konsül",
+            "Diktatör",
+            "Tribün"
+         ],
+         "dogruCevap":"Diktatör"
+      },
+      {
+         "soru":"Roma'nın en büyük amfitiyatrosu olan Kolezyum hangi dönemde yapılmıştır?",
+         "secenekler":[
+            "Augustus",
+            "Nero",
+            "Trajan",
+            "Vespasianus"
+         ],
+         "dogruCevap":"Vespasianus"
+      },
+      {
+         "soru":"Roma’nın Doğu kısmının merkezi hangi şehirdi?",
+         "secenekler":[
+            "Kartaca",
+            "Atina",
+            "Bizans",
+            "Alexandria"
+         ],
+         "dogruCevap":"Bizans"
+      },
+      {
+         "soru":"Julius Caesar'ın ünlü sözü 'Veni, Vidi, Vici' hangi olayı ifade eder?",
+         "secenekler":[
+            "Zela Savaşı zaferi",
+            "Rubicon’u geçişi",
+            "Pompey’e karşı zaferi",
+            "Kartaca’nın yıkılışı"
+         ],
+         "dogruCevap":"Zela Savaşı zaferi"
+      },
+      {
+         "soru":"Roma Senatosu’nda 'dictator perpetuo' unvanını kim aldı?",
+         "secenekler":[
+            "Augustus",
+            "Julius Caesar",
+            "Cicero",
+            "Nero"
+         ],
+         "dogruCevap":"Julius Caesar"
+      },
+      {
+         "soru":"Roma’nın düşüşüne katkı sağlayan büyük halk göçleri hangi kavimle başlamıştır?",
+         "secenekler":[
+            "Hunlar",
+            "Vandallar",
+            "Vizigotlar",
+            "Ostrogotlar"
+         ],
+         "dogruCevap":"Hunlar"
+      },
+      {
+         "soru":"Roma İmparatorluğu’nda Hristiyanlık hangi imparator döneminde resmî din olarak kabul edildi?",
+         "secenekler":[
+            "Konstantin",
+            "Theodosius",
+            "Diocletian",
+            "Augustus"
+         ],
+         "dogruCevap":"Theodosius"
+      },
+      {
+         "soru":"Roma İmparatorluğu’nun ünlü su kemerleri hangi amaçla kullanıldı?",
+         "secenekler":[
+            "Tarımsal sulama",
+            "Ticaret yollarını genişletmek",
+            "Askerî sınırları güçlendirmek",
+            "Şehirlerde temiz su taşımak"
+         ],
+         "dogruCevap":"Şehirlerde temiz su taşımak"
+      }
+   ],
+   "İslam Öncesi Türk":[
+      {
+         "soru":"Türklerin bilinen ilk yazılı belgeleri hangileridir?",
+         "secenekler":[
+            "Orhun Yazıtları",
+            "Göktürk Yazıtları",
+            "Uygur Metinleri",
+            "Selçuklu Kitabeleri"
+         ],
+         "dogruCevap":"Orhun Yazıtları"
+      },
+      {
+         "soru":"Türk adının anlamı ilk kez hangi kaynakta yer almıştır?",
+         "secenekler":[
+            "Orhun Yazıtları",
+            "Divanü Lügat-it Türk",
+            "Kutadgu Bilig",
+            "Çin Yıllıkları"
+         ],
+         "dogruCevap":"Çin Yıllıkları"
+      },
+      {
+         "soru":"İlk Türk devleti hangisidir?",
+         "secenekler":[
+            "Göktürkler",
+            "Uygurlar",
+            "Hun İmparatorluğu",
+            "Avarlar"
+         ],
+         "dogruCevap":"Hun İmparatorluğu"
+      },
+      {
+         "soru":"Avrupa Hun Devleti'nin en güçlü hükümdarı kimdir?",
+         "secenekler":[
+            "Bumin Kağan",
+            "Bilge Kağan",
+            "Mete Han",
+            "Attila"
+         ],
+         "dogruCevap":"Attila"
+      },
+      {
+         "soru":"Türk tarihinde ilk defa orduyu 'onlu sisteme' göre düzenleyen lider kimdir?",
+         "secenekler":[
+            "Attila",
+            "Bumin Kağan",
+            "Mete Han",
+            "Bilge Kağan"
+         ],
+         "dogruCevap":"Mete Han"
+      },
+      {
+         "soru":"Göktürkler hangi hanedan tarafından kurulmuştur?",
+         "secenekler":[
+            "Asena",
+            "Avar",
+            "Hun",
+            "Uygur"
+         ],
+         "dogruCevap":"Asena"
+      },
+      {
+         "soru":"Orhun Yazıtları'nda adları geçen ünlü Türk devlet adamları kimlerdir?",
+         "secenekler":[
+            "Mete Han ve Bumin Kağan",
+            "Attila ve Oktar",
+            "Bilge Kağan ve Tonyukuk",
+            "Manas ve Alp Er Tunga"
+         ],
+         "dogruCevap":"Bilge Kağan ve Tonyukuk"
+      },
+      {
+         "soru":"İlk Türk alfabesi hangisidir?",
+         "secenekler":[
+            "Göktürk Alfabesi",
+            "Uygur Alfabesi",
+            "Arap Alfabesi",
+            "Kiril Alfabesi"
+         ],
+         "dogruCevap":"Göktürk Alfabesi"
+      },
+      {
+         "soru":"Türkler İslamiyet öncesinde genellikle hangi dini inanışı benimsemişlerdir?",
+         "secenekler":[
+            "Zerdüştlük",
+            "Budizm",
+            "Şamanizm",
+            "Hristiyanlık"
+         ],
+         "dogruCevap":"Şamanizm"
+      },
+      {
+         "soru":"Göçebe Türk toplumlarının ana geçim kaynağı neydi?",
+         "secenekler":[
+            "Ticaret",
+            "Tarım",
+            "Hayvancılık",
+            "Madencilik"
+         ],
+         "dogruCevap":"Hayvancılık"
+      },
+      {
+         "soru":"İpek Yolu üzerinde hakimiyet kurarak ticareti kontrol eden Türk devleti hangisidir?",
+         "secenekler":[
+            "Uygurlar",
+            "Göktürkler",
+            "Hunlar",
+            "Avarlar"
+         ],
+         "dogruCevap":"Göktürkler"
+      },
+      {
+         "soru":"Uygurların yerleşik hayata geçişinin en önemli nedeni nedir?",
+         "secenekler":[
+            "Tarımı benimsemeleri",
+            "Budizm'i kabul etmeleri",
+            "İpek Yolu ticaretine hakim olmaları",
+            "Savaşlardan kaçmaları"
+         ],
+         "dogruCevap":"Tarımı benimsemeleri"
+      },
+      {
+         "soru":"Türk adı, ilk kez bir devlet adı olarak hangi Türk devleti tarafından kullanılmıştır?",
+         "secenekler":[
+            "Göktürkler",
+            "Uygurlar",
+            "Hunlar",
+            "Kırgızlar"
+         ],
+         "dogruCevap":"Göktürkler"
+      },
+      {
+         "soru":"Orhun Yazıtları hangi dönemde dikilmiştir?",
+         "secenekler":[
+            "Hunlar",
+            "Göktürkler",
+            "Uygurlar",
+            "Avarlar"
+         ],
+         "dogruCevap":"Göktürkler"
+      },
+      {
+         "soru":"Türk tarihinde 'Töre' nedir?",
+         "secenekler":[
+            "Dinî bir ritüel",
+            "Ordu düzeni",
+            "Hukuk ve gelenekler",
+            "Sanat ve edebiyat"
+         ],
+         "dogruCevap":"Hukuk ve gelenekler"
+      }
+   ],
+   "Ortaçağ Avrupa":[
+      {
+         "soru":"Ortaçağ Avrupa'sında feodal sistemin temel birimi nedir?",
+         "secenekler":[
+            "Krallık",
+            "Şehir Devleti",
+            "Derebeylik",
+            "Manastır"
+         ],
+         "dogruCevap":"Derebeylik"
+      },
+      {
+         "soru":"Hangi olay Ortaçağ'ın başlangıcı olarak kabul edilir?",
+         "secenekler":[
+            "Batı Roma İmparatorluğu'nun yıkılışı",
+            "Magna Carta'nın ilanı",
+            "Bizans'ın kuruluşu",
+            "Haçlı Seferleri'nin başlaması"
+         ],
+         "dogruCevap":"Batı Roma İmparatorluğu'nun yıkılışı"
+      },
+      {
+         "soru":"Hangi savaş Normanların İngiltere'yi fethetmesiyle sonuçlandı?",
+         "secenekler":[
+            "Agincourt Savaşı",
+            "Hastings Savaşı",
+            "Kreşy Savaşı",
+            "Hundred Years War"
+         ],
+         "dogruCevap":"Hastings Savaşı"
+      },
+      {
+         "soru":"Avrupa’da veba salgını olarak bilinen 'Kara Ölüm' hangi yüzyılda etkili olmuştur?",
+         "secenekler":[
+            "12. yüzyıl",
+            "13. yüzyıl",
+            "14. yüzyıl",
+            "15. yüzyıl"
+         ],
+         "dogruCevap":"14. yüzyıl"
+      },
+      {
+         "soru":"Frank Kralı Şarlman, hangi yıl Kutsal Roma İmparatoru ilan edilmiştir?",
+         "secenekler":[
+            "774",
+            "800",
+            "843",
+            "962"
+         ],
+         "dogruCevap":"800"
+      },
+      {
+         "soru":"Ortaçağ’da kilisenin en güçlü olduğu dönem hangi yüzyılda yaşanmıştır?",
+         "secenekler":[
+            "9. yüzyıl",
+            "11. yüzyıl",
+            "13. yüzyıl",
+            "15. yüzyıl"
+         ],
+         "dogruCevap":"13. yüzyıl"
+      },
+      {
+         "soru":"Magna Carta hangi ülkede ve hangi yıl ilan edilmiştir?",
+         "secenekler":[
+            "Fransa, 1215",
+            "İngiltere, 1215",
+            "İtalya, 1302",
+            "Almanya, 962"
+         ],
+         "dogruCevap":"İngiltere, 1215"
+      },
+      {
+         "soru":"Hangi tarikat Ortaçağ'da Haçlı Seferleri sırasında hastane ve konaklama hizmetleri sunmuştur?",
+         "secenekler":[
+            "Tapınak Şövalyeleri",
+            "Cizvitler",
+            "Dominikenler",
+            "Hospitalier Şövalyeleri"
+         ],
+         "dogruCevap":"Hospitalier Şövalyeleri"
+      },
+      {
+         "soru":"Ortaçağ boyunca Avrupa'nın kültür ve biliminin koruyucusu olan kurum hangisidir?",
+         "secenekler":[
+            "Krallıklar",
+            "Kilise",
+            "Ticaret Loncaları",
+            "Üniversiteler"
+         ],
+         "dogruCevap":"Kilise"
+      },
+      {
+         "soru":"Avrupa'da feodal sistemde 'serf' nedir?",
+         "secenekler":[
+            "Askerî lider",
+            "Hür köylü",
+            "Toprağa bağlı köle",
+            "Derebeyi"
+         ],
+         "dogruCevap":"Toprağa bağlı köle"
+      },
+      {
+         "soru":"Ortaçağ'da Haçlı Seferleri’nin ana amacı neydi?",
+         "secenekler":[
+            "Ticaret yollarını kontrol etmek",
+            "Kutsal Toprakları ele geçirmek",
+            "Avrupa'nın birleşmesini sağlamak",
+            "İslam dünyasına saldırmak"
+         ],
+         "dogruCevap":"Kutsal Toprakları ele geçirmek"
+      },
+      {
+         "soru":"İngiltere ile Fransa arasında gerçekleşen Yüz Yıl Savaşları kaç yıl sürmüştür?",
+         "secenekler":[
+            "100 yıl",
+            "96 yıl",
+            "116 yıl",
+            "80 yıl"
+         ],
+         "dogruCevap":"116 yıl"
+      },
+      {
+         "soru":"Ortaçağ’da 'Skolastik Felsefe' hangi kuruma dayanıyordu?",
+         "secenekler":[
+            "Ticaret Loncaları",
+            "Üniversiteler",
+            "Kilise",
+            "Askerî Tarikatlar"
+         ],
+         "dogruCevap":"Kilise"
+      },
+      {
+         "soru":"Batı Avrupa'da feodalizmin çöküşüne hangi gelişme önemli katkı sağlamıştır?",
+         "secenekler":[
+            "Kara Ölüm",
+            "Haçlı Seferleri",
+            "Rönesans",
+            "Reform"
+         ],
+         "dogruCevap":"Kara Ölüm"
+      },
+      {
+         "soru":"Bizans İmparatorluğu'nu fetheden Osmanlı padişahı kimdir?",
+         "secenekler":[
+            "Yavuz Sultan Selim",
+            "Fatih Sultan Mehmet",
+            "Kanuni Sultan Süleyman",
+            "II. Murad"
+         ],
+         "dogruCevap":"Fatih Sultan Mehmet"
+      }
+   ],
+   "Dünya Savaşları":[
+      {
+         "soru":"1. Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+         "secenekler":[
+            "1912-1916",
+            "1914-1918",
+            "1920-1925",
+            "1939-1945"
+         ],
+         "dogruCevap":"1914-1918"
+      },
+      {
+         "soru":"1. Dünya Savaşı'nda İtilaf Devletleri arasında aşağıdaki ülkelerden hangisi yer almıyordu?",
+         "secenekler":[
+            "Fransa",
+            "Rusya",
+            "İngiltere",
+            "Osmanlı İmparatorluğu"
+         ],
+         "dogruCevap":"Osmanlı İmparatorluğu"
+      },
+      {
+         "soru":"Osmanlı Devleti 1. Dünya Savaşı’nda hangi tarafta yer almıştır?",
+         "secenekler":[
+            "Tarafsız",
+            "İtilaf Devletleri",
+            "İttifak Devletleri",
+            "Bağımsız"
+         ],
+         "dogruCevap":"İttifak Devletleri"
+      },
+      {
+         "soru":"1. Dünya Savaşı'nın başlamasına sebep olan suikast nerede gerçekleşmiştir?",
+         "secenekler":[
+            "Berlin",
+            "Paris",
+            "Saraybosna",
+            "Londra"
+         ],
+         "dogruCevap":"Saraybosna"
+      },
+      {
+         "soru":"1. Dünya Savaşı'nı sona erdiren antlaşma hangisidir?",
+         "secenekler":[
+            "Versailles Antlaşması",
+            "Sevr Antlaşması",
+            "Lozan Antlaşması",
+            "Brest-Litovsk Antlaşması"
+         ],
+         "dogruCevap":"Versailles Antlaşması"
+      },
+      {
+         "soru":"2. Dünya Savaşı hangi yıllar arasında gerçekleşmiştir?",
+         "secenekler":[
+            "1935-1940",
+            "1939-1945",
+            "1941-1945",
+            "1945-1950"
+         ],
+         "dogruCevap":"1939-1945"
+      },
+      {
+         "soru":"2. Dünya Savaşı’nın başlamasına neden olan Almanya’nın işgali hangi ülkeyi hedef almıştır?",
+         "secenekler":[
+            "Fransa",
+            "Polonya",
+            "Çekoslovakya",
+            "Avusturya"
+         ],
+         "dogruCevap":"Polonya"
+      },
+      {
+         "soru":"2. Dünya Savaşı'nda Müttefik Devletler arasında aşağıdaki ülkelerden hangisi yer almıyordu?",
+         "secenekler":[
+            "SSCB",
+            "ABD",
+            "İtalya",
+            "İngiltere"
+         ],
+         "dogruCevap":"İtalya"
+      },
+      {
+         "soru":"Pearl Harbor Baskını hangi ülkenin 2. Dünya Savaşı’na katılmasına neden olmuştur?",
+         "secenekler":[
+            "İngiltere",
+            "Fransa",
+            "ABD",
+            "Almanya"
+         ],
+         "dogruCevap":"ABD"
+      },
+      {
+         "soru":"2. Dünya Savaşı sırasında Adolf Hitler'in liderlik ettiği siyasi parti hangisidir?",
+         "secenekler":[
+            "Komünist Parti",
+            "Nazi Partisi",
+            "Faşist Parti",
+            "Liberal Parti"
+         ],
+         "dogruCevap":"Nazi Partisi"
+      },
+      {
+         "soru":"2. Dünya Savaşı'nda Mihver Devletler arasında yer alan ülkelerden biri hangisidir?",
+         "secenekler":[
+            "Fransa",
+            "Japonya",
+            "İngiltere",
+            "ABD"
+         ],
+         "dogruCevap":"Japonya"
+      },
+      {
+         "soru":"2. Dünya Savaşı’nı sona erdiren olaylardan biri olan atom bombası saldırısı hangi Japon şehirlerine yapılmıştır?",
+         "secenekler":[
+            "Tokyo ve Kyoto",
+            "Osaka ve Kobe",
+            "Nagasaki ve Fukuoka",
+            "Hiroşima ve Nagazaki"
+         ],
+         "dogruCevap":"Hiroşima ve Nagazaki"
+      },
+      {
+         "soru":"Normandiya Çıkarması hangi yıl gerçekleşmiştir?",
+         "secenekler":[
+            "1942",
+            "1943",
+            "1944",
+            "1945"
+         ],
+         "dogruCevap":"1944"
+      },
+      {
+         "soru":"Birleşmiş Milletler örgütü hangi savaşın ardından kurulmuştur?",
+         "secenekler":[
+            "1. Dünya Savaşı",
+            "2. Dünya Savaşı",
+            "Kore Savaşı",
+            "Soğuk Savaş"
+         ],
+         "dogruCevap":"2. Dünya Savaşı"
+      },
+      {
+         "soru":"Hitler’in 2. Dünya Savaşı sırasında yazdığı kitap hangi isimle anılır?",
+         "secenekler":[
+            "Mein Kampf",
+            "Das Kapital",
+            "Hitler’in Günlükleri",
+            "Nazi Manifestosu"
+         ],
+         "dogruCevap":"Mein Kampf"
+      }
+   ],
+   "Selçuklu Tarihi":[
+      {
+         "soru":"Büyük Selçuklu Devleti'nin kurucusu kimdir?",
+         "secenekler":[
+            "Sultan Alparslan",
+            "Tuğrul Bey",
+            "Çağrı Bey",
+            "Melikşah"
+         ],
+         "dogruCevap":"Tuğrul Bey"
+      },
+      {
+         "soru":"1040 Dandanakan Savaşı'nda Selçuklular hangi devleti mağlup etmiştir?",
+         "secenekler":[
+            "Gazneliler",
+            "Bizans",
+            "Karahanlılar",
+            "Harzemşahlar"
+         ],
+         "dogruCevap":"Gazneliler"
+      },
+      {
+         "soru":"Selçukluların İslam dünyasında siyasi liderliği ele geçirmesine zemin hazırlayan unvan nedir?",
+         "secenekler":[
+            "Halife",
+            "Sultan",
+            "Melik",
+            "İslam'ın Kılıcı"
+         ],
+         "dogruCevap":"Sultan"
+      },
+      {
+         "soru":"Büyük Selçuklu Devleti hangi savaşla Anadolu'nun kapılarını Türklere açmıştır?",
+         "secenekler":[
+            "Dandanakan Savaşı",
+            "Pasinler Savaşı",
+            "Yassıçemen Savaşı",
+            "Malazgirt Savaşı"
+         ],
+         "dogruCevap":"Malazgirt Savaşı"
+      },
+      {
+         "soru":"Malazgirt Savaşı hangi tarihte gerçekleşmiştir?",
+         "secenekler":[
+            "1040",
+            "1081",
+            "1071",
+            "1176"
+         ],
+         "dogruCevap":"1071"
+      },
+      {
+         "soru":"Büyük Selçuklu Devleti en geniş sınırlarına hangi hükümdar döneminde ulaşmıştır?",
+         "secenekler":[
+            "Tuğrul Bey",
+            "Çağrı Bey",
+            "Melikşah",
+            "Sultan Alparslan"
+         ],
+         "dogruCevap":"Melikşah"
+      },
+      {
+         "soru":"Selçuklu Devleti'nin çöküşüne neden olan 1141 Katvan Savaşı'nda kimlerle savaşmışlardır?",
+         "secenekler":[
+            "Moğollar",
+            "Gazneliler",
+            "Karahanlılar",
+            "Karahitaylar"
+         ],
+         "dogruCevap":"Karahitaylar"
+      },
+      {
+         "soru":"Büyük Selçuklu Devleti’nin yıkılmasından sonra Anadolu’da kurulan Selçuklu devleti hangisidir?",
+         "secenekler":[
+            "Karamanoğulları",
+            "Anadolu Selçuklu Devleti",
+            "Danişmentliler",
+            "Osmanlı Devleti"
+         ],
+         "dogruCevap":"Anadolu Selçuklu Devleti"
+      },
+      {
+         "soru":"Selçuklu Devleti'nde devlet işleri genellikle hangi mekânda görüşülürdü?",
+         "secenekler":[
+            "Medrese",
+            "Divan",
+            "Cami",
+            "Kervansaray"
+         ],
+         "dogruCevap":"Divan"
+      },
+      {
+         "soru":"Selçuklu Devleti’nin resmi dili hangisidir?",
+         "secenekler":[
+            "Türkçe",
+            "Farsça",
+            "Arapça",
+            "Moğolca"
+         ],
+         "dogruCevap":"Farsça"
+      },
+      {
+         "soru":"Nizamülmülk tarafından yazılan ünlü politika kitabının adı nedir?",
+         "secenekler":[
+            "Kutadgu Bilig",
+            "Divan-ı Hikmet",
+            "Siyasetname",
+            "Selçukname"
+         ],
+         "dogruCevap":"Siyasetname"
+      },
+      {
+         "soru":"Selçuklu Sultanı Alparslan'ın 1071 Malazgirt Savaşı'nda savaştığı Bizans imparatoru kimdir?",
+         "secenekler":[
+            "I. Aleksios",
+            "VII. Konstantin",
+            "IV. Romanos Diogenes",
+            "II. Andronikos"
+         ],
+         "dogruCevap":"IV. Romanos Diogenes"
+      },
+      {
+         "soru":"Selçukluların kurduğu ünlü kervansaray sisteminin amacı nedir?",
+         "secenekler":[
+            "Ticaretin gelişmesini sağlamak",
+            "Askerî üsler oluşturmak",
+            "Vergi toplamak",
+            "Eğitim vermek"
+         ],
+         "dogruCevap":"Ticaretin gelişmesini sağlamak"
+      },
+      {
+         "soru":"Büyük Selçuklu Devleti'nin merkezi neresiydi?",
+         "secenekler":[
+            "Konya",
+            "Rey",
+            "Bağdat",
+            "Merv"
+         ],
+         "dogruCevap":"Merv"
+      }
+   ],
+   "Osmanlı Tarihi":[
+      {
+         "soru":"Osmanlı Devleti'nin kurucusu kimdir?",
+         "secenekler":[
+            "Osman Gazi",
+            "Orhan Gazi",
+            "Sultan Murad",
+            "Fatih Sultan Mehmet"
+         ],
+         "dogruCevap":"Osman Gazi"
+      },
+      {
+         "soru":"Osmanlı Devleti'nin başkenti Bursa'dan sonra nereye taşınmıştır?",
+         "secenekler":[
+            "İstanbul",
+            "Edirne",
+            "Ankara",
+            "Manisa"
+         ],
+         "dogruCevap":"Edirne"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde ilk padişah kimdir?",
+         "secenekler":[
+            "Osman Gazi",
+            "Orhan Gazi",
+            "Yıldırım Beyazıt",
+            "Fatih Sultan Mehmet"
+         ],
+         "dogruCevap":"Osman Gazi"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde ilk altın para hangi padişah döneminde bastırılmıştır?",
+         "secenekler":[
+            "Orhan Gazi",
+            "Fatih Sultan Mehmet",
+            "Kanuni Sultan Süleyman",
+            "Sultan Abdülmecid"
+         ],
+         "dogruCevap":"Fatih Sultan Mehmet"
+      },
+      {
+         "soru":"Osmanlı Devleti’nin ilk deniz savaşı hangisidir?",
+         "secenekler":[
+            "İnebahtı Deniz Savaşı",
+            "Venedik Savaşı",
+            "Koyunhisar Savaşı",
+            "Çeşme Baskını"
+         ],
+         "dogruCevap":"Çeşme Baskını"
+      },
+      {
+         "soru":"Osmanlı Devleti hangi savaş sonucunda Anadolu’daki siyasi birliği sağlamıştır?",
+         "secenekler":[
+            "Koyunhisar Savaşı",
+            "Sırpsındığı Savaşı",
+            "Turnadağ Savaşı",
+            "Çaldıran Savaşı"
+         ],
+         "dogruCevap":"Turnadağ Savaşı"
+      },
+      {
+         "soru":"Fatih Sultan Mehmet’in İstanbul’u fethettiği yıl hangisidir?",
+         "secenekler":[
+            "1453",
+            "1517",
+            "1071",
+            "1299"
+         ],
+         "dogruCevap":"1453"
+      },
+      {
+         "soru":"Kanuni Sultan Süleyman döneminde Osmanlı Devleti’nin en parlak zaferlerinden biri olan Mohaç Meydan Savaşı hangi yıl gerçekleşmiştir?",
+         "secenekler":[
+            "1517",
+            "1526",
+            "1571",
+            "1453"
+         ],
+         "dogruCevap":"1526"
+      },
+      {
+         "soru":"Osmanlı Devleti’nin Duraklama Dönemi hangi padişah döneminde başlamıştır?",
+         "secenekler":[
+            "III. Murad",
+            "I. Süleyman",
+            "II. Selim",
+            "IV. Murad"
+         ],
+         "dogruCevap":"II. Selim"
+      },
+      {
+         "soru":"Osmanlı Devleti'nin ilk resmi tarih yazıcısı kimdir?",
+         "secenekler":[
+            "Katip Çelebi",
+            "Ahmet Cevdet Paşa",
+            "Naima",
+            "İbni Kemal"
+         ],
+         "dogruCevap":"Naima"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde ilk nüfus sayımı hangi padişah döneminde yapılmıştır?",
+         "secenekler":[
+            "II. Mahmud",
+            "Abdülmecid",
+            "Kanuni Sultan Süleyman",
+            "I. Abdülhamid"
+         ],
+         "dogruCevap":"II. Mahmud"
+      },
+      {
+         "soru":"Osmanlı Devleti’nin kuruluşunda rol oynayan Ahilik teşkilatının temel amacı nedir?",
+         "secenekler":[
+            "Ticaretin düzenlenmesi",
+            "Askerî birliklerin kurulması",
+            "Vergi toplanması",
+            "Medrese eğitimi sağlamak"
+         ],
+         "dogruCevap":"Ticaretin düzenlenmesi"
+      },
+      {
+         "soru":"Osmanlı’da “Devşirme Sistemi” nedir?",
+         "secenekler":[
+            "Vergi toplama sistemi",
+            "Yeniçeri askerlerinin seçilmesi",
+            "Ticaret yollarının kontrolü",
+            "Halkın din değiştirmesi"
+         ],
+         "dogruCevap":"Yeniçeri askerlerinin seçilmesi"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde “Tımar Sistemi” hangi alanda uygulanmıştır?",
+         "secenekler":[
+            "Ticaret",
+            "Askerlik",
+            "Sanayi",
+            "Tarım"
+         ],
+         "dogruCevap":"Tarım"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde Batı tarzı ıslahatlar hangi padişah döneminde başlamıştır?",
+         "secenekler":[
+            "II. Mahmud",
+            "III. Selim",
+            "Abdülhamid II",
+            "I. Abdülmecid"
+         ],
+         "dogruCevap":"III. Selim"
+      },
+      {
+         "soru":"Osmanlı Devleti’nin ilk matbaası hangi padişah döneminde kurulmuştur?",
+         "secenekler":[
+            "II. Mahmud",
+            "I. Mahmud",
+            "III. Ahmet",
+            "Abdülmecid"
+         ],
+         "dogruCevap":"III. Ahmet"
+      },
+      {
+         "soru":" Fetret Devri hangi olayla sona ermiştir?",
+         "secenekler":[
+            "İstanbul'un Fethi",
+            "I. Mehmet’in padişah olması",
+            "Yavuz’un tahta çıkışı",
+            "Çaldıran Zaferi"
+         ],
+         "dogruCevap":"I. Mehmet’in padişah olması"
+      },
+      {
+         "soru":"Osmanlı Devleti hangi savaşla Avusturya’ya karşı üstünlük sağlamıştır?",
+         "secenekler":[
+            "Mohaç Meydan Savaşı",
+            "Viyana Kuşatması",
+            "Pasarofça Antlaşması",
+            "Zenta Savaşı"
+         ],
+         "dogruCevap":"Mohaç Meydan Savaşı"
+      },
+      {
+         "soru":"Osmanlı Devleti'nin Lale Devri hangi padişah döneminde yaşanmıştır?",
+         "secenekler":[
+            "III. Ahmet",
+            "III. Selim",
+            "II. Mahmud",
+            "IV. Mehmet"
+         ],
+         "dogruCevap":"III. Ahmet"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde “İstanbul Antlaşması” hangi ülke ile imzalanmıştır?",
+         "secenekler":[
+            "Avusturya",
+            "Rusya",
+            "İran",
+            "İngiltere"
+         ],
+         "dogruCevap":"Rusya"
+      },
+      {
+         "soru":"Osmanlı Devleti’nin kuruluş yıllarında Anadolu Selçuklu Devleti’nin başkenti neresiydi?",
+         "secenekler":[
+            "Konya",
+            "Sivas",
+            "İznik",
+            "Ankara"
+         ],
+         "dogruCevap":"Konya"
+      },
+      {
+         "soru":"Osmanlı’da 'kapıkulu askerleri' neyi ifade eder?",
+         "secenekler":[
+            "Tımar sahipleri",
+            "Kervansaray çalışanları",
+            "İsyancı birlikler",
+            "Padişahın özel koruma birliği"
+         ],
+         "dogruCevap":"Padişahın özel koruma birliği"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde 'Kapitülasyonlar' neyi ifade eder?",
+         "secenekler":[
+            "Askerî antlaşmalar",
+            "Ticaret imtiyazları",
+            "Eğitim reformları",
+            "Vergi sistemi"
+         ],
+         "dogruCevap":"Ticaret imtiyazları"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde “Yeniçeri Ocağı” hangi padişah döneminde kaldırılmıştır?",
+         "secenekler":[
+            "II. Mahmud",
+            "III. Selim",
+            "I. Abdülhamid",
+            "IV. Mehmet"
+         ],
+         "dogruCevap":"II. Mahmud"
+      },
+      {
+         "soru":"Osmanlı Devleti’nde 'Mecelle' nedir?",
+         "secenekler":[
+            "İlk yazılı anayasa",
+            "Medrese eğitimi kuralları",
+            "İslam hukuku esaslarına dayalı medeni kanun",
+            "Askerî reformların isimlendirilmesi"
+         ],
+         "dogruCevap":"İslam hukuku esaslarına dayalı medeni kanun"
+      }
+   ],
+   "Türkiye Cumhuriyeti":[
+      {
+         "soru":"Türkiye Cumhuriyeti hangi tarihte kurulmuştur?",
+         "secenekler":[
+            "23 Nisan 1920",
+            "29 Ekim 1923",
+            "19 Mayıs 1919",
+            "10 Kasım 1938"
+         ],
+         "dogruCevap":"29 Ekim 1923"
+      },
+      {
+         "soru":"Cumhuriyetin ilanından sonra Türkiye Cumhuriyeti’nin ilk Cumhurbaşkanı kim olmuştur?",
+         "secenekler":[
+            "Mustafa Kemal Atatürk",
+            "İsmet İnönü",
+            "Celal Bayar",
+            "Fevzi Çakmak"
+         ],
+         "dogruCevap":"Mustafa Kemal Atatürk"
+      },
+      {
+         "soru":"Türkiye Cumhuriyeti’nin ilk Başbakanı kimdir?",
+         "secenekler":[
+            "Celal Bayar",
+            "Ali Fethi Okyar",
+            "Mustafa Kemal Atatürk",
+            "İsmet İnönü"
+         ],
+         "dogruCevap":"İsmet İnönü"
+      },
+      {
+         "soru":"Lozan Antlaşması hangi tarihte imzalanmıştır?",
+         "secenekler":[
+            "29 Ekim 1923",
+            "23 Nisan 1920",
+            "24 Temmuz 1923",
+            "11 Kasım 1922"
+         ],
+         "dogruCevap":"24 Temmuz 1923"
+      },
+      {
+         "soru":"Türk kadınlarına seçme ve seçilme hakkı hangi yıl verilmiştir?",
+         "secenekler":[
+            "1934",
+            "1926",
+            "1928",
+            "1930"
+         ],
+         "dogruCevap":"1934"
+      },
+      {
+         "soru":"Atatürk'ün Türk alfabesini tanıttığı Harf İnkılabı hangi yıl yapılmıştır?",
+         "secenekler":[
+            "1934",
+            "1925",
+            "1930",
+            "1928"
+         ],
+         "dogruCevap":"1928"
+      },
+      {
+         "soru":"Türkiye Cumhuriyeti’nin ilk anayasal düzenlemesi hangi yıl yapılmıştır?",
+         "secenekler":[
+            "1924",
+            "1921",
+            "1937",
+            "1946"
+         ],
+         "dogruCevap":"1924"
+      },
+      {
+         "soru":"Saltanat hangi tarihte kaldırılmıştır?",
+         "secenekler":[
+            "29 Ekim 1923",
+            "23 Nisan 1920",
+            "3 Mart 1924",
+            "1 Kasım 1922"
+         ],
+         "dogruCevap":"1 Kasım 1922"
+      },
+      {
+         "soru":"Medeni Kanun hangi tarihte kabul edilmiştir?",
+         "secenekler":[
+            "1923",
+            "1934",
+            "1926",
+            "1928"
+         ],
+         "dogruCevap":"1926"
+      },
+      {
+         "soru":"Atatürk'ün 'Nutuk' adlı eserini okuduğu kongre hangi tarihte yapılmıştır?",
+         "secenekler":[
+            "15-20 Ekim 1927",
+            "23 Nisan 1920",
+            "19 Mayıs 1919",
+            "28 Ekim 1923"
+         ],
+         "dogruCevap":"15-20 Ekim 1927"
+      },
+      {
+         "soru":"Türkiye Cumhuriyeti’nin ilk çok partili seçimleri hangi yıl yapılmıştır?",
+         "secenekler":[
+            "1950",
+            "1946",
+            "1930",
+            "1961"
+         ],
+         "dogruCevap":"1946"
+      },
+      {
+         "soru":"Türk Tarih Kurumu hangi yıl kurulmuştur?",
+         "secenekler":[
+            "1931",
+            "1925",
+            "1928",
+            "1934"
+         ],
+         "dogruCevap":"1931"
+      },
+      {
+         "soru":"Mustafa Kemal Atatürk'ün hayatını kaybettiği tarih nedir?",
+         "secenekler":[
+            "23 Nisan 1920",
+            "29 Ekim 1938",
+            "10 Kasım 1938",
+            "11 Kasım 1938"
+         ],
+         "dogruCevap":"10 Kasım 1938"
+      },
+      {
+         "soru":"Cumhuriyet Halk Partisi hangi yıl kurulmuştur?",
+         "secenekler":[
+            "1924",
+            "1925",
+            "1930",
+            "1923"
+         ],
+         "dogruCevap":"1923"
+      },
+      {
+         "soru":"Türkiye’nin ilk demiryolu hattı Cumhuriyet döneminde hangi yıl açılmıştır?",
+         "secenekler":[
+            "1927",
+            "1925",
+            "1933",
+            "1929"
+         ],
+         "dogruCevap":"1927"
+      }
+   ],
+   "Coğrafi Keşifler":[
+      {
+         "soru":"Coğrafi Keşifler hangi yüzyılda başlamıştır?",
+         "secenekler":[
+            "15. yüzyıl",
+            "14. yüzyıl",
+            "16. yüzyıl",
+            "17. yüzyıl"
+         ],
+         "dogruCevap":"15. yüzyıl"
+      },
+      {
+         "soru":"Kristof Kolomb 1492 yılında hangi kıtayı keşfetmiştir?",
+         "secenekler":[
+            "Asya",
+            "Avrupa",
+            "Avustralya",
+            "Amerika"
+         ],
+         "dogruCevap":"Amerika"
+      },
+      {
+         "soru":"Portekizli denizci Vasco da Gama, Ümit Burnu'nu aşarak hangi ülkeye ulaşmıştır?",
+         "secenekler":[
+            "Çin",
+            "Hindistan",
+            "Japonya",
+            "Endonezya"
+         ],
+         "dogruCevap":"Hindistan"
+      },
+      {
+         "soru":"Coğrafi Keşifler’in ana nedenlerinden biri aşağıdakilerden hangisidir?",
+         "secenekler":[
+            "Sanayi Devrimi’ni hızlandırmak",
+            "Dinsel yayılma",
+            "İpek Yolu’nu kontrol etmek",
+            "Yeni ticaret yolları bulmak"
+         ],
+         "dogruCevap":"Yeni ticaret yolları bulmak"
+      },
+      {
+         "soru":"Ümit Burnu'nu keşfeden denizci kimdir?",
+         "secenekler":[
+            "Bartolomeu Dias",
+            "Vasco da Gama",
+            "Kristof Kolomb",
+            "Ferdinand Macellan"
+         ],
+         "dogruCevap":"Bartolomeu Dias"
+      },
+      {
+         "soru":"Dünya'nın çevresini dolaşan ilk seferi gerçekleştiren denizci kimdir?",
+         "secenekler":[
+            "Ferdinand Macellan",
+            "Vasco da Gama",
+            "James Cook",
+            "Bartolomeu Dias"
+         ],
+         "dogruCevap":"Ferdinand Macellan"
+      },
+      {
+         "soru":"Coğrafi Keşifler döneminde Amerika'ya adını veren kaşif kimdir?",
+         "secenekler":[
+            "Kristof Kolomb",
+            "Ferdinand Macellan",
+            "John Cabot",
+            "Amerigo Vespucci"
+         ],
+         "dogruCevap":"Amerigo Vespucci"
+      },
+      {
+         "soru":"Coğrafi Keşifler hangi Avrupa ülkesinin öncülüğünde başlamıştır?",
+         "secenekler":[
+            "İspanya",
+            "Hollanda",
+            "Portekiz",
+            "İngiltere"
+         ],
+         "dogruCevap":"Portekiz"
+      },
+      {
+         "soru":"Coğrafi Keşifler sırasında İspanya adına keşif yapan denizcilerden biri kimdir?",
+         "secenekler":[
+            "Kristof Kolomb",
+            "Vasco da Gama",
+            "Bartolomeu Dias",
+            "James Cook"
+         ],
+         "dogruCevap":"Kristof Kolomb"
+      },
+      {
+         "soru":"Coğrafi Keşifler’in sonucunda, Avrupa'nın hangi kıtadaki sömürge faaliyetleri artmıştır?",
+         "secenekler":[
+            "Asya",
+            "Amerika",
+            "Afrika",
+            "Avustralya"
+         ],
+         "dogruCevap":"Amerika"
+      }
+   ],
+   "Antik Mısır":[
+      {
+         "soru":"Antik Mısır'da firavunlar hangi unvanla anılırdı?",
+         "secenekler":[
+            "Tanrı-Kral",
+            "İmparator",
+            "Başrahip",
+            "Kutsal Lider"
+         ],
+         "dogruCevap":"Tanrı-Kral"
+      },
+      {
+         "soru":"Antik Mısır'da ölülerin ruhlarını korumak için yapılan yapılar nelerdir?",
+         "secenekler":[
+            "Tapınaklar",
+            "Mezar odaları",
+            "Piramitler",
+            "Anıt sütunlar"
+         ],
+         "dogruCevap":"Piramitler"
+      },
+      {
+         "soru":"Antik Mısır’ın en uzun nehrinin adı nedir?",
+         "secenekler":[
+            "Amazon Nehri",
+            "Tigris Nehri",
+            "Fırat Nehri",
+            "Nil Nehri"
+         ],
+         "dogruCevap":"Nil Nehri"
+      },
+      {
+         "soru":"Antik Mısır’da ölülerin bedenlerini korumak için kullanılan yöntem nedir?",
+         "secenekler":[
+            "Mumyalama",
+            "Yakma",
+            "Dondurma",
+            "Toprağa gömme"
+         ],
+         "dogruCevap":"Mumyalama"
+      },
+      {
+         "soru":"Antik Mısır’da yazı sistemi olarak kullanılan alfabe nedir?",
+         "secenekler":[
+            "Sanskritçe",
+            "Latin Alfabesi",
+            "Hiyeroglif",
+            "Çivi Yazısı"
+         ],
+         "dogruCevap":"Hiyeroglif"
+      },
+      {
+         "soru":"Büyük Giza Piramidi hangi firavun için yapılmıştır?",
+         "secenekler":[
+            "Keops",
+            "Tutankamon",
+            "Ramses",
+            "Snefru"
+         ],
+         "dogruCevap":"Keops"
+      },
+      {
+         "soru":"Antik Mısır'da güneş tanrısı olarak bilinen tanrının adı nedir?",
+         "secenekler":[
+            "Osiris",
+            "Ra",
+            "Horus",
+            "Set"
+         ],
+         "dogruCevap":"Ra"
+      },
+      {
+         "soru":"Antik Mısır’da kadın firavun olarak bilinen ve oldukça başarılı bir yönetici olan kişi kimdir?",
+         "secenekler":[
+            "Hatshepsut",
+            "Kleopatra",
+            "Nefertiti",
+            "Sobekneferu"
+         ],
+         "dogruCevap":"Hatshepsut"
+      },
+      {
+         "soru":"Antik Mısır’da ölüm ve yeraltı dünyasının tanrısı kimdir?",
+         "secenekler":[
+            "Osiris",
+            "Anubis",
+            "Ra",
+            "Horus"
+         ],
+         "dogruCevap":"Osiris"
+      },
+      {
+         "soru":"Tutankamon’un mezarı hangi tarihte keşfedilmiştir?",
+         "secenekler":[
+            "1905",
+            "1935",
+            "1918",
+            "1922"
+         ],
+         "dogruCevap":"1922"
+      }
+   ],
+   "İnkalar":[
+      {
+         "soru":"İnka İmparatorluğu'nun başkenti hangi şehirde bulunuyordu?",
+         "secenekler":[
+            "Machu Picchu",
+            "Lima",
+            "Nazca",
+            "Cusco"
+         ],
+         "dogruCevap":"Cusco"
+      },
+      {
+         "soru":"İnka İmparatorluğu'nda halkın yönetimine kim başkanlık ediyordu?",
+         "secenekler":[
+            "Sapa İnka",
+            "Priest",
+            "Ayllu",
+            "Machu Picchu"
+         ],
+         "dogruCevap":"Sapa İnka"
+      },
+      {
+         "soru":"İnka İmparatorluğu'nun en ünlü yapılarından biri olan Machu Picchu, hangi dağın zirvesinde yer almaktadır?",
+         "secenekler":[
+            "Machu Picchu Dağı",
+            "Huayna Picchu",
+            "Ollantaytambo",
+            "Salkantay Dağı"
+         ],
+         "dogruCevap":"Huayna Picchu"
+      },
+      {
+         "soru":"İnka İmparatorluğu'nun en büyük fetihlerinden biri hangi bölgeyi kapsıyordu?",
+         "secenekler":[
+            "Amazon Ormanları",
+            "Orta Amerika",
+            "Patagonya",
+            "And Dağları"
+         ],
+         "dogruCevap":"And Dağları"
+      },
+      {
+         "soru":"İnka İmparatorluğu'nun kullandığı yazı sistemi hangisiydi?",
+         "secenekler":[
+            "Hiyeroglif",
+            "Çivi Yazısı",
+            "Kipu",
+            "Alfabe"
+         ],
+         "dogruCevap":"Kipu"
+      },
+      {
+         "soru":"İnka İmparatorluğu'nun en güçlü hükümdarlarından biri olarak bilinen kişi kimdir?",
+         "secenekler":[
+            "Pachacuti",
+            "Atahualpa",
+            "Huayna Capac",
+            "Manco Inca"
+         ],
+         "dogruCevap":"Pachacuti"
+      },
+      {
+         "soru":"İnka İmparatorluğu hangi yüzyılda kuruldu?",
+         "secenekler":[
+            "14. yüzyıl",
+            "15. yüzyıl",
+            "16. yüzyıl",
+            "13. yüzyıl"
+         ],
+         "dogruCevap":"15. yüzyıl"
+      },
+      {
+         "soru":"İnka halkı hangi tanrıya inanıyordu?",
+         "secenekler":[
+            "Viracocha",
+            "Ra",
+            "Horus",
+            "Zeus"
+         ],
+         "dogruCevap":"Viracocha"
+      },
+      {
+         "soru":"İnka İmparatorluğu'nun son hükümdarı kimdir?",
+         "secenekler":[
+            "Pachacuti",
+            "Manco Inca",
+            "Huayna Capac",
+            "Atahualpa"
+         ],
+         "dogruCevap":"Atahualpa"
+      },
+      {
+         "soru":"İnka İmparatorluğu'nun çöküşüne hangi Avrupa devleti sebep olmuştur?",
+         "secenekler":[
+            "İspanya",
+            "Portekiz",
+            "Fransa",
+            "İngiltere"
+         ],
+         "dogruCevap":"İspanya"
+      }
+   ],
+   "Mayalar":[
+      {
+         "soru":"Maya uygarlığı hangi kıtada gelişmiştir?",
+         "secenekler":[
+            "Güney Amerika",
+            "Orta Amerika",
+            "Kuzey Amerika",
+            "Afrika"
+         ],
+         "dogruCevap":"Orta Amerika"
+      },
+      {
+         "soru":"Maya uygarlığının en ünlü şehirlerinden biri hangi şehirdir?",
+         "secenekler":[
+            "Tikal",
+            "Chichen Itza",
+            "Cuzco",
+            "Teotihuacan"
+         ],
+         "dogruCevap":"Chichen Itza"
+      },
+      {
+         "soru":"Mayalar hangi yazı sistemini kullanmışlardır?",
+         "secenekler":[
+            "Hiyeroglif",
+            "Çivi Yazısı",
+            "Kipus",
+            "Alfabe"
+         ],
+         "dogruCevap":"Hiyeroglif"
+      },
+      {
+         "soru":"Mayaların en önemli tanrılarından biri olan ve güneşi temsil eden tanrının adı nedir?",
+         "secenekler":[
+            "Quetzalcoatl",
+            "Huitzilopochtli",
+            "Ra",
+            "Kinich Ahau"
+         ],
+         "dogruCevap":"Kinich Ahau"
+      },
+      {
+         "soru":"Mayalar, hangi doğal kaynağı kullanarak takvimlerini geliştirmiştir?",
+         "secenekler":[
+            "Ay",
+            "Güneş",
+            "Yıldızlar",
+            "Gezegenler"
+         ],
+         "dogruCevap":"Ay"
+      },
+      {
+         "soru":"Maya uygarlığı hangi yüzyılda çökmeye başlamıştır?",
+         "secenekler":[
+            "12. yüzyıl",
+            "15. yüzyıl",
+            "9. yüzyıl",
+            "10. yüzyıl"
+         ],
+         "dogruCevap":"9. yüzyıl"
+      },
+      {
+         "soru":"Mayaların kullandığı takvim sistemi kaç gün olarak kabul edilmiştir?",
+         "secenekler":[
+            "260 gün",
+            "365 gün",
+            "5250 gün",
+            "1440 gün"
+         ],
+         "dogruCevap":"365 gün"
+      },
+      {
+         "soru":"Mayalar, hangi büyük yapıları inşa etmekle ünlüdürler?",
+         "secenekler":[
+            "Piramitler",
+            "Zigguratlar",
+            "Saraylar",
+            "Köprüler"
+         ],
+         "dogruCevap":"Piramitler"
+      },
+      {
+         "soru":"Maya uygarlığının gelişmesinde önemli bir yer tutan ve takvim, astronomi, matematik gibi alanlarda bilgili oldukları bir alan nedir?",
+         "secenekler":[
+            "Ticaret",
+            "Sanat",
+            "Askeri strateji",
+            "Astronomi"
+         ],
+         "dogruCevap":"Astronomi"
+      },
+      {
+         "soru":"Mayaların inşa ettiği en büyük piramitlerden biri hangi şehirde yer alır?",
+         "secenekler":[
+            "Tikal",
+            "Palenque",
+            "Chichen Itza",
+            "Uxmal"
+         ],
+         "dogruCevap":"Chichen Itza"
+      }
+   ],
+   "Aztekler":[
+      {
+         "soru":"Aztek İmparatorluğu'nun başkenti hangi şehirdi?",
+         "secenekler":[
+            "Teotihuacan",
+            "Chichen Itza",
+            "Tenochtitlán",
+            "Cuzco"
+         ],
+         "dogruCevap":"Tenochtitlán"
+      },
+      {
+         "soru":"Aztekler, hangi tanrıyı en önemli tanrı olarak kabul ediyorlardı?",
+         "secenekler":[
+            "Huitzilopochtli",
+            "Quetzalcoatl",
+            "Ra",
+            "Kinich Ahau"
+         ],
+         "dogruCevap":"Huitzilopochtli"
+      },
+      {
+         "soru":"Aztekler hangi yazı sistemini kullanmışlardır?",
+         "secenekler":[
+            "Çivi Yazısı",
+            "Piktografik yazı",
+            "Alfabe",
+            "Hiyeroglif"
+         ],
+         "dogruCevap":"Piktografik yazı"
+      },
+      {
+         "soru":"Aztekler hangi malzemeyi altın gibi değerli sayarak takı ve süslemelerinde kullanmışlardır?",
+         "secenekler":[
+            "Yeşim",
+            "Kurşun",
+            "Gümüş",
+            "Bakır"
+         ],
+         "dogruCevap":"Yeşim"
+      },
+      {
+         "soru":"Aztekler, hangi doğal kaynakları kullanarak takvimlerini oluşturmuşlardır?",
+         "secenekler":[
+            "Yıldızlar ve gezegenler",
+            "Güneş ve gezegenler",
+            "Ay ve gezegenler",
+            "Ay ve güneş"
+         ],
+         "dogruCevap":"Ay ve güneş"
+      },
+      {
+         "soru":"Azteklerin en bilinen tapınak yapılarından biri olan ve büyük törenlerin yapıldığı piramidin adı nedir?",
+         "secenekler":[
+            "El Castillo",
+            "Templo Mayor",
+            "Piramide del Sol",
+            "Machu Picchu"
+         ],
+         "dogruCevap":"Templo Mayor"
+      },
+      {
+         "soru":"Aztek İmparatorluğu'nun son hükümdarı kimdir?",
+         "secenekler":[
+            "Moctezuma II",
+            "Huitzilopochtli",
+            "Quetzalcoatl",
+            "Cuauhtémoc"
+         ],
+         "dogruCevap":"Moctezuma II"
+      },
+      {
+         "soru":"Aztekler, dini törenlerinde hangilerini kurban olarak sunarlardı?",
+         "secenekler":[
+            "Kuşlar ve balıklar",
+            "Koyun ve inekler",
+            "Kediler ve köpekler",
+            "İnsanlar ve hayvanlar"
+         ],
+         "dogruCevap":"İnsanlar ve hayvanlar"
+      },
+      {
+         "soru":"Aztekler hangi modern ülke sınırları içinde yer alıyordu?",
+         "secenekler":[
+            "Peru",
+            "Bolivya",
+            "Meksika",
+            "Honduras"
+         ],
+         "dogruCevap":"Meksika"
+      },
+      {
+         "soru":"Aztekler, toplumsal yapılarında hangi sistemi kullanmışlardır?",
+         "secenekler":[
+            "Sosyal sınıflar",
+            "Feodalizm",
+            "Demokrasi",
+            "Cumhuriyet"
+         ],
+         "dogruCevap":"Sosyal sınıflar"
+      }
+   ],
+   "Anadolu Uygarlıkları":[
+      {
+         "soru":"Anadolu'da en eski yerleşim alanlarından biri olan Çatalhöyük, hangi uygarlığa aittir?",
+         "secenekler":[
+            "Hititler",
+            "Frigler",
+            "Urartular",
+            "Neolitik Dönem halkı"
+         ],
+         "dogruCevap":"Neolitik Dönem halkı"
+      },
+      {
+         "soru":"Frigler, Anadolu'nun hangi bölgesinde hüküm sürmüşlerdir?",
+         "secenekler":[
+            "İç Anadolu",
+            "Güneydoğu Anadolu",
+            "Ege Bölgesi",
+            "Karadeniz Bölgesi"
+         ],
+         "dogruCevap":"İç Anadolu"
+      },
+      {
+         "soru":"Urartular, hangi büyük nehrin çevresinde egemenlik kurmuşlardır?",
+         "secenekler":[
+            "Fırat Nehri",
+            "Dicle Nehri",
+            "Aras Nehri",
+            "Nil Nehri"
+         ],
+         "dogruCevap":"Aras Nehri"
+      },
+      {
+         "soru":"Miletos Antik Kenti, hangi antik uygarlığın önemli bir şehriydi?",
+         "secenekler":[
+            "Yunan",
+            "Frig",
+            "Roma",
+            "Hitit"
+         ],
+         "dogruCevap":"Yunan"
+      },
+      {
+         "soru":"Anadolu'da Hititlerin başkenti hangi şehirde bulunuyordu?",
+         "secenekler":[
+            "Çatalhöyük",
+            "Troya",
+            "Hattuşaş",
+            "Milet"
+         ],
+         "dogruCevap":"Hattuşaş"
+      },
+      {
+         "soru":"Hititler, Anadolu'da hangi önemli savaşla ünlüdür?",
+         "secenekler":[
+            "Troya Savaşı",
+            "Kadeş Savaşı",
+            "Kızılırmak Savaşı",
+            "Maraton Savaşı"
+         ],
+         "dogruCevap":"Kadeş Savaşı"
+      },
+      {
+         "soru":"Medeniyet olarak çok ileri seviyede olan ve taş yapılarıyla bilinen Urartu uygarlığı, hangi tarihi dönemde varlık göstermiştir?",
+         "secenekler":[
+            "MÖ 9. yüzyıl - MÖ 6. yüzyıl",
+            "MÖ 15. yüzyıl - MÖ 12. yüzyıl",
+            "MÖ 5. yüzyıl - MÖ 1. yüzyıl",
+            "MÖ 3000 - MÖ 1000"
+         ],
+         "dogruCevap":"MÖ 9. yüzyıl - MÖ 6. yüzyıl"
+      },
+      {
+         "soru":"Anadolu'da Friglerin kurduğu başkent nerede bulunuyordu?",
+         "secenekler":[
+            "Miletos",
+            "Hattuşaş",
+            "Troy",
+            "Gordion"
+         ],
+         "dogruCevap":"Gordion"
+      },
+      {
+         "soru":"Hititlerin en önemli tanrılarından biri kimdir?",
+         "secenekler":[
+            "Teshub",
+            "Ra",
+            "Zeus",
+            "Hera"
+         ],
+         "dogruCevap":"Teshub"
+      },
+      {
+         "soru":"MÖ 1200 civarında Anadolu'yu etkileyen önemli halk hareketi hangisidir?",
+         "secenekler":[
+            "Deniz Halkları",
+            "Frigler",
+            "Urartular",
+            "Yunanlar"
+         ],
+         "dogruCevap":"Deniz Halkları"
+      },
+      {
+         "soru":"İyonya'nın önemli şehirlerinden biri olan Efes, hangi antik uygarlığa aitti?",
+         "secenekler":[
+            "Hittit",
+            "Urartu",
+            "Yunan",
+            "Frig"
+         ],
+         "dogruCevap":"Yunan"
+      },
+      {
+         "soru":"Anadolu'nun batısında en büyük ve en ünlü antik kent olan Troya, hangi uygarlığa aittir?",
+         "secenekler":[
+            "Truva",
+            "Frig",
+            "Urartu",
+            "Hitit"
+         ],
+         "dogruCevap":"Truva"
+      },
+      {
+         "soru":"Lydia uygarlığının en ünlü hükümdarı kimdir?",
+         "secenekler":[
+            "Midas",
+            "Hammurabi",
+            "Alkibiades",
+            "Kroisos"
+         ],
+         "dogruCevap":"Kroisos"
+      },
+      {
+         "soru":"Hitit İmparatorluğu'nun çöküşünden sonra Anadolu'yu etkisi altına alan uygarlık hangisidir?",
+         "secenekler":[
+            "Frigler",
+            "Yunanlar",
+            "Urartular",
+            "Persler"
+         ],
+         "dogruCevap":"Frigler"
+      },
+      {
+         "soru":"Anadolu'nun güneydoğusunda etkili olan Urartu uygarlığının başkenti nerede yer alıyordu?",
+         "secenekler":[
+            "Ağrı",
+            "Malatya",
+            "Van",
+            "Diyarbakır"
+         ],
+         "dogruCevap":"Van"
+      }
+   ],
+   "Rus Edebiyatı":[
+      {
+         "soru":"Fyodor Dostoyevski'nin en ünlü eserlerinden biri olan 'Suç ve Ceza' hangi yıl yayımlandı?",
+         "secenekler":[
+            "1870",
+            "1880",
+            "1866",
+            "1855"
+         ],
+         "dogruCevap":"1866"
+      },
+      {
+         "soru":"Leo Tolstoy'un en bilinen eserlerinden biri olan 'Savaş ve Barış' hangi savaş dönemini konu alır?",
+         "secenekler":[
+            "Napolyon Savaşları",
+            "I. Dünya Savaşı",
+            "Rus-Türk Savaşı",
+            "Kırım Savaşı"
+         ],
+         "dogruCevap":"Napolyon Savaşları"
+      },
+      {
+         "soru":"Anton Çehov, hangi türdeki eserleriyle ünlüdür?",
+         "secenekler":[
+            "Romanlar",
+            "Şiirler",
+            "Denemeler",
+            "Kısa hikayeler ve tiyatro"
+         ],
+         "dogruCevap":"Kısa hikayeler ve tiyatro"
+      },
+      {
+         "soru":"Mikhail Bulgakov'un en ünlü eseri hangisidir?",
+         "secenekler":[
+            "Usta ile Margarita",
+            "Bir Delinin Hatıra Defteri",
+            "Anna Karenina",
+            "Karamazov Kardeşler"
+         ],
+         "dogruCevap":"Usta ile Margarita"
+      },
+      {
+         "soru":"Anton Çehov'un yazdığı 'Vanya Dayı' adlı eser hangi türde bir tiyatro oyunudur?",
+         "secenekler":[
+            "Komedi",
+            "Trajedi",
+            "Drama",
+            "Melodram"
+         ],
+         "dogruCevap":"Drama"
+      },
+      {
+         "soru":"Maxim Gorki'nin ünlü eseri 'Ana' hangi dönemi konu alır?",
+         "secenekler":[
+            "Çarlık Rusyası ve işçi hareketleri",
+            "Napolyon Savaşları",
+            "Rus İç Savaşı",
+            "Kırım Savaşı"
+         ],
+         "dogruCevap":"Çarlık Rusyası ve işçi hareketleri"
+      },
+      {
+         "soru":"Aleksandr Puşkin'in yazdığı 'Eugene Onegin' adlı romanın türü nedir?",
+         "secenekler":[
+            "Epik",
+            "Dram",
+            "Lirik",
+            "Romantik"
+         ],
+         "dogruCevap":"Lirik"
+      },
+      {
+         "soru":"İvan Turgenev'in yazdığı 'Babalar ve Oğullar' romanı hangi dönemi yansıtır?",
+         "secenekler":[
+            "Rusya'da toplumsal değişim",
+            "Napolyon Savaşları",
+            "Orta Çağ",
+            "Klasik Rus edebiyatı"
+         ],
+         "dogruCevap":"Rusya'da toplumsal değişim"
+      },
+      {
+         "soru":"Hangisi Leo Tolstoy'un eserlerinden biridir?",
+         "secenekler":[
+            "Karamazov Kardeşler",
+            "Anna Karenina",
+            "İvan İlyiç'in Ölümü",
+            "Beyaz Gemi"
+         ],
+         "dogruCevap":"Anna Karenina"
+      },
+      {
+         "soru":"Fyodor Dostoyevski'nin 'Karamazov Kardeşler' adlı romanı hangi türde bir eserdir?",
+         "secenekler":[
+            "Felsefi roman",
+            "Psikolojik roman",
+            "Savaş romanı",
+            "Tarihi roman"
+         ],
+         "dogruCevap":"Felsefi roman"
+      },
+      {
+         "soru":"Aleksandr Soljenitsin'in 'Gulag Takımadaları' adlı eseri, hangi tarihi dönemi konu alır?",
+         "secenekler":[
+            "Çarlık Rusyası",
+            "Sovyetler Birliği'nin Stalin dönemi",
+            "I. Dünya Savaşı",
+            "Napolyon Savaşları"
+         ],
+         "dogruCevap":"Sovyetler Birliği'nin Stalin dönemi"
+      },
+      {
+         "soru":"Dostoyevski'nin yazdığı 'Karamazov Kardeşler' adlı eser hangi temayı işler?",
+         "secenekler":[
+            "Savaş ve barış",
+            "Bireysel özgürlük",
+            "Toplumsal eşitsizlik",
+            "Din, ahlak ve insan doğası"
+         ],
+         "dogruCevap":"Din, ahlak ve insan doğası"
+      },
+      {
+         "soru":"Nikolay Gogol'ün en ünlü eserlerinden biri olan 'Ölü Canlar' adlı eser hangi türdedir?",
+         "secenekler":[
+            "Romantik şiir",
+            "Düşsel roman",
+            "Sosyal eleştiri",
+            "Kısa hikaye"
+         ],
+         "dogruCevap":"Sosyal eleştiri"
+      },
+      {
+         "soru":"Dostoyevski'nin 'Budala' adlı romanı hangi konuyu ele alır?",
+         "secenekler":[
+            "Toplumsal sınıflar",
+            "Bireysel sorgulamalar ve psikoloji",
+            "Savaşın etkileri",
+            "Aşk ve ihanet"
+         ],
+         "dogruCevap":"Bireysel sorgulamalar ve psikoloji"
+      },
+      {
+         "soru":"İvan Turgenyev'in 'Otuz Yıl' adlı eserinde ana karakter neyi sorgular?",
+         "secenekler":[
+            "Aşk ve yaşamın anlamını",
+            "Toplumsal statüyü",
+            "Toplumsal değişim ve gelenek",
+            "Savaşın anlamını"
+         ],
+         "dogruCevap":"Toplumsal değişim ve gelenek"
+      },
+      {
+         "soru":"Mikhail Lermontov'un ünlü eseri 'Bir Kahramanın Romanı' hangi dönemi anlatır?",
+         "secenekler":[
+            "Romantizm dönemi",
+            "Sosyalizm dönemi",
+            "Sovyet dönemi",
+            "Klasik Rus edebiyatı"
+         ],
+         "dogruCevap":"Romantizm dönemi"
+      },
+      {
+         "soru":"Vladimir Nabokov'un 'Lolita' adlı romanı hangi türde yazılmıştır?",
+         "secenekler":[
+            "Romantik hikaye",
+            "Komedi",
+            "Psikolojik drama",
+            "Epik roman"
+         ],
+         "dogruCevap":"Psikolojik drama"
+      },
+      {
+         "soru":"Viktor Pelevin'in 'Çinin Akşamı' adlı eseri, hangi dönemde yazılmıştır?",
+         "secenekler":[
+            "Sovyetler Birliği'nin çöküşü sonrası",
+            "Napolyon Savaşları dönemi",
+            "Orta Çağ",
+            "I. Dünya Savaşı"
+         ],
+         "dogruCevap":"Sovyetler Birliği'nin çöküşü sonrası"
+      },
+      {
+         "soru":"Anton Çehov'un 'Üç Kız Kardeş' adlı oyununda ana karakterlerin en büyük arzusu nedir?",
+         "secenekler":[
+            "Aşkı bulmak",
+            "Bir mirasa sahip olmak",
+            "Zenginlik ve ihtişam",
+            "Moskova'ya dönmek"
+         ],
+         "dogruCevap":"Moskova'ya dönmek"
+      }
+   ],
+   "Fransız Edebiyatı":[
+      {
+         "soru":"Victor Hugo'nun en ünlü eserlerinden biri olan 'Sefiller' hangi dönemi anlatır?",
+         "secenekler":[
+            "Fransız Devrimi sonrası",
+            "Orta Çağ",
+            "I. Dünya Savaşı",
+            "Napolyon dönemi"
+         ],
+         "dogruCevap":"Fransız Devrimi sonrası"
+      },
+      {
+         "soru":"Marcel Proust'un en bilinen eseri hangisidir?",
+         "secenekler":[
+            "Swann'ın Tarafı",
+            "İzlediğim Zaman",
+            "Germinal",
+            "Yüce Evimiz"
+         ],
+         "dogruCevap":"İzlediğim Zaman"
+      },
+      {
+         "soru":"Albert Camus'nün 'Yabancı' adlı romanının ana karakteri kimdir?",
+         "secenekler":[
+            "Raskolnikov",
+            "Jean Valjean",
+            "Meursault",
+            "Hugo"
+         ],
+         "dogruCevap":"Meursault"
+      },
+      {
+         "soru":"Gustave Flaubert'in ünlü romanı 'Madam Bovary' hangi türde yazılmıştır?",
+         "secenekler":[
+            "Romantizm",
+            "Modernizm",
+            "Realizm",
+            "Sürrealizm"
+         ],
+         "dogruCevap":"Realizm"
+      },
+      {
+         "soru":"Emile Zola'nın 'Germinal' adlı romanı hangi işçi hareketini konu alır?",
+         "secenekler":[
+            "Sanayi Devrimi",
+            "Fransız Devrimi",
+            "Büyük Buhran",
+            "I. Dünya Savaşı"
+         ],
+         "dogruCevap":"Sanayi Devrimi"
+      },
+      {
+         "soru":"François Rabelais'nin en ünlü eseri hangisidir?",
+         "secenekler":[
+            "Kırmızı ve Siyah",
+            "Büyük İskender",
+            "Düşler",
+            "Gargantua ve Pantagruel"
+         ],
+         "dogruCevap":"Gargantua ve Pantagruel"
+      },
+      {
+         "soru":"Voltaire'in yazdığı 'Candide' adlı eseri hangi türde bir eserdir?",
+         "secenekler":[
+            "Tarihi roman",
+            "Felsefi mizah",
+            "Epik şiir",
+            "Biyografi"
+         ],
+         "dogruCevap":"Felsefi mizah"
+      },
+      {
+         "soru":"Alexandre Dumas'nın ünlü eserlerinden biri olan 'Monte Cristo Kontu' hangi türde yazılmıştır?",
+         "secenekler":[
+            "Macera",
+            "Klasik roman",
+            "Felsefi roman",
+            "Drama"
+         ],
+         "dogruCevap":"Macera"
+      },
+      {
+         "soru":"Paul Verlaine hangi edebiyat akımına ait bir şairdir?",
+         "secenekler":[
+            "Romantizm",
+            "Realizm",
+            "Sembolizm",
+            "Fütürizm"
+         ],
+         "dogruCevap":"Sembolizm"
+      },
+      {
+         "soru":"Marquis de Sade'in 'Justine' adlı eseri hangi konuyu işler?",
+         "secenekler":[
+            "Ahlak ve cinsellik",
+            "Toplumsal adalet",
+            "Savaş ve barış",
+            "Sanat ve estetik"
+         ],
+         "dogruCevap":"Ahlak ve cinsellik"
+      },
+      {
+         "soru":"Antoine de Saint-Exupéry'nin en ünlü eseri hangisidir?",
+         "secenekler":[
+            "Gezginler",
+            "Küçük Prens",
+            "Yalnızlık",
+            "İnsanlar ve Fareler"
+         ],
+         "dogruCevap":"Küçük Prens"
+      },
+      {
+         "soru":"Gustave Flaubert'in 'Salammbô' adlı romanı hangi tarihi dönemi anlatır?",
+         "secenekler":[
+            "Fransız Devrimi",
+            "Rönesans dönemi",
+            "I. Dünya Savaşı",
+            "Pön Savaşları"
+         ],
+         "dogruCevap":"Pön Savaşları"
+      },
+      {
+         "soru":"Jean-Paul Sartre'ın ünlü eseri 'Bulantı' hangi felsefi akımı savunur?",
+         "secenekler":[
+            "Varoluşçuluk",
+            "Rasyonalizm",
+            "Empirizm",
+            "Hümanizm"
+         ],
+         "dogruCevap":"Varoluşçuluk"
+      },
+      {
+         "soru":"Guy de Maupassant'ın 'Boule de Suif' adlı eseri hangi türde yazılmıştır?",
+         "secenekler":[
+            "Kısa hikaye",
+            "Roman",
+            "Deneme",
+            "Drama"
+         ],
+         "dogruCevap":"Kısa hikaye"
+      },
+      {
+         "soru":"Simone de Beauvoir, hangi ünlü eseriyle feminizmin öncülerinden biri olarak kabul edilmiştir?",
+         "secenekler":[
+            "Yalnız Kadın",
+            "Kadın ve Toplum",
+            "İkinci Cins",
+            "Aşkın Metafizikleri"
+         ],
+         "dogruCevap":"İkinci Cins"
+      }
+   ],
+   "Türk Halk Edebiyatı":[
+      {
+         "soru":"Türk halk edebiyatının anonim ürünlerinden biri olan 'koşma' hangi türde bir şiir biçimidir?",
+         "secenekler":[
+            "Aşk ve sevda",
+            "Doğa ve toplumsal yaşam",
+            "Dini şiir",
+            "Felsefi şiir"
+         ],
+         "dogruCevap":"Aşk ve sevda"
+      },
+      {
+         "soru":"Türk halk edebiyatında, genellikle aşk, kahramanlık, sevda ve güzellik gibi temalar işlenen uzun şiir türüne ne ad verilir?",
+         "secenekler":[
+            "Türkü",
+            "Koşma",
+            "Destan",
+            "Mani"
+         ],
+         "dogruCevap":"Destan"
+      },
+      {
+         "soru":"'Aşık Veysel' hangi halk edebiyatı türünün en önemli temsilcilerindendir?",
+         "secenekler":[
+            "Türkü",
+            "Şiir",
+            "Divan Edebiyatı",
+            "Koşma"
+         ],
+         "dogruCevap":"Koşma"
+      },
+      {
+         "soru":"Türk halk edebiyatında en yaygın kullanılan ölçü hangisidir?",
+         "secenekler":[
+            "Dörtlük",
+            "Sekizlik",
+            "Hece ölçüsü",
+            "Aruz ölçüsü"
+         ],
+         "dogruCevap":"Hece ölçüsü"
+      },
+      {
+         "soru":"Türk halk müziğinde, halk şairlerinin söylediği ve duygusal bir şekilde yapılan kısa şiirlere ne denir?",
+         "secenekler":[
+            "Mani",
+            "Koşma",
+            "Türkü",
+            "Deyiş"
+         ],
+         "dogruCevap":"Mani"
+      },
+      {
+         "soru":"Halk şairlerinin ve ozanlarının en önemli araçlarından biri olan 'bağlama' hangi müzik aletini ifade eder?",
+         "secenekler":[
+            "Keman",
+            "Ud",
+            "Saz",
+            "Kanun"
+         ],
+         "dogruCevap":"Saz"
+      },
+      {
+         "soru":"Türk halk edebiyatında kahramanlık, yiğitlik gibi konuları işleyen tür hangisidir?",
+         "secenekler":[
+            "Destan",
+            "Mani",
+            "Şarkı",
+            "Türkü"
+         ],
+         "dogruCevap":"Destan"
+      },
+      {
+         "soru":"Türk halk edebiyatında yer alan ve genellikle türkü olarak söylenen halk şarkıları hangi duyguyu ifade eder?",
+         "secenekler":[
+            "Savaş ve kahramanlık",
+            "Sevda ve aşk",
+            "Toplumsal eleştiriler",
+            "Doğa ve hayvanlar"
+         ],
+         "dogruCevap":"Sevda ve aşk"
+      },
+      {
+         "soru":"Türk halk edebiyatında, 'derleme' adı verilen çalışmalar, hangi alanda yapılır?",
+         "secenekler":[
+            "Şiir ve halk edebiyatı",
+            "Müzik ve halk şarkıları",
+            "Tarih yazımı",
+            "Edebiyat tarihi"
+         ],
+         "dogruCevap":"Şiir ve halk edebiyatı"
+      },
+      {
+         "soru":"Türk halk edebiyatında, halk şairlerinin uzun şiirlerinde kullandığı bir tür olan 'koşma' kaç dizeden oluşur?",
+         "secenekler":[
+            "6 dize",
+            "8 dize",
+            "12 dize",
+            "4 dize"
+         ],
+         "dogruCevap":"8 dize"
+      },
+      {
+         "soru":"Halk edebiyatının önemli bir türü olan 'tasavvuf şiiri' hangi kültürel ve dini akım ile ilişkilidir?",
+         "secenekler":[
+            "Halk Müziği",
+            "Mevlevilik",
+            "Sufizm",
+            "Alevilik"
+         ],
+         "dogruCevap":"Sufizm"
+      },
+      {
+         "soru":"Türk halk edebiyatında bir geleneksel anlatı türü olan ve kısa hikayelerle halkın eğitimini amaçlayan hikaye türü hangisidir?",
+         "secenekler":[
+            "Masal",
+            "Efsane",
+            "Destan",
+            "Fıkra"
+         ],
+         "dogruCevap":"Masal"
+      },
+      {
+         "soru":"Türk halk şairlerinden Karacaoğlan hangi bölgenin halk edebiyatına ait önemli bir figürdür?",
+         "secenekler":[
+            "Orta Anadolu",
+            "Güneydoğu Anadolu",
+            "Ege Bölgesi",
+            "Karadeniz Bölgesi"
+         ],
+         "dogruCevap":"Güneydoğu Anadolu"
+      },
+      {
+         "soru":"Türk halk edebiyatında, 'sema' adı verilen dinsel ritüel hangi inanç sistemine aittir?",
+         "secenekler":[
+            "Mevlevilik",
+            "Şamanizm",
+            "Alevilik",
+            "Hristiyanlık"
+         ],
+         "dogruCevap":"Mevlevilik"
+      },
+      {
+         "soru":"Türk halk edebiyatında, halk şairlerinin, şiirlerini müzikle birlikte söyledikleri, bir tür halk şarkısına ne ad verilir?",
+         "secenekler":[
+            "Mani",
+            "Destan",
+            "Koşma",
+            "Türkü"
+         ],
+         "dogruCevap":"Türkü"
+      }
+   ],
+   "Edebi Akımlar":[
+      {
+         "soru":"Romantizm akımının en önemli özelliklerinden biri nedir?",
+         "secenekler":[
+            "Duygusallık ve bireysel özgürlük",
+            "Mantıklı düşünme ve toplumsal düzen",
+            "Aşk ve mizah",
+            "Doğa bilimleri ve mantık"
+         ],
+         "dogruCevap":"Duygusallık ve bireysel özgürlük"
+      },
+      {
+         "soru":"Realizm akımında hangi unsur ön plana çıkmaktadır?",
+         "secenekler":[
+            "Hayal gücü ve bireysel duygular",
+            "Doğa ve manzara tasvirleri",
+            "Gerçekçi betimlemeler ve toplumsal sorunlar",
+            "Mitoloji ve fantastik öğeler"
+         ],
+         "dogruCevap":"Gerçekçi betimlemeler ve toplumsal sorunlar"
+      },
+      {
+         "soru":"Hangi edebi akım, 'insan ruhunun derinliklerine inmek' ve 'bireysel bilinç' üzerinde yoğunlaşmakla tanınır?",
+         "secenekler":[
+            "Sürrealizm",
+            "Romantizm",
+            "Psikanalitik Edebiyat",
+            "Modernizm"
+         ],
+         "dogruCevap":"Modernizm"
+      },
+      {
+         "soru":"Hangi edebi akım, 'hayal gücü ve soyutlamalar' ile tanınır ve özellikle 20. yüzyılda sanatın sınırlarını zorlamıştır?",
+         "secenekler":[
+            "Sürrealizm",
+            "Realizm",
+            "Empresyonizm",
+            "Gotik Edebiyat"
+         ],
+         "dogruCevap":"Sürrealizm"
+      },
+      {
+         "soru":"Hangi edebi akım, 'doğaya, halk kültürüne ve bireysel duygulara' büyük bir ilgi göstermektedir?",
+         "secenekler":[
+            "Barok",
+            "Romantizm",
+            "Klasizm",
+            "Realizm"
+         ],
+         "dogruCevap":"Romantizm"
+      },
+      {
+         "soru":"Hangi akım, 19. yüzyılın ortalarında Fransız edebiyatında etkili olmuş ve toplumsal yapıyı gerçekçi bir şekilde yansıtmıştır?",
+         "secenekler":[
+            "Realizm",
+            "Romantizm",
+            "Sürrealizm",
+            "Gotik Edebiyat"
+         ],
+         "dogruCevap":"Realizm"
+      },
+      {
+         "soru":"Klasizm akımının önde gelen temsilcilerinden biri kimdir?",
+         "secenekler":[
+            "Voltaire",
+            "Victor Hugo",
+            "Jean-Jacques Rousseau",
+            "Molière"
+         ],
+         "dogruCevap":"Molière"
+      },
+      {
+         "soru":"Sürrealizm akımının en önemli temsilcisi kimdir?",
+         "secenekler":[
+            "André Breton",
+            "T.S. Eliot",
+            "Franz Kafka",
+            "Marcel Proust"
+         ],
+         "dogruCevap":"André Breton"
+      },
+      {
+         "soru":"Realizmin temsilcisi olan ve 'Germinal' adlı eseriyle tanınan Fransız yazar kimdir?",
+         "secenekler":[
+            "Flaubert",
+            "Hugo",
+            "Émile Zola",
+            "Balzac"
+         ],
+         "dogruCevap":"Émile Zola"
+      },
+      {
+         "soru":"Romantizm akımının en önemli özelliklerinden biri nedir?",
+         "secenekler":[
+            "Bireysel özgürlük ve hayal gücü",
+            "Toplumsal sorumluluk ve ahlaki değerler",
+            "Gerçekçi betimlemeler",
+            "Sade ve anlaşılır dil"
+         ],
+         "dogruCevap":"Bireysel özgürlük ve hayal gücü"
+      },
+      {
+         "soru":"Hangi akım, sanatı ve edebiyatı mantıklı, biçimsel bir yapıya kavuşturmak ve doğanın akılcı bir şekilde anlaşılmasını amaçlamıştır?",
+         "secenekler":[
+            "Empresyonizm",
+            "Gotik Edebiyat",
+            "Sürrealizm",
+            "Klasizm"
+         ],
+         "dogruCevap":"Klasizm"
+      },
+      {
+         "soru":"Realizmin temel amaçlarından biri nedir?",
+         "secenekler":[
+            "Hayal gücüne dayalı konular",
+            "Toplumsal yaşamın ve bireysel ilişkilerin gerçekçi bir biçimde anlatılması",
+            "Doğa ve insanın mistik bir biçimde ele alınması",
+            "Yalnızca soylu sınıfın hayatının yüceltilmesi"
+         ],
+         "dogruCevap":"Toplumsal yaşamın ve bireysel ilişkilerin gerçekçi bir biçimde anlatılması"
+      },
+      {
+         "soru":"Barok dönemi edebiyatında, sanatçılar genellikle hangi temaları işlemişlerdir?",
+         "secenekler":[
+            "Ölüme, geçiciliğe ve insanın varoluşsal yalnızlığına dair temalar",
+            "Düşünsel derinlik ve ahlaki öğretiler",
+            "İdealist toplumlar ve tanrıya olan bağlılık",
+            "Bireysel özgürlük ve toplumsal eşitlik"
+         ],
+         "dogruCevap":"Ölüme, geçiciliğe ve insanın varoluşsal yalnızlığına dair temalar"
+      },
+      {
+         "soru":"Empresyonizm akımını edebiyat alanında benimseyen ve 'Doğayı ve anlık duygularını' yansıtan önemli yazar kimdir?",
+         "secenekler":[
+            "Virginia Woolf",
+            "Marcel Proust",
+            "Guy de Maupassant",
+            "James Joyce"
+         ],
+         "dogruCevap":"Marcel Proust"
+      },
+      {
+         "soru":"Hangi edebi akımda, bireysel duyguların ve insanın iç dünyasının betimlenmesi ön plandadır?",
+         "secenekler":[
+            "Realizm",
+            "Sürrealizm",
+            "Modernizm",
+            "Romantizm"
+         ],
+         "dogruCevap":"Romantizm"
+      }
+   ],
+   "Başkentler":[
+      {
+         "soru":"Fransa'nın başkenti neresidir?",
+         "secenekler":[
+            "Paris",
+            "Lyon",
+            "Marseille",
+            "Bordeaux"
+         ],
+         "dogruCevap":"Paris"
+      },
+      {
+         "soru":"Amerika Birleşik Devletleri'nin başkenti neresidir?",
+         "secenekler":[
+            "New York",
+            "Washington, D.C.",
+            "Los Angeles",
+            "Chicago"
+         ],
+         "dogruCevap":"Washington, D.C."
+      },
+      {
+         "soru":"Japonya'nın başkenti neresidir?",
+         "secenekler":[
+            "Osaka",
+            "Kyoto",
+            "Hokkaido",
+            "Tokyo"
+         ],
+         "dogruCevap":"Tokyo"
+      },
+      {
+         "soru":"Almanya'nın başkenti neresidir?",
+         "secenekler":[
+            "Munich",
+            "Berlin",
+            "Frankfurt",
+            "Hamburg"
+         ],
+         "dogruCevap":"Berlin"
+      },
+      {
+         "soru":"Brezilya'nın başkenti neresidir?",
+         "secenekler":[
+            "Rio de Janeiro",
+            "São Paulo",
+            "Salvador",
+            "Brasília"
+         ],
+         "dogruCevap":"Brasília"
+      },
+      {
+         "soru":"Kanada'nın başkenti neresidir?",
+         "secenekler":[
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+         ],
+         "dogruCevap":"Ottawa"
+      },
+      {
+         "soru":"İngiltere'nin başkenti neresidir?",
+         "secenekler":[
+            "Manchester",
+            "Londra",
+            "Birmingham",
+            "Liverpool"
+         ],
+         "dogruCevap":"Londra"
+      },
+      {
+         "soru":"Rusya'nın başkenti neresidir?",
+         "secenekler":[
+            "St. Petersburg",
+            "Novosibirsk",
+            "Moskova",
+            "Yekaterinburg"
+         ],
+         "dogruCevap":"Moskova"
+      },
+      {
+         "soru":"Çin'in başkenti neresidir?",
+         "secenekler":[
+            "Pekin",
+            "Şanghay",
+            "Hong Kong",
+            "Guangzhou"
+         ],
+         "dogruCevap":"Pekin"
+      },
+      {
+         "soru":"Hindistan'ın başkenti neresidir?",
+         "secenekler":[
+            "Mumbai",
+            "Kolkata",
+            "Bangalore",
+            "Yeni Delhi"
+         ],
+         "dogruCevap":"Yeni Delhi"
+      },
+      {
+         "soru":"Avustralya'nın başkenti neresidir?",
+         "secenekler":[
+            "Canberra",
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+         ],
+         "dogruCevap":"Canberra"
+      },
+      {
+         "soru":"Meksika'nın başkenti neresidir?",
+         "secenekler":[
+            "Guadalajara",
+            "Mexico City",
+            "Monterrey",
+            "Cancún"
+         ],
+         "dogruCevap":"Mexico City"
+      },
+      {
+         "soru":"İtalya'nın başkenti neresidir?",
+         "secenekler":[
+            "Milan",
+            "Venedik",
+            "Roma",
+            "Floransa"
+         ],
+         "dogruCevap":"Roma"
+      },
+      {
+         "soru":"İspanya'nın başkenti neresidir?",
+         "secenekler":[
+            "Barselona",
+            "Sevilla",
+            "Valencia",
+            "Madrid"
+         ],
+         "dogruCevap":"Madrid"
+      },
+      {
+         "soru":"Türkiye'nin başkenti neresidir?",
+         "secenekler":[
+            "Ankara",
+            "İstanbul",
+            "İzmir",
+            "Amasya"
+         ],
+         "dogruCevap":"Ankara"
+      },
+      {
+         "soru":"Güney Kore'nin başkenti neresidir?",
+         "secenekler":[
+            "Busan",
+            "Incheon",
+            "Seul",
+            "Daegu"
+         ],
+         "dogruCevap":"Seul"
+      },
+      {
+         "soru":"Arjantin'in başkenti neresidir?",
+         "secenekler":[
+            "Córdoba",
+            "Rosario",
+            "Buenos Aires",
+            "Mendoza"
+         ],
+         "dogruCevap":"Buenos Aires"
+      },
+      {
+         "soru":"Endonezya'nın başkenti neresidir?",
+         "secenekler":[
+            "Bali",
+            "Surabaya",
+            "Medan",
+            "Cakarta"
+         ],
+         "dogruCevap":"Cakarta"
+      },
+      {
+         "soru":"Suudi Arabistan'ın başkenti neresidir?",
+         "secenekler":[
+            "Cidde",
+            "Medine",
+            "Riyad",
+            "Mekke"
+         ],
+         "dogruCevap":"Riyad"
+      },
+      {
+         "soru":"Pakistan'ın başkenti neresidir?",
+         "secenekler":[
+            "İslamabad",
+            "Lahore",
+            "Karachi",
+            "Pencap"
+         ],
+         "dogruCevap":"İslamabad"
+      },
+      {
+         "soru":"Birleşik Arap Emirlikleri'nin başkenti neresidir?",
+         "secenekler":[
+            "Abu Dabi",
+            "Dubai",
+            "Sharjah",
+            "Ajman"
+         ],
+         "dogruCevap":"Abu Dabi"
+      },
+      {
+         "soru":"Güney Afrika'nın başkenti neresidir?",
+         "secenekler":[
+            "Cape Town",
+            "Pretorya",
+            "Johannesburg",
+            "Durban"
+         ],
+         "dogruCevap":"Pretorya"
+      },
+      {
+         "soru":"Nijerya'nın başkenti neresidir?",
+         "secenekler":[
+            "Abuja",
+            "Lagos",
+            "Kano",
+            "Port Harcourt"
+         ],
+         "dogruCevap":"Abuja"
+      },
+      {
+         "soru":"Fas'ın başkenti neresidir?",
+         "secenekler":[
+            "Rabat",
+            "Casablanca",
+            "Fez",
+            "Marrakeş"
+         ],
+         "dogruCevap":"Rabat"
+      },
+      {
+         "soru":"Çek Cumhuriyeti'nin başkenti neresidir?",
+         "secenekler":[
+            "Brno",
+            "Ostrava",
+            "Plzen",
+            "Prag"
+         ],
+         "dogruCevap":"Prag"
+      },
+      {
+         "soru":"Yunanistan'ın başkenti neresidir?",
+         "secenekler":[
+            "Atina",
+            "Selanik",
+            "Patras",
+            "Heraklion"
+         ],
+         "dogruCevap":"Atina"
+      },
+      {
+         "soru":"Norveç'in başkenti neresidir?",
+         "secenekler":[
+            "Bergen",
+            "Stavanger",
+            "Trondheim",
+            "Oslo"
+         ],
+         "dogruCevap":"Oslo"
+      },
+      {
+         "soru":"Portekiz'in başkenti neresidir?",
+         "secenekler":[
+            "Lizbon",
+            "Porto",
+            "Coimbra",
+            "Braga"
+         ],
+         "dogruCevap":"Lizbon"
+      },
+      {
+         "soru":"İsveç'in başkenti neresidir?",
+         "secenekler":[
+            "Göteborg",
+            "Malmö",
+            "Stockholm",
+            "Uppsala"
+         ],
+         "dogruCevap":"Stockholm"
+      },
+      {
+         "soru":"Belçika'nın başkenti neresidir?",
+         "secenekler":[
+            "Brüksel",
+            "Antwerp",
+            "Gent",
+            "Liège"
+         ],
+         "dogruCevap":"Brüksel"
+      },
+      {
+         "soru":"Küba'nın başkenti neresidir?",
+         "secenekler":[
+            "Santiago de Cuba",
+            "Camagüey",
+            "Holguín",
+            "Havana"
+         ],
+         "dogruCevap":"Havana"
+      },
+      {
+         "soru":"Vietnam'ın başkenti neresidir?",
+         "secenekler":[
+            "Hanoi",
+            "Ho Chi Minh City",
+            "Da Nang",
+            "Can Tho"
+         ],
+         "dogruCevap":"Hanoi"
+      },
+      {
+         "soru":"Tanzanya'nın başkenti neresidir?",
+         "secenekler":[
+            "Dodoma",
+            "Darüsselam",
+            "Arusha",
+            "Mwanza"
+         ],
+         "dogruCevap":"Dodoma"
+      }
+   ],
+   "Futbol":[
+      {
+         "soru":"FIFA Dünya Kupası'nı en çok kazanan ülke hangisidir?",
+         "secenekler":[
+            "Brezilya",
+            "Almanya",
+            "Arjantin",
+            "İtalya"
+         ],
+         "dogruCevap":"Brezilya"
+      },
+      {
+         "soru":"2022 FIFA Dünya Kupası şampiyonu hangi ülke olmuştur?",
+         "secenekler":[
+            "Fransa",
+            "Arjantin",
+            "Hollanda",
+            "İngiltere"
+         ],
+         "dogruCevap":"Arjantin"
+      },
+      {
+         "soru":"Bir futbol maçında her bir takımda sahada en fazla kaç oyuncu bulunur?",
+         "secenekler":[
+            "10",
+            "11",
+            "12",
+            "13"
+         ],
+         "dogruCevap":"11"
+      },
+      {
+         "soru":"Türkiye Süper Ligi' nde 2010-11 futbol sezonu son maçının ardından bir yanlış anlama sonucu taraftarının sahaya girerek şampiyonluk kutlaması yaptığı futbol kulübü hangisidir?",
+         "secenekler":[
+            "Fenerbahçe",
+            "Galatasaray",
+            "Bursaspor",
+            "Beşiktaş"
+         ],
+         "dogruCevap":"Fenerbahçe"
+      },
+      {
+         "soru":"FIFA Dünya Kupası'nı ilk kazanan ülke hangisidir?",
+         "secenekler":[
+            "Brezilya",
+            "Uruguay",
+            "Almanya",
+            "İtalya"
+         ],
+         "dogruCevap":"Uruguay"
+      },
+      {
+         "soru":"İngiltere Premier Liginde en çok şampiyon olan kulüp hangisidir?",
+         "secenekler":[
+            "Manchester United",
+            "Liverpool",
+            "Chelsea",
+            "Arsenal"
+         ],
+         "dogruCevap":"Manchester United"
+      },
+      {
+         "soru":"Bir futbol maçında ofsayt pozisyonu hangi durumda olur?",
+         "secenekler":[
+            "Topa müdahale edilmeden önce rakip yarı alanda olması",
+            "Topa müdahale edilen oyuncunun rakip kaleye en yakın oyuncu olması",
+            "Topa müdahale edilen oyuncunun topu rakip kaleye doğru vurması",
+            "Hiçbir oyuncunun ofsaytta olmaması"
+         ],
+         "dogruCevap":"Topa müdahale edilen oyuncunun rakip kaleye en yakın oyuncu olması"
+      },
+      {
+         "soru":"Futbol tarihinin en pahalı transferi hangi oyuncuya yapılmıştır?",
+         "secenekler":[
+            "Kylian Mbappé",
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Neymar"
+         ],
+         "dogruCevap":"Neymar"
+      },
+      {
+         "soru":"Futbolun ilk kez hangi ülkede oynandığı kabul edilir?",
+         "secenekler":[
+            "Çin",
+            "Brezilya",
+            "İngiltere",
+            "İspanya"
+         ],
+         "dogruCevap":"İngiltere"
+      },
+      {
+         "soru":"Bir futbol takımının kazandığı bir maçtan sonra alınan puan ne kadardır?",
+         "secenekler":[
+            "1",
+            "2",
+            "3",
+            "4"
+         ],
+         "dogruCevap":"3"
+      },
+      {
+         "soru":"2010 FIFA Dünya Kupası'nda şampiyon olan ülke hangi ülkedir?",
+         "secenekler":[
+            "Fransa",
+            "İspanya",
+            "Brezilya",
+            "Hollanda"
+         ],
+         "dogruCevap":"İspanya"
+      },
+      {
+         "soru":"Futbol maçında hakemin verdiği sarı kart hangi durumu gösterir?",
+         "secenekler":[
+            "Oyuncuya uyarı",
+            "Oyuncuya oyun dışı cezası",
+            "Oyuncuya kırmızı kart",
+            "Oyuncuya sakatlık cezası"
+         ],
+         "dogruCevap":"Oyuncuya uyarı"
+      },
+      {
+         "soru":"Bir futbol maçında olağanüstü bir durum olmadıkça bir takım en fazla kaç oyuncu değişikliği yapabilir?",
+         "secenekler":[
+            "1",
+            "2",
+            "3",
+            "5"
+         ],
+         "dogruCevap":"5"
+      },
+      {
+         "soru":"2020 UEFA Şampiyonlar Ligi şampiyonu hangi kulüp olmuştur?",
+         "secenekler":[
+            "Bayern Münih",
+            "Paris Saint-Germain",
+            "Liverpool",
+            "Manchester City"
+         ],
+         "dogruCevap":"Bayern Münih"
+      },
+      {
+         "soru":"Futbolun en prestijli kulüp turnuvası hangisidir?",
+         "secenekler":[
+            "Copa Libertadores",
+            "Afrika Uluslar Kupası",
+            "UEFA Şampiyonlar Ligi",
+            "FIFA Kulüpler Dünya Kupası"
+         ],
+         "dogruCevap":"UEFA Şampiyonlar Ligi"
+      },
+      {
+         "soru":"Hangi futbolcu 2014 Dünya Kupası'nda Altın Ayakkabı ödülünü kazanmıştır?",
+         "secenekler":[
+            "James Rodríguez",
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Neymar"
+         ],
+         "dogruCevap":"James Rodríguez"
+      },
+      {
+         "soru":"FIFA Dünya Kupası'nda en fazla gol atan futbolcu kimdir?",
+         "secenekler":[
+            "Marta",
+            "Miroslav Klose",
+            "Cristiano Ronaldo",
+            "Ronaldo Nazário"
+         ],
+         "dogruCevap":"Miroslav Klose"
+      }
+   ],
+   "Dünya Mutfağı":[
+      {
+         "soru":"Hangi ülkenin mutfağına özgü bir yemek olan 'Sushi', genellikle pirinç ve çiğ balıkla yapılır?",
+         "secenekler":[
+            "Çin",
+            "Güney Kore",
+            "Tayland",
+            "Japonya"
+         ],
+         "dogruCevap":"Japonya"
+      },
+      {
+         "soru":"İtalyan mutfağının meşhur yemeği 'Pizza', hangi şehirde ortaya çıkmıştır?",
+         "secenekler":[
+            "Roma",
+            "Napoli",
+            "Milano",
+            "Floransa"
+         ],
+         "dogruCevap":"Napoli"
+      },
+      {
+         "soru":"'Tacos' hangi ülkenin ünlü sokak yemeğidir?",
+         "secenekler":[
+            "Meksika",
+            "İspanya",
+            "Arjantin",
+            "Peru"
+         ],
+         "dogruCevap":"Meksika"
+      },
+      {
+         "soru":"Hint mutfağında yaygın olarak kullanılan ve baharatlarla hazırlanan yoğurtlu tavuk yemeği nedir?",
+         "secenekler":[
+            "Biryani",
+            "Tikka Masala",
+            "Korma",
+            "Paneer"
+         ],
+         "dogruCevap":"Tikka Masala"
+      },
+      {
+         "soru":"Fransız mutfağında ünlü olan 'Croissant' ne tür bir yiyecektir?",
+         "secenekler":[
+            "Ekmek",
+            "Hamur işi",
+            "Tatlı",
+            "Çorba"
+         ],
+         "dogruCevap":"Hamur işi"
+      },
+      {
+         "soru":"Hangi ülkeye ait olan 'Kimchi', fermente edilmiş sebzelerle yapılan bir garnitürdür?",
+         "secenekler":[
+            "Güney Kore",
+            "Japonya",
+            "Çin",
+            "Vietnam"
+         ],
+         "dogruCevap":"Güney Kore"
+      },
+      {
+         "soru":"'Paella' hangi ülkeye özgü bir yemektir?",
+         "secenekler":[
+            "Portekiz",
+            "Kolombiya",
+            "Şili",
+            "İspanya"
+         ],
+         "dogruCevap":"İspanya"
+      },
+      {
+         "soru":"'Falafel' genellikle hangi mutfağın bir parçasıdır?",
+         "secenekler":[
+            "Orta Doğu",
+            "Hint",
+            "Yunan",
+            "Türk"
+         ],
+         "dogruCevap":"Orta Doğu"
+      },
+      {
+         "soru":"'Baklava' en çok hangi ülkenin mutfağıyla özdeşleşmiştir?",
+         "secenekler":[
+            "Türkiye",
+            "Yunanistan",
+            "Lübnan",
+            "Suriye"
+         ],
+         "dogruCevap":"Türkiye"
+      },
+      {
+         "soru":"Avustralya mutfağında popüler olan ve yoğunlaştırılmış sütle yapılan tatlı nedir?",
+         "secenekler":[
+            "Lamington",
+            "Pavlova",
+            "Tim Tam",
+            "Vegemite"
+         ],
+         "dogruCevap":"Pavlova"
+      },
+      {
+         "soru":"'Borscht' hangi ülkeye özgü bir pancar çorbasıdır?",
+         "secenekler":[
+            "Rusya",
+            "Polonya",
+            "Ukrayna",
+            "Macaristan"
+         ],
+         "dogruCevap":"Ukrayna"
+      },
+      {
+         "soru":"Yunan mutfağında ünlü olan 'Moussaka' ne tür bir yemektir?",
+         "secenekler":[
+            "Etli güveç",
+            "Tatlı",
+            "Çorba",
+            "Salata"
+         ],
+         "dogruCevap":"Etli güveç"
+      },
+      {
+         "soru":"İngiliz mutfağında kahvaltılarda sıkça tüketilen 'Black Pudding' nedir?",
+         "secenekler":[
+            "Krepler",
+            "Kahvaltı sosisi",
+            "Kan sosisi",
+            "Yumurta yemeği"
+         ],
+         "dogruCevap":"Kan sosisi"
+      },
+      {
+         "soru":"ABD'de ünlü olan 'Mac and Cheese' ne tür bir yemektir?",
+         "secenekler":[
+            "Çorba",
+            "Makarna",
+            "Et yemeği",
+            "Tatlı"
+         ],
+         "dogruCevap":"Makarna"
+      },
+      {
+         "soru":"'Feijoada' hangi ülkenin ulusal yemeğidir?",
+         "secenekler":[
+            "Arjantin",
+            "Portekiz",
+            "Şili",
+            "Brezilya"
+         ],
+         "dogruCevap":"Brezilya"
+      },
+      {
+         "soru":"Hangi ülkenin mutfağına özgü 'Pierogi', içi doldurulmuş bir çeşit hamur işidir?",
+         "secenekler":[
+            "Polonya",
+            "Çekya",
+            "Macaristan",
+            "Romanya"
+         ],
+         "dogruCevap":"Polonya"
+      },
+      {
+         "soru":"'Pad Thai' hangi ülkenin meşhur bir sokak yemeğidir?",
+         "secenekler":[
+            "Vietnam",
+            "Tayland",
+            "Malezya",
+            "Endonezya"
+         ],
+         "dogruCevap":"Tayland"
+      },
+      {
+         "soru":"İtalyan mutfağında meşhur olan ve kremalı bir tatlı olan 'Tiramisu', hangi tatlarla yapılır?",
+         "secenekler":[
+            "Çikolata ve krema",
+            "Kahve ve peynir",
+            "Vanilya ve çilek",
+            "Meyve ve yoğurt"
+         ],
+         "dogruCevap":"Kahve ve peynir"
+      },
+      {
+         "soru":"Türk mutfağının ünlü yemeği 'Mantı' hangi malzeme ile servis edilir?",
+         "secenekler":[
+            "Yoğurt",
+            "Pilav",
+            "Salata",
+            "Zeytinyağı"
+         ],
+         "dogruCevap":"Yoğurt"
+      }
+   ],
+   "Ekonomi":[
+      {
+         "soru":"Bir malın fiyatı arttığında talebin azalması ve fiyatı düştüğünde talebin artması hangi ekonomik kavramı ifade eder?",
+         "secenekler":[
+            "Arz",
+            "Talep",
+            "Fiyat esnekliği",
+            "Talep kanunu"
+         ],
+         "dogruCevap":"Talep kanunu"
+      },
+      {
+         "soru":"Bir ülkenin toplam mal ve hizmet üretiminin parasal değeri nedir?",
+         "secenekler":[
+            "Enflasyon",
+            "Gayri Safi Yurtiçi Hasıla (GSYH)",
+            "İşsizlik oranı",
+            "Dış borç"
+         ],
+         "dogruCevap":"Gayri Safi Yurtiçi Hasıla (GSYH)"
+      },
+      {
+         "soru":"Bir ekonomide genel fiyat seviyesinin sürekli olarak yükselmesine ne denir?",
+         "secenekler":[
+            "Deflasyon",
+            "Enflasyon",
+            "Durgunluk",
+            "Resesyon"
+         ],
+         "dogruCevap":"Enflasyon"
+      },
+      {
+         "soru":"Arz talep dengesinde fiyatın sabit kaldığı duruma ne ad verilir?",
+         "secenekler":[
+            "Talep fazlası",
+            "Arz fazlası",
+            "Denge fiyatı",
+            "Piyasa tavanı"
+         ],
+         "dogruCevap":"Denge fiyatı"
+      },
+      {
+         "soru":"Bir ülkenin başka ülkelerden mal ve hizmet almasına ne denir?",
+         "secenekler":[
+            "İhracat",
+            "İthalat",
+            "Cari açık",
+            "Yatırım"
+         ],
+         "dogruCevap":"İthalat"
+      },
+      {
+         "soru":"Merkez Bankası'nın piyasadaki para miktarını kontrol etmek için kullandığı araçlara ne denir?",
+         "secenekler":[
+            "Maliye politikası",
+            "Para politikası",
+            "Vergi politikası",
+            "Bütçe açığı"
+         ],
+         "dogruCevap":"Para politikası"
+      },
+      {
+         "soru":"Ekonomide 'iş gücü' hangi faktörün bir parçasıdır?",
+         "secenekler":[
+            "Sermaye",
+            "Doğal kaynaklar",
+            "Emek",
+            "Teknoloji"
+         ],
+         "dogruCevap":"Emek"
+      },
+      {
+         "soru":"Bir şirketin hisselerinin kamuya arz edilmesi işlemine ne denir?",
+         "secenekler":[
+            "Halka arz",
+            "Borsa işlemi",
+            "Tahvil ihracı",
+            "Fon yönetimi"
+         ],
+         "dogruCevap":"Halka arz"
+      },
+      {
+         "soru":"Döviz kurlarının serbest piyasada arz ve talebe göre belirlendiği sisteme ne denir?",
+         "secenekler":[
+            "Sabit kur sistemi",
+            "Esnek kur sistemi",
+            "Döviz rezervi sistemi",
+            "Altın standardı"
+         ],
+         "dogruCevap":"Esnek kur sistemi"
+      },
+      {
+         "soru":"Bir ülkedeki insanların ortalama gelir düzeyini gösteren ölçü nedir?",
+         "secenekler":[
+            "GSYH",
+            "Enflasyon oranı",
+            "İşsizlik oranı",
+            "Kişi başına düşen gelir"
+         ],
+         "dogruCevap":"Kişi başına düşen gelir"
+      },
+      {
+         "soru":"Bir malın fiyatındaki %1'lik bir değişikliğin talepteki yüzdelik değişime oranı nedir?",
+         "secenekler":[
+            "Talep kanunu",
+            "Arz esnekliği",
+            "Fiyat esnekliği",
+            "Denge analizi"
+         ],
+         "dogruCevap":"Fiyat esnekliği"
+      },
+      {
+         "soru":"Küresel ticarette en çok kullanılan rezerv para birimi nedir?",
+         "secenekler":[
+            "Euro",
+            "Dolar",
+            "Yen",
+            "Sterlin"
+         ],
+         "dogruCevap":"Dolar"
+      },
+      {
+         "soru":"Keynesyen ekonomiye göre, hangi faktör ekonomiyi canlandırmak için en önemli araçtır?",
+         "secenekler":[
+            "Vergi artırımı",
+            "Para basımı",
+            "Kamu harcamaları",
+            "Dış borç"
+         ],
+         "dogruCevap":"Kamu harcamaları"
+      },
+      {
+         "soru":"Bir ülkede toplam mal ve hizmetlerin talebinin toplam arzı aşması durumunda ne oluşur?",
+         "secenekler":[
+            "Deflasyon",
+            "Enflasyon",
+            "Stagflasyon",
+            "Durgunluk"
+         ],
+         "dogruCevap":"Enflasyon"
+      },
+      {
+         "soru":"Hangi kuruluş uluslararası para ve finansal işbirliğini desteklemek amacıyla kurulmuştur?",
+         "secenekler":[
+            "Dünya Bankası",
+            "Birleşmiş Milletler",
+            "G20",
+            "Uluslararası Para Fonu"
+         ],
+         "dogruCevap":"Uluslararası Para Fonu"
+      }
+   ],
+   "Bilgisayar-Yazılım":[
+      {
+         "soru":"Bilgisayarın 'beyni' olarak bilinen bileşen hangisidir?",
+         "secenekler":[
+            "RAM",
+            "Anakart",
+            "İşlemci (CPU)",
+            "Sabit disk"
+         ],
+         "dogruCevap":"İşlemci (CPU)"
+      },
+      {
+         "soru":"Bilgisayar yazılımının iki ana türü nedir?",
+         "secenekler":[
+            "Uygulama yazılımı ve sistem yazılımı",
+            "Donanım ve yazılım",
+            "Kullanıcı arayüzü ve işletim sistemi",
+            "Veritabanı ve ağ yazılımı"
+         ],
+         "dogruCevap":"Uygulama yazılımı ve sistem yazılımı"
+      },
+      {
+         "soru":"Bir programlama dilinde tekrarlayan işlemleri gerçekleştirmek için kullanılan yapıya ne ad verilir?",
+         "secenekler":[
+            "Fonksiyon",
+            "Döngü",
+            "Değişken",
+            "Koşul ifadesi"
+         ],
+         "dogruCevap":"Döngü"
+      },
+      {
+         "soru":"Hangisi bir programlama dili değildir?",
+         "secenekler":[
+            "Python",
+            "Java",
+            "HTML",
+            "SQL"
+         ],
+         "dogruCevap":"HTML"
+      },
+      {
+         "soru":"Verilerin geçici olarak saklandığı ve işlemlerin hızlı yapılmasını sağlayan bellek türü nedir?",
+         "secenekler":[
+            "Sabit disk",
+            "ROM",
+            "RAM",
+            "SSD"
+         ],
+         "dogruCevap":"RAM"
+      },
+      {
+         "soru":"Bir web tarayıcısında kullanılan 'HTTP' protokolü ne anlama gelir?",
+         "secenekler":[
+            "Hypertext Transfer Protocol",
+            "Hyperlink Transfer Protocol",
+            "Hypertext Transmission Protocol",
+            "Hyperlink Transmission Protocol"
+         ],
+         "dogruCevap":"Hypertext Transfer Protocol"
+      },
+      {
+         "soru":"Hangisi bir yazılım geliştirme sürecinin aşamalarından biri değildir?",
+         "secenekler":[
+            "Analiz",
+            "Tasarım",
+            "Test",
+            "Üretim hatası"
+         ],
+         "dogruCevap":"Üretim hatası"
+      },
+      {
+         "soru":"Veritabanında, bir tablodaki her bir satırın benzersiz olarak tanımlanmasını sağlayan alan nedir?",
+         "secenekler":[
+            "Yabancı anahtar",
+            "Birincil anahtar",
+            "Index",
+            "Kolon"
+         ],
+         "dogruCevap":"Birincil anahtar"
+      },
+      {
+         "soru":"Hangi algoritma türü en kısa yol bulma problemleri için kullanılır?",
+         "secenekler":[
+            "Dijkstra algoritması",
+            "Bubble Sort",
+            "Binary Search",
+            "DFS (Derinlik Öncelikli Arama)"
+         ],
+         "dogruCevap":"Dijkstra algoritması"
+      },
+      {
+         "soru":"Bilgisayar ağlarında, 'IP adresi' hangi amaçla kullanılır?",
+         "secenekler":[
+            "Cihazları tanımlamak",
+            "Dosyaları sıkıştırmak",
+            "İnternet hızını artırmak",
+            "Donanımı test etmek"
+         ],
+         "dogruCevap":"Cihazları tanımlamak"
+      },
+      {
+         "soru":"Bir programlama dilinde 'if-else' yapısı ne için kullanılır?",
+         "secenekler":[
+            "Döngü oluşturmak",
+            "Koşulları kontrol etmek",
+            "Değişken tanımlamak",
+            "Hata yakalamak"
+         ],
+         "dogruCevap":"Koşulları kontrol etmek"
+      },
+      {
+         "soru":"Bir yazılım projesinde ekip üyeleri arasındaki kod paylaşımını ve versiyon kontrolünü sağlamak için hangi araç kullanılır?",
+         "secenekler":[
+            "Git",
+            "Linux",
+            "Docker",
+            "Vim"
+         ],
+         "dogruCevap":"Git"
+      },
+      {
+         "soru":"Hangisi bir işletim sistemi değildir?",
+         "secenekler":[
+            "Windows",
+            "Linux",
+            "GitHub",
+            "MacOS"
+         ],
+         "dogruCevap":"GitHub"
+      },
+      {
+         "soru":"Veri yapılarında 'FIFO' (First In, First Out) prensibiyle çalışan yapı nedir?",
+         "secenekler":[
+            "Yığın (Stack)",
+            "Kuyruk (Queue)",
+            "Liste (List)",
+            "Ağaç (Tree)"
+         ],
+         "dogruCevap":"Kuyruk (Queue)"
+      },
+      {
+         "soru":"Yazılım testinde, yazılımın beklenen sonuçlara göre doğru çalışıp çalışmadığını kontrol eden test türü nedir?",
+         "secenekler":[
+            "Fonksiyonel test",
+            "Performans testi",
+            "Güvenlik testi",
+            "Yük testi"
+         ],
+         "dogruCevap":"Fonksiyonel test"
+      },
+      {
+         "soru":"Hangi yazılım geliştirme yöntemi, sürekli değişime açık ve esnek bir yaklaşım sağlar?",
+         "secenekler":[
+            "Şelale (Waterfall)",
+            "Agile",
+            "Spiral",
+            "Prototip"
+         ],
+         "dogruCevap":"Agile"
+      },
+      {
+         "soru":"Bir web sitesinin görünümünü düzenlemek için kullanılan dil nedir?",
+         "secenekler":[
+            "JavaScript",
+            "Python",
+            "SQL",
+            "CSS"
+         ],
+         "dogruCevap":"CSS"
+      },
+      {
+         "soru":"Hangisi makine öğrenimi kütüphanelerinden biridir?",
+         "secenekler":[
+            "TensorFlow",
+            "Bootstrap",
+            "Django",
+            "React"
+         ],
+         "dogruCevap":"TensorFlow"
+      },
+      {
+         "soru":"Bir bilgisayar programında aynı ada sahip değişkenlere sahip olma durumunda oluşabilecek hata nedir?",
+         "secenekler":[
+            "Derleme hatası",
+            "Çalışma zamanı hatası",
+            "Çakışma hatası",
+            "Bellek sızıntısı"
+         ],
+         "dogruCevap":"Çakışma hatası"
+      },
+      {
+         "soru":"Bir bilgisayar ağında veri paketlerinin taşınmasını sağlayan temel protokol nedir?",
+         "secenekler":[
+            "TCP/IP",
+            "SMTP",
+            "FTP",
+            "DNS"
+         ],
+         "dogruCevap":"TCP/IP"
+      }
+   ],
+   "Asya Coğrafyası":[
+      {
+         "soru":"Asya kıtasının en yüksek dağı hangisidir?",
+         "secenekler":[
+            "K2",
+            "Kanchenjunga",
+            "Annapurna",
+            "Everest"
+         ],
+         "dogruCevap":"Everest"
+      },
+      {
+         "soru":"Asya kıtasında hangi ülke nüfus açısından dünyanın en kalabalık ülkesidir?",
+         "secenekler":[
+            "Hindistan",
+            "Çin",
+            "Endonezya",
+            "Rusya"
+         ],
+         "dogruCevap":"Çin"
+      },
+      {
+         "soru":"Hangisi Asya'da bulunan bir çöldür?",
+         "secenekler":[
+            "Sahra",
+            "Kalahari",
+            "Gobi",
+            "Atacama"
+         ],
+         "dogruCevap":"Gobi"
+      },
+      {
+         "soru":"Asya kıtasında hangi iki ülke arasında Himalaya Dağları yer alır?",
+         "secenekler":[
+            "Hindistan ve Çin",
+            "Çin ve Japonya",
+            "Hindistan ve Pakistan",
+            "Rusya ve Moğolistan"
+         ],
+         "dogruCevap":"Hindistan ve Çin"
+      },
+      {
+         "soru":"Hangisi Asya'nın en uzun nehri olarak bilinir?",
+         "secenekler":[
+            "Amazon",
+            "Yangtze",
+            "Nil",
+            "Mekong"
+         ],
+         "dogruCevap":"Yangtze"
+      },
+      {
+         "soru":"Hangi Asya ülkesi 17.000’den fazla adadan oluşur?",
+         "secenekler":[
+            "Endonezya",
+            "Filipinler",
+            "Japonya",
+            "Maldivler"
+         ],
+         "dogruCevap":"Endonezya"
+      },
+      {
+         "soru":"Hangisi Asya kıtasında yer alan bir göldür?",
+         "secenekler":[
+            "Victoria Gölü",
+            "Baykal Gölü",
+            "Superior Gölü",
+            "Tanganika Gölü"
+         ],
+         "dogruCevap":"Baykal Gölü"
+      },
+      {
+         "soru":"Asya kıtasında en fazla petrol rezervine sahip olan ülke hangisidir?",
+         "secenekler":[
+            "Kuveyt",
+            "İran",
+            "Irak",
+            "Suudi Arabistan"
+         ],
+         "dogruCevap":"Suudi Arabistan"
+      },
+      {
+         "soru":"Hangisi Asya kıtasında bir ada ülkedir?",
+         "secenekler":[
+            "Tayland",
+            "Bangladeş",
+            "Japonya",
+            "Afganistan"
+         ],
+         "dogruCevap":"Japonya"
+      },
+      {
+         "soru":"Hangi şehir Asya kıtasında yer alır ve iki kıta arasında köprü görevi görür?",
+         "secenekler":[
+            "İstanbul",
+            "Tokyo",
+            "Bangkok",
+            "Seul"
+         ],
+         "dogruCevap":"İstanbul"
+      },
+      {
+         "soru":"Hangisi Asya kıtasındaki en büyük iç denizlerden biridir?",
+         "secenekler":[
+            "Karadeniz",
+            "Hazar Denizi",
+            "Akdeniz",
+            "Baltık Denizi"
+         ],
+         "dogruCevap":"Hazar Denizi"
+      },
+      {
+         "soru":"Asya kıtasında yer alan en büyük ülke hangisidir?",
+         "secenekler":[
+            "Çin",
+            "Hindistan",
+            "Rusya",
+            "Kazakistan"
+         ],
+         "dogruCevap":"Rusya"
+      },
+      {
+         "soru":"Hangisi Asya'nın en büyük adasıdır?",
+         "secenekler":[
+            "Borneo",
+            "Sumatra",
+            "Japonya",
+            "Filipinler"
+         ],
+         "dogruCevap":"Borneo"
+      },
+      {
+         "soru":"Asya'nın en büyük yarımadası hangisidir?",
+         "secenekler":[
+            "Hindistan Yarımadası",
+            "Kamçatka Yarımadası",
+            "Malay Yarımadası",
+            "Arabistan Yarımadası"
+         ],
+         "dogruCevap":"Arabistan Yarımadası"
+      },
+      {
+         "soru":"Hangisi Asya kıtasındaki en yoğun nüfuslu şehirlerden biridir?",
+         "secenekler":[
+            "Mumbai",
+            "Tokyo",
+            "Karachi",
+            "Manila"
+         ],
+         "dogruCevap":"Tokyo"
+      },
+      {
+         "soru":"Hangisi Asya'da bulunan bir aktif volkanik dağdır?",
+         "secenekler":[
+            "Etna",
+            "Kilimanjaro",
+            "Fujiyama",
+            "Vesuvius"
+         ],
+         "dogruCevap":"Fujiyama"
+      },
+      {
+         "soru":"Hangisi Asya kıtasında yer alan bir boğazdır?",
+         "secenekler":[
+            "Cebelitarık Boğazı",
+            "Bering Boğazı",
+            "Magellan Boğazı",
+            "Cook Boğazı"
+         ],
+         "dogruCevap":"Bering Boğazı"
+      },
+      {
+         "soru":"Asya kıtasında hangi ülke dünyanın en büyük pirinç üreticisi olarak bilinir?",
+         "secenekler":[
+            "Vietnam",
+            "Tayland",
+            "Hindistan",
+            "Çin"
+         ],
+         "dogruCevap":"Çin"
+      },
+      {
+         "soru":"Hangi Asya ülkesi, 'Doğan Güneşin Ülkesi' olarak bilinir?",
+         "secenekler":[
+            "Japonya",
+            "Güney Kore",
+            "Çin",
+            "Tayvan"
+         ],
+         "dogruCevap":"Japonya"
+      },
+      {
+         "soru":"Hangi nehir Asya kıtasındaki Hindistan ve Pakistan arasında tartışmalı bir bölgeden akar?",
+         "secenekler":[
+            "Ganj",
+            "İndus",
+            "Brahmaputra",
+            "Mekong"
+         ],
+         "dogruCevap":"İndus"
+      }
+   ],
+   "Sinema":[
+      {
+         "soru":"Hangisi sinemada bir sahneyi çekerken kullanılan kamera hareketlerinden biridir?",
+         "secenekler":[
+            "Zoom",
+            "Pan",
+            "Tilt",
+            "Hepsi"
+         ],
+         "dogruCevap":"Hepsi"
+      },
+      {
+         "soru":"Oscar ödüllerinde en iyi film dalında ödül kazanan ilk yabancı dilde film hangisidir?",
+         "secenekler":[
+            "Parazit (Parasite)",
+            "Roma",
+            "Amour",
+            "Crouching Tiger, Hidden Dragon"
+         ],
+         "dogruCevap":"Parazit (Parasite)"
+      },
+      {
+         "soru":"Hangi oyuncu 'The Godfather' filminde Don Vito Corleone karakterini canlandırmıştır?",
+         "secenekler":[
+            "Al Pacino",
+            "Robert De Niro",
+            "Marlon Brando",
+            "James Caan"
+         ],
+         "dogruCevap":"Marlon Brando"
+      },
+      {
+         "soru":"Sinemada, 'montaj' terimi neyi ifade eder?",
+         "secenekler":[
+            "Kamera hareketlerini ayarlama",
+            "Ses ve görüntüleri birleştirme işlemi",
+            "Oyuncuların kostüm seçimi",
+            "Işıklandırma düzenlemeleri"
+         ],
+         "dogruCevap":"Ses ve görüntüleri birleştirme işlemi"
+      },
+      {
+         "soru":"Hangisi bir Alfred Hitchcock filmidir?",
+         "secenekler":[
+            "Citizen Kane",
+            "Psycho",
+            "Casablanca",
+            "The Shining"
+         ],
+         "dogruCevap":"Psycho"
+      },
+      {
+         "soru":"Steven Spielberg’in yönettiği ilk büyük gişe başarısı elde eden film hangisidir?",
+         "secenekler":[
+            "E.T.",
+            "Jurassic Park",
+            "Schindler's List",
+            "Jaws"
+         ],
+         "dogruCevap":"Jaws"
+      },
+      {
+         "soru":"Hangisi bir sinema ödül töreni değildir?",
+         "secenekler":[
+            "Oscar",
+            "Cannes",
+            "Grammy",
+            "BAFTA"
+         ],
+         "dogruCevap":"Grammy"
+      },
+      {
+         "soru":"Film yapımında 'script' terimi neyi ifade eder?",
+         "secenekler":[
+            "Kamera ayarları",
+            "Senaryo",
+            "Ses kayıt cihazı",
+            "Oyuncu seçimi"
+         ],
+         "dogruCevap":"Senaryo"
+      },
+      {
+         "soru":"Hangi film serisi Yüzüklerin Efendisi evreninde geçer?",
+         "secenekler":[
+            "Harry Potter",
+            "Hobbit",
+            "Star Wars",
+            "Narnia"
+         ],
+         "dogruCevap":"Hobbit"
+      },
+      {
+         "soru":"Hangisi 'Method Acting' (Yöntem Oyunculuğu) tekniğini en çok kullanan oyunculardan biri olarak bilinir?",
+         "secenekler":[
+            "Daniel Day-Lewis",
+            "Tom Cruise",
+            "Brad Pitt",
+            "Leonardo DiCaprio"
+         ],
+         "dogruCevap":"Daniel Day-Lewis"
+      },
+      {
+         "soru":"Hangi film Quentin Tarantino tarafından yönetilmiştir?",
+         "secenekler":[
+            "The Dark Knight",
+            "Pulp Fiction",
+            "Inception",
+            "Avatar"
+         ],
+         "dogruCevap":"Pulp Fiction"
+      },
+      {
+         "soru":"Sinema tarihinde çekilmiş ilk uzun metrajlı animasyon film hangisidir?",
+         "secenekler":[
+            "Buz Devri",
+            "Aslan Kral",
+            "Pamuk Prenses ve Yedi Cüceler",
+            "Bambi"
+         ],
+         "dogruCevap":"Pamuk Prenses ve Yedi Cüceler"
+      },
+      {
+         "soru":"Hangisi sinemada bir ışıklandırma terimidir?",
+         "secenekler":[
+            "Key light",
+            "Back light",
+            "Fill light",
+            "Hepsi"
+         ],
+         "dogruCevap":"Hepsi"
+      },
+      {
+         "soru":"Hangisi Stanley Kubrick'in yönettiği filmlerden biridir?",
+         "secenekler":[
+            "2001: A Space Odyssey",
+            "Pulp Fiction",
+            "Fight Club",
+            "Schindler's List"
+         ],
+         "dogruCevap":"2001: A Space Odyssey"
+      },
+      {
+         "soru":"Filmde 'post prodüksiyon' aşaması neyi kapsar?",
+         "secenekler":[
+            "Oyuncu seçimi",
+            "Senaryo yazımı",
+            "Çekimlerin düzenlenmesi ve efektlerin eklenmesi",
+            "Set tasarımı"
+         ],
+         "dogruCevap":"Çekimlerin düzenlenmesi ve efektlerin eklenmesi"
+      }
+   ],
+   "Uzay":[
+      {
+         "soru":"Güneş Sistemi'ndeki en büyük gezegen hangisidir?",
+         "secenekler":[
+            "Jüpiter",
+            "Satürn",
+            "Neptün",
+            "Uranüs"
+         ],
+         "dogruCevap":"Jüpiter"
+      },
+      {
+         "soru":"Ay’ın yüzeyindeki yerçekimi, Dünya’nın yerçekiminin yaklaşık olarak yüzde kaçı kadardır?",
+         "secenekler":[
+            "10%",
+            "16%",
+            "50%",
+            "75%"
+         ],
+         "dogruCevap":"16%"
+      },
+      {
+         "soru":"Güneş bir yıldız türü olarak hangi sınıfa aittir?",
+         "secenekler":[
+            "Kırmızı Dev",
+            "Beyaz Cüce",
+            "Sarı Cüce",
+            "Nötron Yıldızı"
+         ],
+         "dogruCevap":"Sarı Cüce"
+      },
+      {
+         "soru":"Uzay boşluğunda sesin duyulamamasının nedeni nedir?",
+         "secenekler":[
+            "Yerçekimi eksikliği",
+            "Havanın olmaması",
+            "Güneş ışınları",
+            "Atmosferin yoğunluğu"
+         ],
+         "dogruCevap":"Havanın olmaması"
+      },
+      {
+         "soru":"Bir ışık yılı yaklaşık olarak ne kadardır?",
+         "secenekler":[
+            "300.000 kilometre",
+            "9.46 trilyon kilometre",
+            "1 milyon kilometre",
+            "10 milyar kilometre"
+         ],
+         "dogruCevap":"9.46 trilyon kilometre"
+      },
+      {
+         "soru":"İlk insanlı Ay yolculuğu hangi uzay aracıyla yapılmıştır?",
+         "secenekler":[
+            "Apollo 11",
+            "Sputnik",
+            "Voyager 1",
+            "Challenger"
+         ],
+         "dogruCevap":"Apollo 11"
+      },
+      {
+         "soru":"Mars gezegeninin takma adı nedir?",
+         "secenekler":[
+            "Mavi Gezegen",
+            "Çöl Gezegen",
+            "Gaz Devi",
+            "Kırmızı Gezegen"
+         ],
+         "dogruCevap":"Kırmızı Gezegen"
+      },
+      {
+         "soru":"Samanyolu Galaksisi hangi galaksi türüne aittir?",
+         "secenekler":[
+            "Eliptik",
+            "Sarmal",
+            "Düzensiz",
+            "Halka"
+         ],
+         "dogruCevap":"Sarmal"
+      },
+      {
+         "soru":"Hubble Uzay Teleskobu hangi yörüngede bulunur?",
+         "secenekler":[
+            "Dünya",
+            "Ay",
+            "Mars",
+            "Jüpiter"
+         ],
+         "dogruCevap":"Dünya"
+      },
+      {
+         "soru":"Asteroit Kuşağı, Güneş Sistemi'nde hangi iki gezegen arasında yer alır?",
+         "secenekler":[
+            "Venüs ve Dünya",
+            "Mars ve Jüpiter",
+            "Jüpiter ve Satürn",
+            "Uranüs ve Neptün"
+         ],
+         "dogruCevap":"Mars ve Jüpiter"
+      },
+      {
+         "soru":"Uzaydaki en büyük kara deliklerden biri olan 'Sagittarius A*' hangi galaksinin merkezinde yer alır?",
+         "secenekler":[
+            "Samanyolu",
+            "Andromeda",
+            "Sombrero",
+            "Triangulum"
+         ],
+         "dogruCevap":"Samanyolu"
+      },
+      {
+         "soru":"Plüton neden 2006 yılında 'cüce gezegen' olarak sınıflandırılmıştır?",
+         "secenekler":[
+            "Kendi yörüngesini temizlemediği için",
+            "Atmosferi olmadığı için",
+            "Ayları olmadığı için",
+            "Güneş’e çok uzak olduğu için"
+         ],
+         "dogruCevap":"Kendi yörüngesini temizlemediği için"
+      },
+      {
+         "soru":"Dünya'ya en yakın yıldız hangisidir?",
+         "secenekler":[
+            "Sirius",
+            "Proxima Centauri",
+            "Alpha Centauri",
+            "Betelgeuse"
+         ],
+         "dogruCevap":"Proxima Centauri"
+      },
+      {
+         "soru":"Bir kara delikten ışığın bile kaçamamasının nedeni nedir?",
+         "secenekler":[
+            "Yüksek sıcaklık",
+            "Yoğun radyasyon",
+            "Yok edici gazlar",
+            "Aşırı yerçekimi"
+         ],
+         "dogruCevap":"Aşırı yerçekimi"
+      },
+      {
+         "soru":"İnsan yapımı ilk yapay uydu olan Sputnik 1, hangi yıl fırlatılmıştır?",
+         "secenekler":[
+            "1947",
+            "1957",
+            "1967",
+            "1977"
+         ],
+         "dogruCevap":"1957"
+      }
+   ],
+   "Türk Mutfağı":[
+      {
+         "soru":"Hangisi Türk mutfağının en bilinen çorbalarından biridir?",
+         "secenekler":[
+            "Mercimek çorbası",
+            "Gazpacho",
+            "Miso çorbası",
+            "Clam chowder"
+         ],
+         "dogruCevap":"Mercimek çorbası"
+      },
+      {
+         "soru":"İskender kebabı hangi şehirle özdeşleşmiştir?",
+         "secenekler":[
+            "İstanbul",
+            "Ankara",
+            "Antalya",
+            "Bursa"
+         ],
+         "dogruCevap":"Bursa"
+      },
+      {
+         "soru":"Hangisi bir tatlıdır?",
+         "secenekler":[
+            "Baklava",
+            "Kısır",
+            "Menemen",
+            "Çiğ köfte"
+         ],
+         "dogruCevap":"Baklava"
+      },
+      {
+         "soru":"Mantının iç harcında genellikle hangi malzeme bulunur?",
+         "secenekler":[
+            "Tavuk",
+            "Balık",
+            "Kıyma",
+            "Sebze"
+         ],
+         "dogruCevap":"Kıyma"
+      },
+      {
+         "soru":"Türk kahvesi hangi ekipmanla pişirilir?",
+         "secenekler":[
+            "Cezve",
+            "Tava",
+            "Fırın",
+            "Tencere"
+         ],
+         "dogruCevap":"Cezve"
+      },
+      {
+         "soru":"Hangi yemek Ege Bölgesi'nde zeytinyağı ile hazırlanır?",
+         "secenekler":[
+            "Keşkek",
+            "Tandır",
+            "Kebap",
+            "Enginar"
+         ],
+         "dogruCevap":"Enginar"
+      },
+      {
+         "soru":"Güveç yemeği genellikle hangi tür kapta pişirilir?",
+         "secenekler":[
+            "Toprak kap",
+            "Metal tava",
+            "Seramik tabak",
+            "Cam kase"
+         ],
+         "dogruCevap":"Toprak kap"
+      },
+      {
+         "soru":"Hangisi kahvaltıda sıklıkla tüketilen bir Türk yemeğidir?",
+         "secenekler":[
+            "Pilav",
+            "Mantı",
+            "Menemen",
+            "Dolma"
+         ],
+         "dogruCevap":"Menemen"
+      },
+      {
+         "soru":"Lahmacunun üstüne genellikle hangi malzeme eklenir?",
+         "secenekler":[
+            "Yoğurt",
+            "Domates sosu",
+            "Kaşar peyniri",
+            "Maydanoz ve limon"
+         ],
+         "dogruCevap":"Maydanoz ve limon"
+      },
+      {
+         "soru":"Hangisi bir tür börektir?",
+         "secenekler":[
+            "Su böreği",
+            "Kadayıf",
+            "Kazandibi",
+            "Revani"
+         ],
+         "dogruCevap":"Su böreği"
+      },
+      {
+         "soru":"Künefe tatlısının temel malzemesi nedir?",
+         "secenekler":[
+            "Baklava yufkası",
+            "Kadayıf",
+            "Un",
+            "Mısır nişastası"
+         ],
+         "dogruCevap":"Kadayıf"
+      },
+      {
+         "soru":"Türk mutfağında yapılan dolmanın iç harcında genellikle hangi malzeme bulunur?",
+         "secenekler":[
+            "Makarna",
+            "Pirinç",
+            "Bulgur",
+            "Nohut"
+         ],
+         "dogruCevap":"Pirinç"
+      },
+      {
+         "soru":"Cağ kebabı hangi ilimize aittir?",
+         "secenekler":[
+            "Erzurum",
+            "Adana",
+            "Gaziantep",
+            "Konya"
+         ],
+         "dogruCevap":"Erzurum"
+      },
+      {
+         "soru":"Hangisi bir sütlü tatlıdır?",
+         "secenekler":[
+            "Tulumba",
+            "Baklava",
+            "Helva",
+            "Kazandibi"
+         ],
+         "dogruCevap":"Kazandibi"
+      },
+      {
+         "soru":"Türk mutfağında yapılan \"zeytinyağlı yaprak sarma\" hangi yapraktan yapılır?",
+         "secenekler":[
+            "Asma yaprağı",
+            "Lahana yaprağı",
+            "Ispanak yaprağı",
+            "Pazı yaprağı"
+         ],
+         "dogruCevap":"Asma yaprağı"
+      }
+   ],
+   "Voleybol":[
+      {
+         "soru":"Voleybolda bir set genellikle kaç sayıya ulaşan takım tarafından kazanılır?",
+         "secenekler":[
+            "25",
+            "20",
+            "30",
+            "15"
+         ],
+         "dogruCevap":"25"
+      },
+      {
+         "soru":"Bir voleybol maçında toplam kaç set kazanılması gereklidir?",
+         "secenekler":[
+            "5",
+            "4",
+            "2",
+            "3"
+         ],
+         "dogruCevap":"3"
+      },
+      {
+         "soru":"Voleybolda bir takımın sahada kaç oyuncusu bulunur?",
+         "secenekler":[
+            "7",
+            "6",
+            "5",
+            "8"
+         ],
+         "dogruCevap":"6"
+      },
+      {
+         "soru":"Voleybolun ilk olarak hangi ülkede ortaya çıktığı düşünülmektedir?",
+         "secenekler":[
+            "Brezilya",
+            "Japonya",
+            "Rusya",
+            "ABD"
+         ],
+         "dogruCevap":"ABD"
+      },
+      {
+         "soru":"Hangisi bir voleybol pozisyonu değildir?",
+         "secenekler":[
+            "Pasör",
+            "Smaçör",
+            "Orta Oyuncu",
+            "Libero"
+         ],
+         "dogruCevap":"Orta Oyuncu"
+      },
+      {
+         "soru":"Türk Kadın Milli Voleybol Takımı hangi lakapla anılmaktadır?",
+         "secenekler":[
+            "Filenin Sultanları",
+            "Filenin Kraliçeleri",
+            "Voleybol Yıldızları",
+            "Smaç Şampiyonları"
+         ],
+         "dogruCevap":"Filenin Sultanları"
+      },
+      {
+         "soru":"Türk Kadın Milli Voleybol Takımı, 2023 Avrupa Şampiyonası'nda hangi ülkeyi yenerek şampiyon olmuştur?",
+         "secenekler":[
+            "İtalya",
+            "Polonya",
+            "Sırbistan",
+            "Hollanda"
+         ],
+         "dogruCevap":"Sırbistan"
+      },
+      {
+         "soru":"Hangisi voleybolda bir savunma hareketidir?",
+         "secenekler":[
+            "Smaç",
+            "Servis",
+            "Blok",
+            "Pas"
+         ],
+         "dogruCevap":"Blok"
+      },
+      {
+         "soru":"Türk Kadın Milli Voleybol Takımı'nın tarihi başarılarından biri olan 2003 Avrupa Şampiyonası'nda hangi dereceyi almıştır?",
+         "secenekler":[
+            "İkinci",
+            "Birinci",
+            "Üçüncü",
+            "Dördüncü"
+         ],
+         "dogruCevap":"İkinci"
+      },
+      {
+         "soru":"Voleybolda topun aynı oyuncu tarafından üst üste kaç kez oynanması yasaktır?",
+         "secenekler":[
+            "3",
+            "2",
+            "1",
+            "Sınırsız"
+         ],
+         "dogruCevap":"2"
+      },
+      {
+         "soru":"Türk Kadın Milli Voleybol Takımı’nın kaptanı olan ve dünya çapında tanınan oyuncu kimdir?",
+         "secenekler":[
+            "Zehra Güneş",
+            "Eda Erdem Dündar",
+            "Cansu Özbay",
+            "Melissa Vargas"
+         ],
+         "dogruCevap":"Eda Erdem Dündar"
+      },
+      {
+         "soru":"Türk Kadın Milli Voleybol Takımı hangi federasyonun düzenlediği turnuvalara katılmaktadır?",
+         "secenekler":[
+            "FIVB",
+            "UEFA",
+            "FIFA",
+            "IBA"
+         ],
+         "dogruCevap":"FIVB"
+      },
+      {
+         "soru":"Türk Kadın Milli Voleybol Takımı'nın başantrenörü 2023 yılında kimdir?",
+         "secenekler":[
+            "Giovanni Guidetti",
+            "Bernardo Rezende",
+            "Zoran Terzić",
+            "Daniele Santarelli"
+         ],
+         "dogruCevap":"Daniele Santarelli"
+      },
+      {
+         "soru":"Voleybolda 'ace' terimi ne anlama gelir?",
+         "secenekler":[
+            "Topun rakip sahaya doğrudan servisle sayı kazandırması",
+            "Topun dışarı çıkması",
+            "Blok yapılması",
+            "Pas atılması"
+         ],
+         "dogruCevap":"Topun rakip sahaya doğrudan servisle sayı kazandırması"
+      },
+      {
+         "soru":"Türk Kadın Milli Voleybol Takımı ilk kez hangi yıl Olimpiyat Oyunları’na katılmıştır?",
+         "secenekler":[
+            "2008",
+            "2002",
+            "2024",
+            "2012"
+         ],
+         "dogruCevap":"2012"
+      }
+   ]
 }
